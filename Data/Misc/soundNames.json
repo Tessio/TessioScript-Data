@@ -1,0 +1,1346 @@
+[
+    {
+        "AudioName":  "MP_CCTV_SOUNDSET",
+        "SoundIDs":  [
+                         "Zoom",
+                         "Background_heli",
+                         "Pan",
+                         "Change_Cam",
+                         "Background_Plane",
+                         "BACKGROUND"
+                     ]
+    },
+    {
+        "AudioName":  "hash_864FAAD6",
+        "SoundIDs":  [
+                         "hash_134A257D",
+                         "hash_2C29359A",
+                         "hash_2FDF4D64",
+                         "hash_69D3EE70",
+                         "hash_77D37405",
+                         "hash_9307B42F"
+                     ]
+    },
+    {
+        "AudioName":  "hash_B6D25705",
+        "SoundIDs":  [
+                         "hash_1540F06E",
+                         "hash_66B02D4D",
+                         "hash_70C7AAB0",
+                         "hash_BD287194",
+                         "hash_CB5595E4",
+                         "hash_DDEA79E7"
+                     ]
+    },
+    {
+        "AudioName":  "hash_4A3ECA75",
+        "SoundIDs":  [
+                         "hash_08B26E99",
+                         "hash_0C892982",
+                         "hash_BC8F2CFC",
+                         "hash_F20BE25B"
+                     ]
+    },
+    {
+        "AudioName":  "hash_4FE93B3B",
+        "SoundIDs":  [
+                         "hash_12A40937",
+                         "hash_14B6A36D",
+                         "hash_43D2AF25",
+                         "hash_5D8626DA",
+                         "hash_77CD4C76"
+                     ]
+    },
+    {
+        "AudioName":  "hash_3784FA53",
+        "SoundIDs":  [
+                         "hash_12A40937",
+                         "hash_14B6A36D",
+                         "hash_43D2AF25",
+                         "hash_5D8626DA",
+                         "hash_77CD4C76"
+                     ]
+    },
+    {
+        "AudioName":  "hash_DE533038",
+        "SoundIDs":  [
+                         "hash_12A40937",
+                         "hash_14B6A36D",
+                         "hash_43D2AF25",
+                         "hash_5D8626DA",
+                         "hash_77CD4C76"
+                     ]
+    },
+    {
+        "AudioName":  "hash_74CCE590",
+        "SoundIDs":  [
+                         "hash_AFB1861C"
+                     ]
+    },
+    {
+        "AudioName":  "hash_DF84A53C",
+        "SoundIDs":  [
+                         "hash_2C376551",
+                         "hash_64BBFEE6",
+                         "hash_88138DF7",
+                         "hash_9E90C5C1",
+                         "hash_C5133C00"
+                     ]
+    },
+    {
+        "AudioName":  "hash_F1CA80EB",
+        "SoundIDs":  [
+                         "hash_0FADBBE9",
+                         "hash_1C87C4AC",
+                         "hash_52EC5617",
+                         "hash_71412EC8",
+                         "hash_B16AB6C7",
+                         "hash_C4385BA9",
+                         "hash_C9206CAC",
+                         "hash_DC1C69DD"
+                     ]
+    },
+    {
+        "AudioName":  "hash_03909505",
+        "SoundIDs":  [
+                         "hash_0025D56F",
+                         "hash_0F1FC8BA",
+                         "hash_103E60ED",
+                         "hash_2ECFB7C7",
+                         "hash_35799BE1",
+                         "hash_36C4CDAE",
+                         "hash_3770DD71",
+                         "hash_541424AF",
+                         "hash_5FDF2100",
+                         "hash_728E4B44",
+                         "hash_7EFF3F4C",
+                         "hash_9E7E8974",
+                         "hash_BA9CCE00",
+                         "hash_D11A3FCE",
+                         "hash_F3285EB1",
+                         "hash_F79269F0",
+                         "hash_FFBA5C67"
+                     ]
+    },
+    {
+        "AudioName":  "hash_A9AB8B5D",
+        "SoundIDs":  [
+                         "hash_0FADBBE9",
+                         "hash_311437F1",
+                         "delete",
+                         "hash_928E8984",
+                         "hash_A5061912",
+                         "hash_AE1E57A6",
+                         "hash_BE045CA0",
+                         "hash_C9206CAC",
+                         "hash_DF0733C3"
+                     ]
+    },
+    {
+        "AudioName":  "hash_D9B4103A",
+        "SoundIDs":  [
+                         "hash_0FADBBE9",
+                         "delete",
+                         "hash_4AF6196F",
+                         "hash_5A2635A1",
+                         "hash_928E8984",
+                         "hash_A22D97C6",
+                         "hash_AE1E57A6",
+                         "hash_B05602B1",
+                         "hash_BE045CA0",
+                         "hash_C9206CAC",
+                         "hash_E4F1615D",
+                         "hash_FD91D2D9"
+                     ]
+    },
+    {
+        "AudioName":  "hash_A6FDDC37",
+        "SoundIDs":  [
+                         "hash_0FADBBE9",
+                         "delete",
+                         "hash_5A2635A1",
+                         "hash_928E8984",
+                         "hash_A22D97C6",
+                         "hash_AE1E57A6",
+                         "hash_BE045CA0",
+                         "hash_C9206CAC",
+                         "hash_E4F1615D"
+                     ]
+    },
+    {
+        "AudioName":  "hash_4DC908BC",
+        "SoundIDs":  [
+                         "hash_B7A9705E"
+                     ]
+    },
+    {
+        "AudioName":  "hash_FA4A5AA0",
+        "SoundIDs":  [
+                         "hash_272D7AF0",
+                         "hash_68B26443",
+                         "hash_7095A2E5",
+                         "hash_73166A67",
+                         "hash_F8A503BD"
+                     ]
+    },
+    {
+        "AudioName":  "hash_F35C567B",
+        "SoundIDs":  [
+                         "hash_1CD604C7",
+                         "hash_1D9588D3",
+                         "hash_278D8734",
+                         "hash_295691A9",
+                         "hash_2DD30479",
+                         "hash_2E764125",
+                         "hash_2F36B434",
+                         "hash_3A27F18A",
+                         "hash_3A4C2AD2",
+                         "hash_3B662889",
+                         "hash_3F456728",
+                         "hash_4D36C349",
+                         "hash_58E67768",
+                         "hash_5E0683A1",
+                         "hash_5EA16D74",
+                         "hash_66D075D0",
+                         "hash_693583AD",
+                         "hash_6C5B941A",
+                         "hash_6E4E65C2",
+                         "hash_741C684A",
+                         "hash_783B4853",
+                         "hash_7C119D58",
+                         "hash_81EE601E",
+                         "hash_85CAA9B1",
+                         "hash_872DC888",
+                         "hash_88EAACA7",
+                         "hash_8967B4F3",
+                         "hash_9299C95B",
+                         "hash_96B412A3",
+                         "hash_A9355DCD",
+                         "hash_B2930A14",
+                         "hash_B2B5325E",
+                         "hash_B6633EBB",
+                         "hash_C69DE3FF",
+                         "hash_CB13D282",
+                         "hash_D6900C9F",
+                         "hash_D8A7EFA5",
+                         "hash_DF711959",
+                         "hash_F33C83B0",
+                         "hash_F9AFB48F",
+                         "hash_FC5892CB",
+                         "hash_FD16169E",
+                         "hash_FE2A352C"
+                     ]
+    },
+    {
+        "AudioName":  "hash_F5E3A26A",
+        "SoundIDs":  [
+                         "hash_098D79EF",
+                         "hash_0E1FB36F",
+                         "hash_2C804FE3",
+                         "hash_2E071B5A",
+                         "hash_4316CC09",
+                         "hash_65A7D8E9",
+                         "hash_68605A36",
+                         "hash_84D676D4",
+                         "hash_A54AE7B7",
+                         "hash_A5B8CAA9",
+                         "hash_A717F898",
+                         "hash_B86AEE5B",
+                         "hash_CC7CCD1B",
+                         "hash_CC8B3905",
+                         "hash_D0AACEF7",
+                         "hash_D3A39366"
+                     ]
+    },
+    {
+        "AudioName":  "hash_1D46A6A2",
+        "SoundIDs":  [
+                         "hash_094AA1CF",
+                         "hash_14568F28",
+                         "hash_1CD2CF66",
+                         "hash_1E9A99F8",
+                         "hash_20893292",
+                         "hash_2C014CA6",
+                         "hash_4BFB42D1",
+                         "hash_550447A9",
+                         "hash_5DE0AD3E",
+                         "hash_6773257D",
+                         "hash_6E717A95",
+                         "hash_711D02A4",
+                         "hash_80AB931C",
+                         "hash_8F707C18",
+                         "hash_CE6FDD6B",
+                         "hash_DE78F17E",
+                         "hash_E33D8630",
+                         "hash_E7CF07CC",
+                         "hash_F44BA31C",
+                         "hash_F99E15D0",
+                         "hash_FE18F3AF"
+                     ]
+    },
+    {
+        "AudioName":  "hash_2B8F97E3",
+        "SoundIDs":  [
+                         "hash_2A8AB5A3",
+                         "hash_5E50325A",
+                         "hash_7A483054",
+                         "hash_7EEFC2AB",
+                         "hash_8C646009",
+                         "hash_E32ABC94"
+                     ]
+    },
+    {
+        "AudioName":  "hash_28F1A4B2",
+        "SoundIDs":  [
+                         "hash_0F73C28F",
+                         "hash_12149FB5",
+                         "hash_22193226",
+                         "hash_7EDEBA11"
+                     ]
+    },
+    {
+        "AudioName":  "hash_71F56AB4",
+        "SoundIDs":  [
+                         "hash_034AC965",
+                         "hash_4DB89637",
+                         "hash_73ED40F4",
+                         "hash_F079D3CB"
+                     ]
+    },
+    {
+        "AudioName":  "hash_9EE1B887",
+        "SoundIDs":  [
+                         "hash_0EF893F3",
+                         "hash_154A8D10",
+                         "hash_1C87C4AC",
+                         "hash_2367833D",
+                         "hash_24309CE5",
+                         "hash_2ABBD1EA",
+                         "hash_354BA5F1",
+                         "hash_4B677779",
+                         "hash_4DB4100C",
+                         "hash_4E28FFA4",
+                         "hash_4E59CF20",
+                         "hash_52EC5617",
+                         "hash_61772F02",
+                         "hash_627EE95B",
+                         "hash_6393DE22",
+                         "hash_66BCD0FB",
+                         "hash_6AC088AE",
+                         "hash_71412EC8",
+                         "hash_71EB8377",
+                         "hash_755408D8",
+                         "hash_7AD19407",
+                         "hash_7BBD82A3",
+                         "hash_7C1DF8FC",
+                         "hash_92ED9A7F",
+                         "hash_99C60C65",
+                         "hash_B16AB6C7",
+                         "hash_C2CE5848",
+                         "hash_C96718E0",
+                         "hash_D6F3B79D",
+                         "hash_D7986706",
+                         "hash_D93FD7F5",
+                         "hash_E77E3826",
+                         "hash_ED8CB141",
+                         "hash_FE4FE808"
+                     ]
+    },
+    {
+        "AudioName":  "hash_71F765A5",
+        "SoundIDs":  [
+                         "hash_0FADBBE9",
+                         "hash_1C87C4AC",
+                         "hash_52EC5617",
+                         "hash_71412EC8",
+                         "hash_B16AB6C7",
+                         "hash_C9206CAC",
+                         "hash_DC1C69DD"
+                     ]
+    },
+    {
+        "AudioName":  "celebration_soundset",
+        "SoundIDs":  [
+                         "hash_01C153E8",
+                         "hash_162B9254",
+                         "hash_1ABAB5F2",
+                         "hash_285597B8",
+                         "hash_2990DC27",
+                         "hash_31705146",
+                         "hash_38C3E764",
+                         "hash_3F5E4E06",
+                         "hash_414BA515",
+                         "hash_5604B61B",
+                         "hash_8AE19798",
+                         "hash_BF64FF14",
+                         "hash_CE069E21",
+                         "hash_E3E7CEC8"
+                     ]
+    },
+    {
+        "AudioName":  "hash_CE1684EE",
+        "SoundIDs":  [
+                         "hash_1CE18604",
+                         "hash_5096B9D3",
+                         "hash_96CCCE93",
+                         "hash_CCF0B21D",
+                         "hash_E325B5EF"
+                     ]
+    },
+    {
+        "AudioName":  "hash_BDCEFF26",
+        "SoundIDs":  [
+                         "hash_1968CF47",
+                         "hash_1E68FCBF",
+                         "hash_1F128770",
+                         "hash_358FA542",
+                         "back",
+                         "hash_375CDE60",
+                         "hash_5DBB468B",
+                         "hash_72053F0F",
+                         "hash_88377846",
+                         "hash_8D8EB712",
+                         "nav",
+                         "hash_B15CBDC8",
+                         "hash_B72C1812",
+                         "hash_BC8334BC",
+                         "hash_BCD5D5EA",
+                         "hash_C9206CAC",
+                         "hash_D06D611D",
+                         "hash_E37D50DA",
+                         "hash_FC5892CB"
+                     ]
+    },
+    {
+        "AudioName":  "hash_02E1C47B",
+        "SoundIDs":  [
+                         "hash_B80D07FB",
+                         "hash_C4745412"
+                     ]
+    },
+    {
+        "AudioName":  "hud_frontend_default_soundset",
+        "SoundIDs":  [
+                         "hash_0831BF3A",
+                         "hash_0FF184BF",
+                         "hash_127C7398",
+                         "hash_1940AFF0",
+                         "hash_1EF8E587",
+                         "hash_24F3598E",
+                         "hash_2505A370",
+                         "hash_2AF74846",
+                         "hash_304D4EDD",
+                         "hash_327E2AF1",
+                         "hash_32E772B7",
+                         "back",
+                         "hash_427AC52F",
+                         "hash_45021B6F",
+                         "hash_47C7D8E0",
+                         "hash_52D70C15",
+                         "hash_576FCE6D",
+                         "hash_5AAB67F2",
+                         "hash_5ACE1D3E",
+                         "hash_5AFBAFCC",
+                         "hash_5BBC81C5",
+                         "info",
+                         "hash_701BBADD",
+                         "hash_728E4B44",
+                         "hash_786C470B",
+                         "hash_7B427928",
+                         "hash_7D665B58",
+                         "hash_7E5EB7EE",
+                         "timer",
+                         "hash_83602C5F",
+                         "hash_9C6CDA49",
+                         "hash_9D8CDDC8",
+                         "hash_9DAA6FDF",
+                         "hash_A2C8D0BA",
+                         "hash_A33059CD",
+                         "hash_A34ED6D7",
+                         "hash_A3DF8456",
+                         "hash_A3E9EDCB",
+                         "hash_A4E1D8EE",
+                         "hash_C23BA639",
+                         "hash_C9206CAC",
+                         "hash_D9A9DA9D",
+                         "hash_DB83DCDB",
+                         "hash_DC1C69DD",
+                         "hash_DFE085DB",
+                         "hash_E273BB17",
+                         "hash_EBD19C80",
+                         "hash_F1AB59B4",
+                         "hash_FF420245"
+                     ]
+    },
+    {
+        "AudioName":  "hash_56A69671",
+        "SoundIDs":  [
+                         "multiplayer",
+                         "trevor",
+                         "franklin",
+                         "hash_4724C3D7",
+                         "michael",
+                         "hash_936118C6",
+                         "hash_AF2D3169",
+                         "hash_B0993933",
+                         "hash_E22DC8F9"
+                     ]
+    },
+    {
+        "AudioName":  "hash_D720DE84",
+        "SoundIDs":  [
+                         "hash_01B99502",
+                         "hash_439A2AE5",
+                         "hash_AD6DAC78",
+                         "hash_B4D50FC1",
+                         "hash_D236FFEA"
+                     ]
+    },
+    {
+        "AudioName":  "hash_88B9FE21",
+        "SoundIDs":  [
+                         "hash_01B99502",
+                         "hash_439A2AE5",
+                         "hash_AD6DAC78",
+                         "hash_B4D50FC1",
+                         "hash_D236FFEA"
+                     ]
+    },
+    {
+        "AudioName":  "hash_24D5ABF4",
+        "SoundIDs":  [
+                         "push",
+                         "hash_C8BE9F5A",
+                         "hash_D92CB76D"
+                     ]
+    },
+    {
+        "AudioName":  "hash_52EFB3F8",
+        "SoundIDs":  [
+                         "push",
+                         "hash_C8BE9F5A",
+                         "hash_D92CB76D"
+                     ]
+    },
+    {
+        "AudioName":  "hash_108569E9",
+        "SoundIDs":  [
+                         "hash_69D3EE70",
+                         "push",
+                         "hash_C8BE9F5A",
+                         "hash_D92CB76D"
+                     ]
+    },
+    {
+        "AudioName":  "hash_D6C82934",
+        "SoundIDs":  [
+                         "hash_69D3EE70",
+                         "push",
+                         "hash_C8BE9F5A",
+                         "hash_D92CB76D"
+                     ]
+    },
+    {
+        "AudioName":  "hash_C233E417",
+        "SoundIDs":  [
+                         "hash_69D3EE70",
+                         "push",
+                         "hash_C8BE9F5A",
+                         "hash_D92CB76D"
+                     ]
+    },
+    {
+        "AudioName":  "hash_A37F454A",
+        "SoundIDs":  [
+                         "hash_08B26E99",
+                         "hash_0C892982"
+                     ]
+    },
+    {
+        "AudioName":  "gtao_impexp_enter_exit_garage_sounds",
+        "SoundIDs":  [
+                         "hash_36456E1B",
+                         "hash_7A0057E1",
+                         "hash_DCE793FA",
+                         "hash_E650048D"
+                     ]
+    },
+    {
+        "AudioName":  "hash_24892FBE",
+        "SoundIDs":  [
+                         "hash_51F58699",
+                         "hash_6C64B5DE",
+                         "hash_6EC05F46",
+                         "hash_6FF67912",
+                         "hash_78BD1491",
+                         "hash_D6AD822D",
+                         "hash_E21240AA",
+                         "hash_F683F149"
+                     ]
+    },
+    {
+        "AudioName":  "hash_D5EA1C9A",
+        "SoundIDs":  [
+                         "hash_51F58699",
+                         "hash_6C64B5DE",
+                         "hash_6EC05F46",
+                         "hash_6FF67912",
+                         "hash_78BD1491",
+                         "hash_D6AD822D",
+                         "hash_E21240AA",
+                         "hash_F683F149"
+                     ]
+    },
+    {
+        "AudioName":  "hash_7A313A91",
+        "SoundIDs":  [
+                         "hash_1C7DB655",
+                         "hash_FBBD263D"
+                     ]
+    },
+    {
+        "AudioName":  "hash_EC759F39",
+        "SoundIDs":  [
+                         "hash_1C7DB655",
+                         "hash_2E748F3B",
+                         "hash_FBBD263D"
+                     ]
+    },
+    {
+        "AudioName":  "hash_5CF394EC",
+        "SoundIDs":  [
+                         "hash_1A8F5487",
+                         "hash_27F589F9",
+                         "hash_495A1C08",
+                         "hash_93D9E56D",
+                         "hash_C30E28BA"
+                     ]
+    },
+    {
+        "AudioName":  "hash_6A050072",
+        "SoundIDs":  [
+                         "hash_FBCFEFE1"
+                     ]
+    },
+    {
+        "AudioName":  "hash_5A5960A6",
+        "SoundIDs":  [
+                         "hash_01E6AB52",
+                         "hash_07B6AACD",
+                         "hash_0A74A861",
+                         "hash_0B641723",
+                         "hash_11102E2A",
+                         "hash_17693458",
+                         "hash_42AF7BEA",
+                         "hash_5534050D",
+                         "hash_7E296634",
+                         "hash_858383F3",
+                         "hash_88959B31",
+                         "hash_90809DA1",
+                         "hash_9912B1F5",
+                         "hash_B96742F3",
+                         "hash_D13A9DE4",
+                         "hash_DE970876",
+                         "hash_E97AFABF",
+                         "hash_EDE15E7F",
+                         "hash_F93BD2BF"
+                     ]
+    },
+    {
+        "AudioName":  "hash_EE1ECE42",
+        "SoundIDs":  [
+                         "hash_8745713B",
+                         "hash_D716B80C",
+                         "countdown"
+                     ]
+    },
+    {
+        "AudioName":  "hash_6FB6F85D",
+        "SoundIDs":  [
+                         "hash_03990962",
+                         "hash_2505A370",
+                         "hash_315A8038",
+                         "hash_48086940",
+                         "start",
+                         "hash_9D8CDDC8"
+                     ]
+    },
+    {
+        "AudioName":  "hash_A3A68BB5",
+        "SoundIDs":  [
+                         "hash_1940AFF0",
+                         "hash_30598B71",
+                         "success",
+                         "loop",
+                         "start",
+                         "hash_894A7A12",
+                         "hash_9D8CDDC8"
+                     ]
+    },
+    {
+        "AudioName":  "hash_C55C68A0",
+        "SoundIDs":  [
+                         "hash_0C0D2E9D",
+                         "hash_26D0DF8E",
+                         "hash_510613B8",
+                         "hash_5DC67246",
+                         "hash_5F60559B",
+                         "hash_619301BE",
+                         "hash_69913C2A",
+                         "hash_70386BDF",
+                         "hash_714F6A0C",
+                         "hash_7901B452",
+                         "hash_7CFB6740",
+                         "hash_A936A9AB",
+                         "hash_D69CEC5C"
+                     ]
+    },
+    {
+        "AudioName":  "hash_A73AFDC0",
+        "SoundIDs":  [
+                         "hash_32B3FE32"
+                     ]
+    },
+    {
+        "AudioName":  "hash_D3544425",
+        "SoundIDs":  [
+                         "hash_8686E982",
+                         "hash_8C550483",
+                         "hash_EF33F213"
+                     ]
+    },
+    {
+        "AudioName":  "hash_C3C2CAA5",
+        "SoundIDs":  [
+                         "hash_1AECDE4D",
+                         "hash_70D210E3",
+                         "hash_9C04E783",
+                         "hash_D34EE1E6"
+                     ]
+    },
+    {
+        "AudioName":  "hash_1940874E",
+        "SoundIDs":  [
+                         "hash_A34B59C6",
+                         "hash_E1687708"
+                     ]
+    },
+    {
+        "AudioName":  "hash_BEC579DC",
+        "SoundIDs":  [
+                         "hash_7789BCE1"
+                     ]
+    },
+    {
+        "AudioName":  "hash_D0ECA5EA",
+        "SoundIDs":  [
+                         "hash_0CEC3CEC",
+                         "hash_10F37F60",
+                         "hash_15421EF6",
+                         "hash_193C154D",
+                         "hash_1D55A40A",
+                         "hash_23956809",
+                         "hash_392D629C",
+                         "hash_471BCC56",
+                         "hash_479AC7BE",
+                         "hash_4940750D",
+                         "hash_592FD88C",
+                         "hash_6177A154",
+                         "hash_6AC8F6E8",
+                         "hash_6ECE8040",
+                         "hash_8B8BD090",
+                         "hash_8D583E7A",
+                         "hash_9090AFE3",
+                         "hash_9DEBAE65",
+                         "hash_A02C83AD",
+                         "hash_A59035A4",
+                         "hash_AA0BADBB",
+                         "hash_B212C5D5",
+                         "hash_BC0045D8",
+                         "hash_E590D538",
+                         "hash_EF57CDCB",
+                         "hash_F3782C2F",
+                         "hash_FBA00168"
+                     ]
+    },
+    {
+        "AudioName":  "hash_89AC2990",
+        "SoundIDs":  [
+                         "hash_05CB777F",
+                         "hash_3E907757",
+                         "hash_8745713B",
+                         "hash_BAF9CBF6",
+                         "hash_D716B80C",
+                         "countdown"
+                     ]
+    },
+    {
+        "AudioName":  "hash_F9420D35",
+        "SoundIDs":  [
+                         "hash_812C088E",
+                         "hash_D716B80C",
+                         "countdown"
+                     ]
+    },
+    {
+        "AudioName":  "hash_7D85CA95",
+        "SoundIDs":  [
+                         "hash_077E9145",
+                         "hash_21106F99",
+                         "hash_88F29488",
+                         "hash_ACA9CBA9",
+                         "switch"
+                     ]
+    },
+    {
+        "AudioName":  "hash_6F4BE025",
+        "SoundIDs":  [
+                         "hash_FB69C6B2"
+                     ]
+    },
+    {
+        "AudioName":  "hash_0C52C92D",
+        "SoundIDs":  [
+                         "hash_05678B84",
+                         "hash_293214E2",
+                         "hash_5073873C",
+                         "hash_63434CE9",
+                         "hash_666D3738",
+                         "hash_812DA544",
+                         "hash_8277A553",
+                         "hash_A07E5DB8",
+                         "hash_B14390E0",
+                         "hash_BBAF2DDC",
+                         "hash_DF1BE629",
+                         "hash_E99E1EC1"
+                     ]
+    },
+    {
+        "AudioName":  "hash_852F62FF",
+        "SoundIDs":  [
+                         "hash_05256F65",
+                         "hash_14797F87",
+                         "hash_78C698E6",
+                         "hash_83E3AEB6",
+                         "hash_9CDFE3CA",
+                         "hash_BFF6FE1E",
+                         "hash_CB515CE9",
+                         "hash_E0F7572F",
+                         "hash_E6B3EAF8",
+                         "hash_EE671AC2"
+                     ]
+    },
+    {
+        "AudioName":  "hash_D1BF90F6",
+        "SoundIDs":  [
+                         "hash_101A1E32",
+                         "hash_3890C993",
+                         "hash_3C544754",
+                         "hash_55B8A1B8",
+                         "hash_62A2D014",
+                         "hash_66F2D11F",
+                         "hash_6F147FF7",
+                         "hash_7146FA95",
+                         "hash_B23CF09D",
+                         "hash_B2B0A105",
+                         "hash_CF3F978B",
+                         "hash_E9F2A8E3"
+                     ]
+    },
+    {
+        "AudioName":  "hash_41C33EEF",
+        "SoundIDs":  [
+                         "hash_4FDAE55E",
+                         "hash_AB2A77BB",
+                         "hash_D9DF2C89"
+                     ]
+    },
+    {
+        "AudioName":  "hash_4FFE72C5",
+        "SoundIDs":  [
+                         "hash_85DE4FD9"
+                     ]
+    },
+    {
+        "AudioName":  "hash_06638FEF",
+        "SoundIDs":  [
+                         "hash_F7F05AB7"
+                     ]
+    },
+    {
+        "AudioName":  "hash_EA77F7FC",
+        "SoundIDs":  [
+                         "hash_510AD6D3",
+                         "hash_54B9AEB7",
+                         "hash_98196613",
+                         "hash_A92328BB",
+                         "hash_C25459A0",
+                         "hash_C35582B1",
+                         "hash_CC8BCB73"
+                     ]
+    },
+    {
+        "AudioName":  "hash_D5676608",
+        "SoundIDs":  [
+                         "hash_0CB05A19",
+                         "hash_59CD6870",
+                         "hash_70468D4A",
+                         "hash_A9B32005",
+                         "hash_F1AFC397",
+                         "hash_FA26825D",
+                         "hash_FB025813"
+                     ]
+    },
+    {
+        "AudioName":  "hash_29A11603",
+        "SoundIDs":  [
+                         "hash_0CB05A19",
+                         "hash_59CD6870",
+                         "hash_70468D4A",
+                         "hash_A9B32005",
+                         "hash_F1AFC397",
+                         "hash_FA26825D",
+                         "hash_FB025813"
+                     ]
+    },
+    {
+        "AudioName":  "hash_860473AA",
+        "SoundIDs":  [
+                         "hash_E7D5E94E"
+                     ]
+    },
+    {
+        "AudioName":  "gtao_script_doors_sounds",
+        "SoundIDs":  [
+                         "hash_03CBD2BE",
+                         "hash_1F7A16FC",
+                         "hash_269C07F7",
+                         "hash_2AFD30D2",
+                         "hash_35CFBC75",
+                         "hash_37F2FCB6",
+                         "hash_412FE47B",
+                         "hash_52C5B479",
+                         "hash_5404D07D",
+                         "hash_5B351BB0",
+                         "hash_5B99DD40",
+                         "hash_6891BCD5",
+                         "hash_6E943773",
+                         "hash_70EE0A86",
+                         "hash_861D65BD",
+                         "hash_86A1C92B",
+                         "hash_9B5670B9",
+                         "hash_A74F1337",
+                         "hash_A9212373",
+                         "hash_B5F556A2",
+                         "hash_BEA5EB86",
+                         "hash_E77B17A4"
+                     ]
+    },
+    {
+        "AudioName":  "gtao_script_doors_faded_screen_sounds",
+        "SoundIDs":  [
+                         "hash_03CBD2BE",
+                         "hash_1F7A16FC",
+                         "hash_21DFFC72",
+                         "hash_269C07F7",
+                         "hash_2AFD30D2",
+                         "hash_35CFBC75",
+                         "hash_37F2FCB6",
+                         "hash_412FE47B",
+                         "hash_5404D07D",
+                         "hash_5B351BB0",
+                         "hash_6891BCD5",
+                         "hash_6E943773",
+                         "hash_70EE0A86",
+                         "hash_861D65BD",
+                         "hash_86A1C92B",
+                         "hash_9B5670B9",
+                         "hash_A74F1337",
+                         "hash_A9212373",
+                         "hash_B5F556A2",
+                         "hash_BEA5EB86",
+                         "hash_CBF7F789",
+                         "hash_E77B17A4"
+                     ]
+    },
+    {
+        "AudioName":  "hash_D8A6EAB3",
+        "SoundIDs":  [
+                         "hash_475EDE69",
+                         "hash_77A4E7E3",
+                         "hash_AA425A94",
+                         "hash_AB024277",
+                         "hash_C9F21DF6"
+                     ]
+    },
+    {
+        "AudioName":  "hash_ADCF4CCD",
+        "SoundIDs":  [
+                         "hash_475EDE69",
+                         "hash_77A4E7E3",
+                         "hash_AA425A94",
+                         "hash_AB024277",
+                         "hash_C9F21DF6"
+                     ]
+    },
+    {
+        "AudioName":  "hash_550BBF40",
+        "SoundIDs":  [
+                         "hash_29C9331F",
+                         "hash_35498684",
+                         "hash_B0BF885A",
+                         "hash_DB6433C9",
+                         "hash_FBB05112"
+                     ]
+    },
+    {
+        "AudioName":  "hash_30F46F3F",
+        "SoundIDs":  [
+                         "hash_2AE4C6F5",
+                         "hash_39536DED",
+                         "hash_3FD6A0DA",
+                         "hash_65869483",
+                         "hash_B4B396E6",
+                         "hash_D0961B9E"
+                     ]
+    },
+    {
+        "AudioName":  "hash_8F6997B1",
+        "SoundIDs":  [
+                         "hash_00BEA479",
+                         "hash_093E6677",
+                         "hash_101A1E32",
+                         "hash_132B18ED",
+                         "hash_14C3350C",
+                         "hash_16F0C4B7",
+                         "hash_1F8AC29B",
+                         "hash_24A28918",
+                         "hash_26256A23",
+                         "hash_2BDB93EC",
+                         "hash_2C7A4EC2",
+                         "hash_3647BC9E",
+                         "hash_3890C993",
+                         "hash_3A6520D0",
+                         "hash_41E04849",
+                         "hash_4A9A1222",
+                         "hash_4E72AC92",
+                         "hash_51A3D9B2",
+                         "hash_5436B7B1",
+                         "hash_6B087987",
+                         "hash_6CDED5A7",
+                         "hash_74C07897",
+                         "hash_799B5BE9",
+                         "hash_7E820BFC",
+                         "hash_7F6E49DE",
+                         "hash_81DE9756",
+                         "hash_8277A553",
+                         "hash_840B9AF6",
+                         "hash_847D88EB",
+                         "hash_857E0658",
+                         "hash_8AE4E502",
+                         "hash_8E907545",
+                         "hash_97E88A65",
+                         "hash_A1D39739",
+                         "hash_AE2E4B5C",
+                         "hash_B14390E0",
+                         "hash_B1710402",
+                         "hash_B5978F1E",
+                         "hash_B89F4D1A",
+                         "hash_B931A8B5",
+                         "hash_BB41D964",
+                         "hash_BF8290D5",
+                         "hash_C65D6786",
+                         "hash_D0105E18",
+                         "hash_D34EBFC5",
+                         "hash_D3D95D8A",
+                         "hash_D4675504",
+                         "hash_D71FD89F",
+                         "hash_DA8417E5",
+                         "hash_E19DADF0",
+                         "hash_E2645AEE",
+                         "hash_E3426EFD",
+                         "hash_EAC31FC3",
+                         "hash_F320A167",
+                         "hash_F85455F6",
+                         "hash_FABAFD60"
+                     ]
+    },
+    {
+        "AudioName":  "hash_9002C433",
+        "SoundIDs":  [
+                         "hash_ABA0F452",
+                         "hash_F4B7E2EF"
+                     ]
+    },
+    {
+        "AudioName":  "hash_685A1A6D",
+        "SoundIDs":  [
+                         "hash_0B773827"
+                     ]
+    },
+    {
+        "AudioName":  "hash_3BD211D6",
+        "SoundIDs":  [
+                         "hash_05CB777F",
+                         "hash_3E907757",
+                         "hash_682B9477",
+                         "hash_8745713B",
+                         "hash_BAF9CBF6",
+                         "hash_D716B80C"
+                     ]
+    },
+    {
+        "AudioName":  "hash_BF8A54B8",
+        "SoundIDs":  [
+                         "hash_05CB777F",
+                         "hash_3E907757",
+                         "hash_682B9477",
+                         "hash_8745713B",
+                         "hash_9FA43ED1",
+                         "hash_BAF9CBF6",
+                         "hash_D716B80C",
+                         "hash_DB37AEA7"
+                     ]
+    },
+    {
+        "AudioName":  "hash_82B9D476",
+        "SoundIDs":  [
+                         "hash_05256F65",
+                         "hash_14797F87",
+                         "hash_78C698E6",
+                         "hash_9CDFE3CA",
+                         "hash_BFF6FE1E",
+                         "hash_CB515CE9",
+                         "hash_E0F7572F",
+                         "hash_E6B3EAF8",
+                         "hash_EE671AC2"
+                     ]
+    },
+    {
+        "AudioName":  "hash_841CCAA3",
+        "SoundIDs":  [
+                         "hash_D98CC24B"
+                     ]
+    },
+    {
+        "AudioName":  "hash_114E1775",
+        "SoundIDs":  [
+                         "hash_101A1E32",
+                         "hash_3890C993",
+                         "hash_3C544754",
+                         "hash_55B8A1B8",
+                         "hash_62A2D014",
+                         "hash_66F2D11F",
+                         "hash_6F147FF7",
+                         "hash_7146FA95",
+                         "hash_B23CF09D",
+                         "hash_B2B0A105",
+                         "hash_CF3F978B",
+                         "hash_E9F2A8E3"
+                     ]
+    },
+    {
+        "AudioName":  "hash_144C1267",
+        "SoundIDs":  [
+                         "hash_293214E2",
+                         "hash_63434CE9",
+                         "hash_8277A553",
+                         "hash_A07E5DB8",
+                         "hash_B14390E0",
+                         "hash_BBAF2DDC",
+                         "hash_DF1BE629",
+                         "hash_E99E1EC1"
+                     ]
+    },
+    {
+        "AudioName":  "hash_692F56AB",
+        "SoundIDs":  [
+                         "hash_65EEB8F3"
+                     ]
+    },
+    {
+        "AudioName":  "hash_67C7CBE8",
+        "SoundIDs":  [
+                         "hash_44041930"
+                     ]
+    },
+    {
+        "AudioName":  "hash_60B45EDB",
+        "SoundIDs":  [
+                         "hash_081FC4FD",
+                         "hash_372B3A6C",
+                         "hash_700292DC",
+                         "hash_A3227FF9"
+                     ]
+    },
+    {
+        "AudioName":  "hash_1865C8F4",
+        "SoundIDs":  [
+                         "hash_FE46D355"
+                     ]
+    },
+    {
+        "AudioName":  "hash_8104A2FE",
+        "SoundIDs":  [
+                         "hash_081DD70C",
+                         "hash_091A99D9",
+                         "hash_2ACDF83E",
+                         "hash_362C2B07",
+                         "hash_409B7CA8",
+                         "hash_43C9333C",
+                         "hash_583DFF3C",
+                         "hash_69A6CEC5",
+                         "hash_881969D9",
+                         "hash_8A364107",
+                         "hash_8EE97D58",
+                         "hash_9CFBF97A",
+                         "hash_AAAE09BB",
+                         "hash_B699090A",
+                         "hash_DC897843",
+                         "hash_EDFD0206"
+                     ]
+    },
+    {
+        "AudioName":  "hash_AA368CF0",
+        "SoundIDs":  [
+                         "hash_0F806735",
+                         "hash_1C678382",
+                         "hash_2EA235F5",
+                         "hash_377AB582",
+                         "hash_55983D17",
+                         "hash_8865B785",
+                         "hash_D4C41E7E",
+                         "hash_E3E3E25B"
+                     ]
+    },
+    {
+        "AudioName":  "hash_496C13DC",
+        "SoundIDs":  [
+                         "hash_D1A959A6"
+                     ]
+    },
+    {
+        "AudioName":  "hash_939376EE",
+        "SoundIDs":  [
+                         "hash_039921D8",
+                         "hash_BA1FF41A"
+                     ]
+    },
+    {
+        "AudioName":  "hash_228F3C64",
+        "SoundIDs":  [
+                         "hash_0BED584C",
+                         "hash_11A52128",
+                         "hash_1D682F39",
+                         "hash_36B0F523",
+                         "hash_593CF220",
+                         "hash_6E130876",
+                         "hash_90AA859B",
+                         "hash_95B33F3B",
+                         "hash_AFFDD401",
+                         "hash_C5B6339F",
+                         "hash_C9E2ED9E",
+                         "hash_F27A3105",
+                         "hash_FA0677E7"
+                     ]
+    },
+    {
+        "AudioName":  "hash_34143DB1",
+        "SoundIDs":  [
+                         "hash_0BED584C",
+                         "hash_11A52128",
+                         "hash_1D682F39",
+                         "hash_36B0F523",
+                         "hash_6E130876",
+                         "hash_7B9EE3F6",
+                         "hash_90AA859B",
+                         "hash_95B33F3B",
+                         "hash_AFFDD401",
+                         "hash_C5B6339F",
+                         "hash_C9E2ED9E",
+                         "hash_F27A3105",
+                         "hash_FA0677E7"
+                     ]
+    },
+    {
+        "AudioName":  "hash_370AA4FE",
+        "SoundIDs":  [
+                         "hash_0BED584C",
+                         "hash_11A52128",
+                         "hash_1D682F39",
+                         "hash_36B0F523",
+                         "hash_6E130876",
+                         "hash_7B9EE3F6",
+                         "hash_90AA859B",
+                         "hash_95B33F3B",
+                         "hash_AFFDD401",
+                         "hash_C5B6339F",
+                         "hash_C9E2ED9E",
+                         "hash_F27A3105",
+                         "hash_FA0677E7"
+                     ]
+    },
+    {
+        "AudioName":  "hash_6B83A0FE",
+        "SoundIDs":  [
+                         "hash_0BED584C",
+                         "hash_11A52128",
+                         "hash_1D682F39",
+                         "hash_36B0F523",
+                         "hash_593CF220",
+                         "hash_6E130876",
+                         "hash_90AA859B",
+                         "hash_95B33F3B",
+                         "hash_AFFDD401",
+                         "hash_C5B6339F",
+                         "hash_C9E2ED9E",
+                         "hash_F27A3105",
+                         "hash_FA0677E7"
+                     ]
+    },
+    {
+        "AudioName":  "hash_3B91E5E4",
+        "SoundIDs":  [
+                         "hash_A9DFEB7E"
+                     ]
+    },
+    {
+        "AudioName":  "hash_0B2AD811",
+        "SoundIDs":  [
+                         "hash_13306A9B",
+                         "hash_3A770027",
+                         "hash_8396256B",
+                         "hash_A9B32005",
+                         "hash_C9200261",
+                         "hash_F1AFC397",
+                         "hash_FB025813",
+                         "hash_FFC528E4"
+                     ]
+    },
+    {
+        "AudioName":  "hash_F09C7816",
+        "SoundIDs":  [
+                         "hash_13306A9B",
+                         "hash_3A770027",
+                         "hash_A9B32005",
+                         "hash_C9200261",
+                         "hash_F1AFC397",
+                         "hash_FB025813",
+                         "hash_FFC528E4"
+                     ]
+    },
+    {
+        "AudioName":  "hash_5F8529E3",
+        "SoundIDs":  [
+                         "hash_2B62268D",
+                         "hash_2CFE212A",
+                         "hash_5D0000DD",
+                         "hash_884237D8",
+                         "hash_89F23D95",
+                         "hash_9DF7FD80",
+                         "hash_A9D91869",
+                         "hash_C3AC5A50",
+                         "hash_E7C5BED6"
+                     ]
+    }
+]
