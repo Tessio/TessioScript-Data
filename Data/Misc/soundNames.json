@@ -1,1350 +1,1350 @@
 [
     {
-        "AudioName ": "MP_CCTV_SOUNDSET ",
-        "SoundIDs ": [
-            "Zoom ",
-            "Background_heli ",
-            "Pan ",
-            "Change_Cam ",
-            "Background_Plane ",
-            "BACKGROUND "
+        "AudioName": "MP_CCTV_SOUNDSET",
+        "SoundIDs": [
+            "Zoom",
+            "Background_heli",
+            "Pan",
+            "Change_Cam",
+            "Background_Plane",
+            "BACKGROUND"
         ]
     },
     {
-        "AudioName ": "MP_PROPERTIES_ELEVATOR_DOORS ",
-        "SoundIDs ": [
-            "BUTTON ",
-            "opened ",
-            "FAKE_ARRIVE ",
-            "Closed ",
-            "OPENING ",
-            "Closing "
+        "AudioName": "MP_PROPERTIES_ELEVATOR_DOORS",
+        "SoundIDs": [
+            "BUTTON",
+            "opened",
+            "FAKE_ARRIVE",
+            "Closed",
+            "OPENING",
+            "Closing"
         ]
     },
     {
-        "AudioName ": "MP_RADIO_SFX ",
-        "SoundIDs ": [
-            "Retune_Low ",
-            "Off_Low ",
-            "On_High ",
-            "Off_High ",
-            "Retune_High ",
-            "On_Low "
+        "AudioName": "MP_RADIO_SFX",
+        "SoundIDs": [
+            "Retune_Low",
+            "Off_Low",
+            "On_High",
+            "Off_High",
+            "Retune_High",
+            "On_Low"
         ]
     },
     {
-        "AudioName ": "gtao_buzz_property_sounds ",
-        "SoundIDs ": [
-            "DOOR_OPEN ",
-            "DOOR_CLOSE ",
-            "Door_Opening ",
-            "Door_Closing "
+        "AudioName": "gtao_buzz_property_sounds",
+        "SoundIDs": [
+            "DOOR_OPEN",
+            "DOOR_CLOSE",
+            "Door_Opening",
+            "Door_Closing"
         ]
     },
     {
-        "AudioName ": "rappel_run ",
-        "SoundIDs ": [
-            "PlayMoveStart ",
-            "BaseSound ",
-            "HeavySound ",
-            "PlayMoveStop ",
-            "BumpSound "
-        ]
-    },
-    {
-        "AudioName ": "rappel_sprint ",
-        "SoundIDs ": [
-            "PlayMoveStart ",
-            "BaseSound ",
-            "HeavySound ",
-            "PlayMoveStop ",
-            "BumpSound "
-        ]
-    },
-    {
-        "AudioName ": "rappel_walk ",
-        "SoundIDs ": [
-            "PlayMoveStart ",
-            "BaseSound ",
-            "HeavySound ",
-            "PlayMoveStop ",
-            "BumpSound "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Auto_Store_Sounds ",
-        "SoundIDs ": [
-            "Change_Vehicle "
+        "AudioName": "rappel_run",
+        "SoundIDs": [
+            "PlayMoveStart",
+            "BaseSound",
+            "HeavySound",
+            "PlayMoveStop",
+            "BumpSound"
+        ]
+    },
+    {
+        "AudioName": "rappel_sprint",
+        "SoundIDs": [
+            "PlayMoveStart",
+            "BaseSound",
+            "HeavySound",
+            "PlayMoveStop",
+            "BumpSound"
+        ]
+    },
+    {
+        "AudioName": "rappel_walk",
+        "SoundIDs": [
+            "PlayMoveStart",
+            "BaseSound",
+            "HeavySound",
+            "PlayMoveStop",
+            "BumpSound"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Auto_Store_Sounds",
+        "SoundIDs": [
+            "Change_Vehicle"
         ]
     },
     {
-        "AudioName ": "BustedSounds ",
-        "SoundIDs ": [
-            "ScreenFlash ",
-            "TextHit ",
-            "MP_Impact ",
-            "BED ",
-            "MP_Flash "
+        "AudioName": "BustedSounds",
+        "SoundIDs": [
+            "ScreenFlash",
+            "TextHit",
+            "MP_Impact",
+            "BED",
+            "MP_Flash"
         ]
     },
     {
-        "AudioName ": "hash_f1ca80eb_iutizhl_collision ",
-        "SoundIDs ": [
-            "CONFIRM ",
-            "hash_1c87c4ac_evkfudj_collision ",
-            "Login ",
-            "Mouse_Click ",
-            "SELL ",
-            "hash_c4385ba9_kaeilph_collision ",
-            "ERROR ",
-            "Cancel "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_SMG_Hangar_Computer_Sounds ",
-        "SoundIDs ": [
-            "hash_0025d56f_sqvxhu_collision ",
-            "CLICK_BACK ",
-            "Click_Link ",
-            "Click_Special ",
-            "Click_Cancel ",
-            "Show_Sell_Menu ",
-            "Show_Source_Menu ",
-            "Click_Generic ",
-            "Business_Restart ",
-            "EXIT ",
-            "click_hover ",
-            "click_keyboard_nav ",
-            "hash_ba9cce00_epawfsi_collision ",
-            "Click_Fail ",
-            "Show_Overview_Menu ",
-            "Business_Shutdown ",
-            "click_keyboard "
-        ]
-    },
-    {
-        "AudioName ": "HUD_RACE_CREATOR_SOUNDSET ",
-        "SoundIDs ": [
-            "CONFIRM ",
-            "PLACE_CHECKPOINT ",
-            "DELETE ",
-            "hash_928e8984_iopsau_collision ",
-            "PLACE_PICKUP ",
-            "EDIT ",
-            "scroll ",
-            "ERROR ",
-            "SELECT_START_GRID_POSITION "
-        ]
-    },
-    {
-        "AudioName ": "HUD_MISSION_CREATOR_SOUNDSET ",
-        "SoundIDs ": [
-            "CONFIRM ",
-            "DELETE ",
-            "SELECT_LOCATION ",
-            "PLACE_VEHICLE ",
-            "hash_928e8984_iopsau_collision ",
-            "PLACE_WEAPON ",
-            "EDIT ",
-            "PLACE_ENEMY ",
-            "scroll ",
-            "ERROR ",
-            "ADD_SPAWN_POINT ",
-            "PLACE_OBJECT "
-        ]
-    },
-    {
-        "AudioName ": "HUD_DEATHMATCH_SOUNDSET ",
-        "SoundIDs ": [
-            "CONFIRM ",
-            "DELETE ",
-            "PLACE_VEHICLE ",
-            "hash_928e8984_iopsau_collision ",
-            "PLACE_WEAPON ",
-            "EDIT ",
-            "scroll ",
-            "ERROR ",
-            "ADD_SPAWN_POINT "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Heists_HUD_Sounds ",
-        "SoundIDs ": [
-            "Scope_Spot_POI "
-        ]
-    },
-    {
-        "AudioName ": "MP_LOBBY_SOUNDS ",
-        "SoundIDs ": [
-            "Whoosh_1s_R_to_L ",
-            "hash_68b26443_amsfldm_collision ",
-            "Whoosh_1s_L_to_R ",
-            "CAR_BIKE_WHOOSH ",
-            "BOATS_PLANES_HELIS_BOOM "
-        ]
-    },
-    {
-        "AudioName ": "hash_f35c567b_tivxpsd_collision ",
-        "SoundIDs ": [
-            "PICKUP_WEAPON_SMOKEGRENADE ",
-            "PICKUP_WEAPON_MICROSMG ",
-            "PICKUP_WEAPON_KNIFE ",
-            "PICKUP_WEAPON_HAMMER ",
-            "PICKUP_WEAPON_MOLOTOV ",
-            "PICKUP_WEAPON_GRENADELAUNCHER ",
-            "PICKUP_WEAPON_MINIGUN ",
-            "hash_3a27f18a_otsjobf_collision ",
-            "PICKUP_WEAPON_SMG ",
-            "PICKUP_WEAPON_APPISTOL ",
-            "hash_3f456728_aphhem_collision ",
-            "PICKUP_WEAPON_RPG ",
-            "PICKUP_WEAPON_HEAVYRIFLE ",
-            "PICKUP_WEAPON_GRENADE ",
-            "PICKUP_WEAPON_NIGHTSTICK ",
-            "PICKUP_WEAPON_LASSO ",
-            "PICKUP_WEAPON_HEAVYSNIPER ",
-            "PICKUP_WEAPON_PISTOL50 ",
-            "PICKUP_WEAPON_BULLPUPSHOTGUN ",
-            "PICKUP_WEAPON_ASSAULTSMG ",
-            "PICKUP_WEAPON_LOUDHAILER ",
-            "PICKUP_WEAPON_STICKYBOMB ",
-            "PICKUP_WEAPON_BAT ",
-            "PICKUP_WEAPON_MG ",
-            "PICKUP_WEAPON_CROWBAR ",
-            "PICKUP_WEAPON_GOLFCLUB ",
-            "PICKUP_WEAPON_COMBATPISTOL ",
-            "pickup_weapon_assaultshotgun ",
-            "PICKUP_WEAPON_SAWNOFFSHOTGUN ",
-            "PICKUP_WEAPON_PUMPSHOTGUN ",
-            "PICKUP_WEAPON_COMBATMG ",
-            "PICKUP_WEAPON_ADVANCEDRIFLE ",
-            "pickup_weapon_default ",
-            "PICKUP_WEAPON_PETROLCAN ",
-            "PICKUP_WEAPON_FIREEXTINGUISHER ",
-            "PICKUP_WEAPON_PROGRAMMABLEAR ",
-            "PICKUP_WEAPON_RUBBERGUN ",
-            "PICKUP_WEAPON_CARBINERIFLE ",
-            "pickup_weapon_assaultrifle ",
-            "PICKUP_WEAPON_PISTOL ",
-            "WEAPON_PURCHASE ",
-            "PICKUP_WEAPON_STUNGUN ",
-            "PICKUP_WEAPON_SNIPERRIFLE "
-        ]
-    },
-    {
-        "AudioName ": "hash_f5e3a26a_teejeab_collision ",
-        "SoundIDs ": [
-            "PICKUP_VEHICLE_HEALTH_STANDARD ",
-            "hash_0e1fb36f_kpjkzrv_collision ",
-            "PICKUP_VEHICLE_WEAPON_STICKYBOMB ",
-            "PICKUP_VEHICLE_WEAPON_SAWNOFF ",
-            "PICKUP_VEHICLE_ARMOUR_STANDARD ",
-            "PICKUP_VEHICLE_WEAPON_SMOKEGRENADE ",
-            "PICKUP_VEHICLE_WEAPON_ASSAULTSMG ",
-            "PICKUP_VEHICLE_WEAPON_MOLOTOV ",
-            "PICKUP_VEHICLE_WEAPON_PISTOL ",
-            "PICKUP_VEHICLE_CUSTOM_SCRIPT ",
-            "PICKUP_VEHICLE_WEAPON_GRENADE ",
-            "PICKUP_VEHICLE_WEAPON_MICROSMG ",
-            "PICKUP_VEHICLE_WEAPON_SMG ",
-            "PICKUP_VEHICLE_WEAPON_APPISTOL ",
-            "PICKUP_VEHICLE_WEAPON_COMBATPISTOL ",
-            "PICKUP_VEHICLE_WEAPON_PISTOL50 "
-        ]
-    },
-    {
-        "AudioName ": "HUD_FRONTEND_STANDARD_PICKUPS_NPC_SOUNDSET ",
-        "SoundIDs ": [
-            "PICKUP_HANDCUFF_KEY ",
-            "PICKUP_MONEY_MED_BAG ",
-            "PICKUP_HEALTH_SNACK ",
-            "PICKUP_MONEY_PURSE ",
-            "PICKUP_MONEY_DEP_BAG ",
-            "PICKUP_CUSTOM_SCRIPT ",
-            "PICKUP_ARMOUR_STANDARD ",
-            "PICKUP_AMMO_BULLET_MP ",
-            "PICKUP_MONEY_WALLET ",
-            "PICKUP_PARACHUTE ",
-            "PICKUP_PORTABLE_CRATE_UNFIXED ",
-            "PICKUP_MONEY_PAPER_BAG ",
-            "PICKUP_PORTABLE_PACKAGE ",
-            "PICKUP_HEALTH_STANDARD ",
-            "PICKUP_MONEY_CASE ",
-            "PICKUP_MONEY_SECURITY_CASE ",
-            "PICKUP_CAMERA ",
-            "PICKUP_SUBMARINE ",
-            "PICKUP_DEFAULT ",
-            "pickup_ammo_missile_mp ",
-            "PICKUP_MONEY_VARIABLE "
-        ]
-    },
-    {
-        "AudioName ": "HUD_FRONTEND_MP_COLLECTABLE_SOUNDS ",
-        "SoundIDs ": [
-            "Deliver_Pick_Up ",
-            "Enemy_Deliver ",
-            "Friend_Deliver ",
-            "Friend_Pick_Up ",
-            "Dropped ",
-            "Enemy_Pick_Up "
-        ]
-    },
-    {
-        "AudioName ": "PI_Menu_Sounds ",
-        "SoundIDs ": [
-            "Remote_Control_Close ",
-            "Remote_Control_Open ",
-            "Remote_Control_Fob ",
-            "Toggle_Lights "
-        ]
-    },
-    {
-        "AudioName ": "RESPAWN_ONLINE_SOUNDSET ",
-        "SoundIDs ": [
-            "HIT ",
-            "Accept_Ghosting_Mode ",
-            "Faster_Bar_Full ",
-            "Faster_Click "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Exec_SecuroServ_Computer_Sounds ",
-        "SoundIDs ": [
-            "hash_0ef893f3_wjegnir_collision ",
-            "hash_154a8d10_fklwdpf_collision ",
-            "hash_1c87c4ac_evkfudj_collision ",
-            "hash_2367833d_syliagg_collision ",
-            "hash_24309ce5_appvmtl_collision ",
-            "hash_2abbd1ea_avovudfa_collision ",
-            "hash_354ba5f1_lppecea_collision ",
-            "hash_4b677779_wqevigi_collision ",
-            "Logout ",
-            "hash_4e28ffa4_ajxfxvyr_collision ",
-            "hash_4e59cf20_uuiyrih_collision ",
-            "Login ",
-            "hash_61772f02_kdlmfhi_collision ",
-            "hash_627ee95b_mcgwvbc_collision ",
-            "hash_6393de22_wuwkuud_collision ",
-            "hash_66bcd0fb_kddveeba_collision ",
-            "hash_6ac088ae_xotykbn_collision ",
-            "Mouse_Click ",
-            "hash_71eb8377_eslczza_collision ",
-            "hash_755408d8_jrecmpb_collision ",
-            "BUY ",
-            "hash_7bbd82a3_miyzxgu_collision ",
-            "Popup_Confirm_Success ",
-            "hash_92ed9a7f_hqpdira_collision ",
-            "hash_99c60c65_gwdgvea_collision ",
-            "SELL ",
-            "hash_c2ce5848_ahpqehom_collision ",
-            "hash_c96718e0_gbypxtka_collision ",
-            "hash_d6f3b79d_hgtxmzz_collision ",
-            "hash_d7986706_beqgatk_collision ",
-            "hash_d93fd7f5_awtuajp_collision ",
-            "Popup_Cancel ",
-            "Navigate ",
-            "Popup_Confirm_Fail "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Exec_SecuroServ_Warehouse_PC_Sounds ",
-        "SoundIDs ": [
-            "CONFIRM ",
-            "hash_1c87c4ac_evkfudj_collision ",
-            "Login ",
-            "Mouse_Click ",
-            "SELL ",
-            "ERROR ",
-            "Cancel "
-        ]
-    },
-    {
-        "AudioName ": "celebration_soundset ",
-        "SoundIDs ": [
-            "hash_01c153e8_ebdddld_collision ",
-            "SCREEN_FLASH ",
-            "number_count ",
-            "ROUND_ENDING_STINGER_CUSTOM ",
-            "winner ",
-            "hash_31705146_cztlllb_collision ",
-            "finished_place_screen ",
-            "hash_3f5e4e06_uskvptp_collision ",
-            "screen_start ",
-            "round_ending_stinger_2s ",
-            "round_ending_stinger_1s ",
-            "hash_bf64ff14_anohamj_collision ",
-            "hash_ce069e21_vpymwbx_collision ",
-            "hash_e3e7cec8_gnyqsue_collision "
-        ]
-    },
-    {
-        "AudioName ": "CNC_PLANE_DROP_SOUNDSET ",
-        "SoundIDs ": [
-            "missile_fired ",
-            "missile_fired_solid ",
-            "TARGET_ACQUIRED ",
-            "ACQUIRING_TARGET ",
-            "TARGETED_LOCK "
-        ]
-    },
-    {
-        "AudioName ": "HUD_AMMO_SHOP_SOUNDSET ",
-        "SoundIDs ": [
-            "WEAPON_SELECT_GRENADE_LAUNCHER ",
-            "WEAPON_SELECT_BATON ",
-            "WEAPON_SELECT_RIFLE ",
-            "weapon_select_ammo ",
-            "BACK ",
-            "WEAPON_ATTACHMENT_EQUIP ",
-            "WEAPON_SELECT_KNIFE ",
-            "WEAPON_SELECT_OTHER ",
-            "WEAPON_SELECT_RPG_LAUNCHER ",
-            "WEAPON_SELECT_SHOTGUN ",
-            "NAV ",
-            "WEAPON_SELECT_ARMOR ",
-            "WEAPON_AMMO_PURCHASE ",
-            "WEAPON_ATTACHMENT_UNEQUIP ",
-            "WEAPON_SELECT_PARACHUTE ",
-            "ERROR ",
-            "WEAPON_SELECT_HANDGUN ",
-            "WEAPON_SELECT_FUEL_CAN ",
-            "WEAPON_PURCHASE "
-        ]
-    },
-    {
-        "AudioName ": "mp_drop_weapons_sounds ",
-        "SoundIDs ": [
-            "hash_b80d07fb_cntanqi_collision ",
-            "hash_c4745412_crghosu_collision "
-        ]
-    },
-    {
-        "AudioName ": "hud_frontend_default_soundset ",
-        "SoundIDs ": [
-            "Skip ",
-            "MP_5_SECOND_TIMER ",
-            "hash_127c7398_bhknfcq_collision ",
-            "Restart ",
-            "MP_WAVE_COMPLETE ",
-            "SLIDER_UP_DOWN ",
-            "RESUME ",
-            "SMALL_AWARD ",
-            "continue ",
-            "Quit ",
-            "MP_IDLE_KICK ",
-            "BACK ",
-            "NAV_LEFT_RIGHT ",
-            "SELECT ",
-            "CONTINUOUS_SLIDER ",
-            "PAUSE_FIRST_HALF ",
-            "TOGGLE_ON ",
-            "HORDE_COOL_DOWN_TIMER ",
-            "MP_IDLE_TIMER ",
-            "WAYPOINT_SET ",
-            "ATM_WINDOW ",
-            "Info ",
-            "WAYPOINT_MOUSE_DROP ",
-            "EXIT ",
-            "MP_RANK_UP ",
-            "ok ",
-            "RETRY ",
-            "MP_AWARD ",
-            "TIMER ",
-            "PAD_SPEAKER_BEEP ",
-            "WAYPOINT_MOUSE_CLICK ",
-            "PAUSE ",
-            "PICK_UP ",
-            "CHARACTER_SELECT ",
-            "MAP_MOVEMENT ",
-            "PAUSE_SECOND_HALF ",
-            "HIGHLIGHT_NAV_UP_DOWN ",
-            "DPAD_WEAPON_SCROLL ",
-            "Highlight ",
-            "hash_c23ba639_aqcofqwh_collision ",
-            "ERROR ",
-            "GOD_PAGE_MSG ",
-            "NAV_UP_DOWN ",
-            "Cancel ",
-            "MAP_MOVEMENT_MOUSE ",
-            "LEADER_BOARD ",
-            "YES ",
-            "map_zoom ",
-            "NO "
-        ]
-    },
-    {
-        "AudioName ": "SPECIAL_ABILITY_SOUNDS ",
-        "SoundIDs ": [
-            "MultiPlayer ",
-            "TREVOR ",
-            "Franklin ",
-            "hash_4724c3d7_yhedsat_collision ",
-            "Michael ",
-            "Franklin_Traction ",
-            "hash_af2d3169_vigzaci_collision ",
-            "Franklin_Passby ",
-            "Franklin_VehicleCrash "
-        ]
-    },
-    {
-        "AudioName ": "hash_d720de84_xiyrfk_collision ",
-        "SoundIDs ": [
-            "hash_01b99502_abfsbeo_collision ",
-            "Gun ",
-            "hash_ad6dac78_dtzvmel_collision ",
-            "hash_b4d50fc1_sytnewz_collision ",
-            "SILENCER "
-        ]
-    },
-    {
-        "AudioName ": "hash_88b9fe21_jexqzoc_collision ",
-        "SoundIDs ": [
-            "hash_01b99502_abfsbeo_collision ",
-            "Gun ",
-            "hash_ad6dac78_dtzvmel_collision ",
-            "hash_b4d50fc1_sytnewz_collision ",
-            "SILENCER "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_APT_DOOR_DOWNSTAIRS_GLASS_SOUNDS ",
-        "SoundIDs ": [
-            "1960114521 ",
-            "SWING_SHUT ",
-            "LIMIT "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_APT_DOOR_DOWNSTAIRS_WOOD_SOUNDS ",
-        "SoundIDs ": [
-            "1960114521 ",
-            "SWING_SHUT ",
-            "LIMIT "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_APT_DOOR_DOWNSTAIRS_GENERIC_SOUNDS ",
-        "SoundIDs ": [
-            "Closed ",
-            "1960114521 ",
-            "SWING_SHUT ",
-            "LIMIT "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_EXEC_WH_DOOR_GENERIC_SOUNDS ",
-        "SoundIDs ": [
-            "Closed ",
-            "1960114521 ",
-            "SWING_SHUT ",
-            "LIMIT "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_APT_DOOR_ROOF_METAL_SOUNDS ",
-        "SoundIDs ": [
-            "Closed ",
-            "1960114521 ",
-            "SWING_SHUT ",
-            "LIMIT "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_EXEC_WH_GARAGE_DOOR_SOUNDS ",
-        "SoundIDs ": [
-            "DOOR_OPEN ",
-            "DOOR_CLOSE "
-        ]
-    },
-    {
-        "AudioName ": "gtao_impexp_enter_exit_garage_sounds ",
-        "SoundIDs ": [
-            "Exit_In_Vehicle ",
-            "enter_in_vehicle ",
-            "Enter_On_Foot ",
-            "exit_on_foot "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Bomb_Plant_Sounds ",
-        "SoundIDs ": [
-            "Bleep_Loop ",
-            "Install_On_Vehicle ",
-            "Detonate ",
-            "Bleep_Loop_Fading ",
-            "ARM ",
-            "Attach ",
-            "DISARM ",
-            "hash_f683f149_egskdmx_collision "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Tracker_Plant_Sounds ",
-        "SoundIDs ": [
-            "Bleep_Loop ",
-            "Install_On_Vehicle ",
-            "Detonate ",
-            "Bleep_Loop_Fading ",
-            "ARM ",
-            "Attach ",
-            "DISARM ",
-            "hash_f683f149_egskdmx_collision "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Hot_Tub_Sounds ",
-        "SoundIDs ": [
-            "Clothes_On ",
-            "Clothes_Off "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Change_Outfit_Sounds ",
-        "SoundIDs ": [
-            "Clothes_On ",
-            "Clothes_Swap ",
-            "Clothes_Off "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_FM_Cross_The_Line_Soundset ",
-        "SoundIDs ": [
-            "Player_Exit_Line ",
-            "Remote_Friendly_Enter_Line ",
-            "Player_Enter_Line ",
-            "hash_93d9e56d_cdamwut_collision ",
-            "Remote_Enemy_Enter_Line "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Dancing_Sounds ",
-        "SoundIDs ": [
-            "Beat_Pulse_Default "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Drone_Sounds ",
-        "SoundIDs ": [
-            "HUD_Detonate_Charge ",
-            "gun_fire ",
-            "Shock_Fire ",
-            "HUD_Change_Cam ",
-            "HUD_Static_Loop ",
-            "hash_17693458_djpukhj_collision ",
-            "flight_loop ",
-            "DESTROYED ",
-            "HUD_Boost_Loop ",
-            "self_destruct ",
-            "HUD_Zoom_Change ",
-            "HUD_Boost_Recharge_Loop ",
-            "BUMP ",
-            "HUD_Shock_Recharge ",
-            "Out_Of_Bounds_Alarm_Loop ",
-            "HUD_Disconnect ",
-            "HUD_Loop ",
-            "HUD_Zoom_Loop ",
-            "HUD_Startup "
-        ]
-    },
-    {
-        "AudioName ": "DLC_GTAO_Explode_Last_Sounds ",
-        "SoundIDs ": [
-            "Count_Start ",
-            "Count_Stop ",
-            "3993349630 "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Hacker_Override_Sounds ",
-        "SoundIDs ": [
-            "hash_03990962_xxqunmg_collision ",
-            "RESUME ",
-            "End_Success ",
-            "Hacking_Loop ",
-            "START ",
-            "PAUSE "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Hacking_Generic_Sounds ",
-        "SoundIDs ": [
-            "Restart ",
-            "Loop_Drone ",
-            "SUCCESS ",
-            "LOOP ",
-            "START ",
-            "Fail ",
-            "PAUSE "
-        ]
-    },
-    {
-        "AudioName ": "MP_MISSION_COUNTDOWN_SOUNDSET ",
-        "SoundIDs ": [
-            "Exploding_Entity_Stop ",
-            "TIMER_RADIAL_Reset ",
-            "Exploding_Entity_Loop ",
-            "Out_of_Bounds_Explode ",
-            "Exploding_Entity_Start ",
-            "Oneshot_Final ",
-            "hash_69913c2a_rulqzwc_collision ",
-            "Out_of_Bounds ",
-            "10S ",
-            "5S ",
-            "ONESHOT ",
-            "TIMER_RADIAL_Pulse ",
-            "Get_Back_In_Vehicle "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_MUGSHOT_ROOM_SOUNDS ",
-        "SoundIDs ": [
-            "Lights_On "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Rappel_Sounds ",
-        "SoundIDs ": [
-            "rappel_loop ",
-            "Rappel_Stop ",
-            "Rappel_Land "
-        ]
-    },
-    {
-        "AudioName ": "DLC_Lowrider_Relay_Race_Sounds ",
-        "SoundIDs ": [
-            "Tag ",
-            "Enter_Area ",
-            "Explosion_Timer ",
-            "Out_Of_Area "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Security_Cameras_Sounds ",
-        "SoundIDs ": [
-            "Spotted_Beep_Loop ",
-            "Idle_Beep_Loop "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Shepherd_Sounds ",
-        "SoundIDs ": [
-            "Checkpoint_Teammate "
-        ]
-    },
-    {
-        "AudioName ": "MP_SNACKS_SOUNDSET ",
-        "SoundIDs ": [
-            "PNQ_Start ",
-            "Slow_Clap_Cel ",
-            "hash_15421ef6_vtaxakw_collision ",
-            "Knuckle_Crack_Hard_Cel ",
-            "Can_Swallow ",
-            "Knuckle_Crack_Hard ",
-            "Knuckle_Crack_Slap ",
-            "Bar_Swallow ",
-            "champagne_spray ",
-            "Bar_Eat ",
-            "bottle_swallow ",
-            "PNQ_Swallow ",
-            "hash_6ac8f6e8_daxrgcj_collision ",
-            "Can_Gulp ",
-            "hash_8b8bd090_asoatahn_collision ",
-            "Knuckle_Crack_Soft ",
-            "hash_9090afe3_bhcjwbp_collision ",
-            "Slow_Clap ",
-            "hash_a02c83ad_difvfbg_collision ",
-            "Knuckle_Crack_Slap_Cel ",
-            "bottle_gulp ",
-            "hash_b212c5d5_mwnpllw_collision ",
-            "champagne_slosh ",
-            "champagne_swallow ",
-            "Bottle_Initial ",
-            "Can_Initial ",
-            "PNQ_Eat "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Speed_Convoy_Soundset ",
-        "SoundIDs ": [
-            "Bomb_Armed ",
-            "Arming_Countdown ",
-            "Count_Start ",
-            "Bomb_Disarmed ",
-            "Count_Stop ",
-            "countdown "
-        ]
-    },
-    {
-        "AudioName ": "hash_0c32c32c_tztydsg_collision - mp sound ",
-        "SoundIDs ": []
-    },
-    {
-        "AudioName ": "GTAO_Speed_Race_Sounds ",
-        "SoundIDs ": [
-            "ARMED ",
-            "Count_Stop ",
-            "countdown "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Vision_Modes_SoundSet ",
-        "SoundIDs ": [
-            "OFF ",
-            "Thermal_Loop ",
-            "ON ",
-            "Nightvision_Loop ",
-            "Switch "
-        ]
-    },
-    {
-        "AudioName ": "biker_formation_sounds ",
-        "SoundIDs ": [
-            "player_riding "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Biker_Modes_Soundset ",
-        "SoundIDs ": [
-            "Enemy_Pickup_Briefcase ",
-            "hash_293214e2_znyunrba_collision ",
-            "hash_5073873c_jjioizj_collision ",
-            "Deliver_Item ",
-            "Generic_Negative_Event ",
-            "Generic_Positive_Event ",
-            "Enter_1st ",
-            "Blip_Pickup ",
-            "Lose_1st ",
-            "Pickup_Standard ",
-            "Pickup_Briefcase ",
-            "Crates_Blipped "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Biker_FM_Soundset ",
-        "SoundIDs ": [
-            "Boss_Spawn_Bullshark ",
-            "hash_14797f87_keznbmh_collision ",
-            "Boss_Spawn_Armor ",
-            "hash_83e3aeb6_dfpobrl_collision ",
-            "hash_9cdfe3ca_nzykxca_collision ",
-            "Boss_Message_Orange ",
-            "Goon_Paid_Small ",
-            "Boss_Spawn_Ammo ",
-            "Boss_Event_Start_Text ",
-            "Goon_Paid_Large "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Biker_FM_Shard_Sounds ",
-        "SoundIDs ": [
-            "Shard_Appear ",
-            "Shard_Disappear ",
-            "Shard_Fail ",
-            "Shard_Become_Goon ",
-            "Shard_Work_Over ",
-            "Shard_Goon_Fired ",
-            "Shard_Goon_Hired ",
-            "Shard_Goon_Terminated ",
-            "Shard_Win ",
-            "Shard_Goon_Left ",
-            "Shard_Become_Boss ",
-            "Shard_Boss_Left "
-        ]
-    },
-    {
-        "AudioName ": "DLC_Biker_SYG_Sounds ",
-        "SoundIDs ": [
-            "Enemy_In_Zone ",
-            "Enter_Zone ",
-            "Leave_Zone "
-        ]
-    },
-    {
-        "AudioName ": "Feed_Message_Sounds ",
-        "SoundIDs ": [
-            "FestiveGift "
-        ]
-    },
-    {
-        "AudioName ": "DLC_XM_Air_Suspension_Sounds ",
-        "SoundIDs ": [
-            "air_suspension_down "
-        ]
-    },
-    {
-        "AudioName ": "dlc_xm_hota_Sounds ",
-        "SoundIDs ": [
-            "Zone_Captured_Remote ",
-            "Weapon_Respawn ",
-            "Zone_Captured ",
-            "Zone_Lost ",
-            "Zone_Contested ",
-            "Zone_Enter ",
-            "Weapon_Collect "
-        ]
-    },
-    {
-        "AudioName ": "DLC_AW_Mod_Vehicle_Player_Sounds ",
-        "SoundIDs ": [
-            "jump_rc_activate ",
-            "sideswipe ",
-            "jump_rc_recharge ",
-            "jump_armed ",
-            "jump_activate ",
-            "jump_rc_armed ",
-            "Recharge "
-        ]
-    },
-    {
-        "AudioName ": "DLC_AW_Mod_Vehicle_NPC_Sounds ",
-        "SoundIDs ": [
-            "jump_rc_activate ",
-            "sideswipe ",
-            "jump_rc_recharge ",
-            "jump_armed ",
-            "jump_activate ",
-            "jump_rc_armed ",
-            "Recharge "
-        ]
-    },
-    {
-        "AudioName ": "hash_860473aa_bspulwi_collision ",
-        "SoundIDs ": [
-            "Wheely_Suspension_Land "
-        ]
-    },
-    {
-        "AudioName ": "gtao_script_doors_sounds ",
-        "SoundIDs ": [
-            "Garage_Door_Close_Loop ",
-            "hash_6891bcd5_yoruwke_collision ",
-            "Glass_Door_Limit ",
-            "GENERIC_DOOR_PUSH ",
-            "METAL_SHUTTER_RAISE_LOOP ",
-            "GENERIC_DOOR_LIMIT ",
-            "hash_9b5670b9_swrhnzj_collision ",
-            "hash_a74f1337_lmpaatj_collision ",
-            "Metal_Door_Push ",
-            "Bunker_Hatch ",
-            "Metal_Door_Closed ",
-            "Glass_Door_Push ",
-            "Metal_Door_Limit ",
-            "hash_1f7a16fc_bwhqkcz_collision ",
-            "hash_269c07f7_hftwnzy_collision ",
-            "hash_2afd30d2_wdlkuja_collision ",
-            "hash_35cfbc75_arktjes_collision ",
-            "hash_37f2fcb6_auwpklqi_collision ",
-            "Generic_Door_Closed ",
-            "Garage_Door_Open_Loop ",
-            "Industrial_Elevator_Ride ",
-            "hash_5b351bb0_gtlapbr_collision "
-        ]
-    },
-    {
-        "AudioName ": "gtao_script_doors_faded_screen_sounds ",
-        "SoundIDs ": [
-            "Metal_Door_Limit ",
-            "hash_1f7a16fc_bwhqkcz_collision ",
-            "Garage_Door_Open ",
-            "hash_269c07f7_hftwnzy_collision ",
-            "hash_2afd30d2_wdlkuja_collision ",
-            "hash_35cfbc75_arktjes_collision ",
-            "hash_37f2fcb6_auwpklqi_collision ",
-            "Generic_Door_Closed ",
-            "Industrial_Elevator_Ride ",
-            "hash_5b351bb0_gtlapbr_collision ",
-            "hash_6891bcd5_yoruwke_collision ",
-            "Glass_Door_Limit ",
-            "GENERIC_DOOR_PUSH ",
-            "METAL_SHUTTER_RAISE_LOOP ",
-            "GENERIC_DOOR_LIMIT ",
-            "hash_9b5670b9_swrhnzj_collision ",
-            "hash_a74f1337_lmpaatj_collision ",
-            "Metal_Door_Push ",
-            "Bunker_Hatch ",
-            "Metal_Door_Closed ",
-            "Garage_Door_Close ",
-            "Glass_Door_Push "
-        ]
-    },
-    {
-        "AudioName ": "hash_d8a6eab3_bxvssvb_collision ",
-        "SoundIDs ": [
-            "Kick_Door_Generic ",
-            "Kick_Door_Metal ",
-            "hash_aa425a94_fpdvxcz_collision ",
-            "Kick_Door_Metal_Bars ",
-            "Kick_Door_Wood "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_XM3_FRM_IG6_STASH_ENTRY_Door_Breach_Kick ",
-        "SoundIDs ": [
-            "Kick_Door_Generic ",
-            "Kick_Door_Metal ",
-            "hash_aa425a94_fpdvxcz_collision ",
-            "Kick_Door_Metal_Bars ",
-            "Kick_Door_Wood "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Script_Doors_Extended_Sounds ",
-        "SoundIDs ": [
-            "Farm_Gate_Unlock_Open_Loop ",
-            "Sliding_Bar_Gate_Unlock_Open_Loop ",
-            "Darnell_Fast_Travel_Door ",
-            "Chainlink_Gate_Unlock_Open_Loop ",
-            "Shoot_Lock_Disable "
-        ]
-    },
-    {
-        "AudioName ": "DLC_Exec_TP_SoundSet ",
-        "SoundIDs ": [
-            "Transform_Remote_Player ",
-            "Transform_Local_Player ",
-            "hash_3fd6a0da_gunzoqn_collision ",
-            "Losing_Team_Shard ",
-            "Winning_Team_Shard ",
-            "Transform_Loser_Local_Player "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_FM_Events_Soundset ",
-        "SoundIDs ": [
-            "Checkpoint_Beast_Hit ",
-            "Event_Fail ",
-            "Shard_Appear ",
-            "Near_Miss_Counter_Reset ",
-            "OOB_Timer_Dynamic ",
-            "Crate_Beacon_Loop ",
-            "oob_timer_20s ",
-            "Timer_10s ",
-            "Event_Win ",
-            "Event_Finished ",
-            "Timer_5s ",
-            "area_capture_player ",
-            "Shard_Disappear ",
-            "OOB_Start ",
-            "event_start_remote ",
-            "hash_4a9a1222_sibjqab_collision ",
-            "castle_capture_remote ",
-            "Parcel_Vehicle_Lost ",
-            "5s_To_Event_Start_Countdown ",
-            "area_capture_remote ",
-            "Criminal_Damage_Kill_Player ",
-            "Checkpoint_Cash_Hit ",
-            "Object_Collect_Player ",
-            "Criminal_Damage_High_Value ",
-            "Event_Start_Text ",
-            "Event_Draw ",
-            "Enter_1st ",
-            "Criminal_Damage_Low_Value ",
-            "score_up_remote ",
-            "OOB_Cancel ",
-            "Checkpoint_Hit ",
-            "hash_8e907545_mvcreub_collision ",
-            "Crate_Collect ",
-            "Kill_List_Counter ",
-            "Radar_Beast_Blip ",
-            "Lose_1st ",
-            "score_up_player ",
-            "Castle_Capture_Player ",
-            "Crate_Beacon_Oneshot ",
-            "hash_b931a8b5_dhfvnto_collision ",
-            "Parcel_Sudden_Death ",
-            "Event_Pass ",
-            "hash_c65d6786_chybpgc_collision ",
-            "Near_Miss_Counter ",
-            "Return_To_Vehicle_Timer ",
-            "timer_single ",
-            "Object_Dropped_Remote ",
-            "Crate_Land ",
-            "Event_Message_Purple ",
-            "Object_Collect_Remote ",
-            "Explosion_Countdown ",
-            "oob_timer_10s ",
-            "Parcel_Vehicle_Gained ",
-            "oob_timer_single ",
-            "castle_lost ",
-            "Event_Start "
-        ]
-    },
-    {
-        "AudioName ": "DLC_IE_Sell_General_Sounds ",
-        "SoundIDs ": [
-            "DELIVERY_FAIL ",
-            "Delivery_Success "
-        ]
-    },
-    {
-        "AudioName ": "DLC_IO_Warehouse_Mod_Garage_Sounds ",
-        "SoundIDs ": [
-            "Remove_Tracker "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_DLC_IE_Bomb_Defuse_Sounds ",
-        "SoundIDs ": [
-            "Bomb_Armed ",
-            "Arming_Countdown ",
-            "Countdown_Loop ",
-            "Count_Start ",
-            "Bomb_Disarmed ",
-            "Count_Stop "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_DLC_IE_Velocity_Sounds ",
-        "SoundIDs ": [
-            "Bomb_Armed ",
-            "Arming_Countdown ",
-            "Countdown_Loop ",
-            "Count_Start ",
-            "Checkpoint_Player ",
-            "Bomb_Disarmed ",
-            "Count_Stop ",
-            "Timer_Reduced "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Boss_Goons_FM_Soundset ",
-        "SoundIDs ": [
-            "Boss_Spawn_Bullshark ",
-            "hash_14797f87_keznbmh_collision ",
-            "Boss_Spawn_Armor ",
-            "hash_9cdfe3ca_nkcrywr_collision ",
-            "Boss_Message_Orange ",
-            "Goon_Paid_Small ",
-            "Boss_Spawn_Ammo ",
-            "Boss_Event_Start_Text ",
-            "Goon_Paid_Large "
-        ]
-    },
-    {
-        "AudioName ": "DLC_APT_Apartment_SoundSet ",
-        "SoundIDs ": [
-            "Apt_Style_Purchase "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Boss_Goons_FM_Shard_Sounds ",
-        "SoundIDs ": [
-            "Shard_Appear ",
-            "Shard_Disappear ",
-            "Shard_Fail ",
-            "Shard_Become_Goon ",
-            "Shard_Work_Over ",
-            "Shard_Goon_Fired ",
-            "Shard_Goon_Hired ",
-            "Shard_Goon_Terminated ",
-            "Shard_Win ",
-            "Shard_Goon_Left ",
-            "Shard_Become_Boss ",
-            "Shard_Boss_Left "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Magnate_Boss_Modes_Soundset ",
-        "SoundIDs ": [
-            "hash_293214e2_znyunrba_collision ",
-            "Deliver_Item ",
-            "Enter_1st ",
-            "Blip_Pickup ",
-            "Lose_1st ",
-            "Pickup_Standard ",
-            "Pickup_Briefcase ",
-            "Crates_Blipped "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Magnate_Finders_Keepers_Soundset ",
-        "SoundIDs ": [
-            "Case_Beep "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Magnate_Hunt_Boss_SoundSet ",
-        "SoundIDs ": [
-            "Boss_Blipped "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Magnate_Yacht_Attack_Soundset ",
-        "SoundIDs ": [
-            "Team_Capture_Start ",
-            "Enemy_Capture_Start ",
-            "hash_700292dc_vzfqekf_collision ",
-            "hash_a3227ff9_sizhymn_collision "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Yacht_SoundSet ",
-        "SoundIDs ": [
-            "Hot_Tub_Loop "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Hot_Tub_PED_INSIDE_WATER ",
-        "SoundIDs ": [
-            "Splash_Land ",
-            "Legs_Land ",
-            "WaveImpact ",
-            "ExitWater ",
-            "DiveInWaterUnderwater ",
-            "Splash ",
-            "LegsInsideWater ",
-            "FallingInWaterMedium ",
-            "FallingInWaterSmallUnderwater ",
-            "FallingInWaterHeavy ",
-            "FallingInWaterHeavyUnderwater ",
-            "FallingInWaterSmall ",
-            "BodyInsideWater ",
-            "DiveInWater ",
-            "hash_dc897843_fhwthje_collision ",
-            "FallingInWaterMediumUnderwater "
-        ]
-    },
-    {
-        "AudioName ": "DLC_Apartments_Drop_Zone_Sounds ",
-        "SoundIDs ": [
-            "hash_0f806735_gmpyiss_collision ",
-            "Zone_Neutral ",
-            "Exit_Capture_Zone ",
-            "Enter_Capture_Zone ",
-            "Zone_Team_Capture ",
-            "Helicopter_Loop ",
-            "Zone_Enemy_Capture ",
-            "Cargobob_Door_Open "
-        ]
-    },
-    {
-        "AudioName ": "DLC_Apartments_Extraction_SoundSet ",
-        "SoundIDs ": [
-            "Crashed_Plane_Ambience "
-        ]
-    },
-    {
-        "AudioName ": "GTAO_Smuggler_Plane_Sounds ",
-        "SoundIDs ": [
-            "Alarm_Loop ",
-            "Crash_Water "
-        ]
-    },
-    {
-        "AudioName ": "hydraulic_suspension_ss ",
-        "SoundIDs ": [
-            "Hydraulic_Suspension_Down ",
-            "hash_11a52128_uhhpfic_collision ",
-            "Hydraulic_Suspension_Deactivate ",
-            "hash_36b0f523_ipkxgof_collision ",
-            "Hydraulic_Suspension_Angle_Loop ",
-            "Hydraulic_Suspension_Landing ",
-            "stance_lowered ",
-            "Hydraulic_Suspension_Up ",
-            "hash_affdd401_dcybxpp_collision ",
-            "stance_raised ",
-            "Hydraulic_Suspension_Activate ",
-            "Hydraulic_Suspension_Loop ",
-            "Hydraulic_Suspension_Bounce "
-        ]
-    },
-    {
-        "AudioName ": "hydraulic_suspension_donk_ss ",
-        "SoundIDs ": [
-            "Hydraulic_Suspension_Down ",
-            "hash_11a52128_uhhpfic_collision ",
-            "Hydraulic_Suspension_Deactivate ",
-            "hash_36b0f523_ipkxgof_collision ",
-            "Hydraulic_Suspension_Landing ",
-            "Hydraulic_Suspension_Donk_Loop ",
-            "stance_lowered ",
-            "Hydraulic_Suspension_Up ",
-            "hash_affdd401_dcybxpp_collision ",
-            "stance_raised ",
-            "Hydraulic_Suspension_Activate ",
-            "Hydraulic_Suspension_Loop ",
-            "Hydraulic_Suspension_Bounce "
-        ]
-    },
-    {
-        "AudioName ": "hydraulic_suspension_donk_npc_ss ",
-        "SoundIDs ": [
-            "Hydraulic_Suspension_Down ",
-            "hash_11a52128_uhhpfic_collision ",
-            "Hydraulic_Suspension_Deactivate ",
-            "hash_36b0f523_ipkxgof_collision ",
-            "Hydraulic_Suspension_Landing ",
-            "Hydraulic_Suspension_Donk_Loop ",
-            "stance_lowered ",
-            "Hydraulic_Suspension_Up ",
-            "hash_affdd401_dcybxpp_collision ",
-            "stance_raised ",
-            "Hydraulic_Suspension_Activate ",
-            "Hydraulic_Suspension_Loop ",
-            "Hydraulic_Suspension_Bounce "
-        ]
-    },
-    {
-        "AudioName ": "hydraulic_suspension_npc_ss ",
-        "SoundIDs ": [
-            "Hydraulic_Suspension_Down ",
-            "hash_11a52128_uhhpfic_collision ",
-            "Hydraulic_Suspension_Deactivate ",
-            "hash_36b0f523_ipkxgof_collision ",
-            "Hydraulic_Suspension_Angle_Loop ",
-            "Hydraulic_Suspension_Landing ",
-            "stance_lowered ",
-            "Hydraulic_Suspension_Up ",
-            "hash_affdd401_dcybxpp_collision ",
-            "stance_raised ",
-            "Hydraulic_Suspension_Activate ",
-            "Hydraulic_Suspension_Loop ",
-            "Hydraulic_Suspension_Bounce "
-        ]
-    },
-    {
-        "AudioName ": "REMOTE_CONTROLLED_VEHICLE_Sounds ",
-        "SoundIDs ": [
-            "REMOTE_VEHICLE_LOOP "
-        ]
-    },
-    {
-        "AudioName ": "DLC_ImportExport_Ruiner2_Sounds ",
-        "SoundIDs ": [
-            "Stabilize ",
-            "descend ",
-            "light_woo ",
-            "jump_armed ",
-            "Deploy ",
-            "jump_activate ",
-            "Recharge ",
-            "Detach "
-        ]
-    },
-    {
-        "AudioName ": "hash_f09c7816_wimpoow_collision ",
-        "SoundIDs ": [
-            "Stabilize ",
-            "descend ",
-            "jump_armed ",
-            "Deploy ",
-            "jump_activate ",
-            "Recharge ",
-            "Detach "
-        ]
-    },
-    {
-        "AudioName ": "SPECIAL_AMMO_TYPE_BULLET_IMPACTS ",
-        "SoundIDs ": [
-            "hash_2b62268d_xlnvlie_collision ",
-            "hash_2cfe212a_cyvily_collision ",
-            "VEHICLE_IMPACT_FMJ_SLOW_MO ",
-            "VEHICLE_IMPACT_FMJ ",
-            "PED_IMPACT_HOLLOW_POINT ",
-            "hash_9df7fd80_awukdvr_collision ",
-            "INCENDIARY_AMMO_PED_FIRE_START ",
-            "PED_IMPACT_HOLLOW_POINT_SLOW_MO ",
-            "PED_IMPACT_ARMOUR_PIERCING "
+        "AudioName": "hash_f1ca80eb_iutizhl_collision",
+        "SoundIDs": [
+            "CONFIRM",
+            "hash_1c87c4ac_evkfudj_collision",
+            "Login",
+            "Mouse_Click",
+            "SELL",
+            "hash_c4385ba9_kaeilph_collision",
+            "ERROR",
+            "Cancel"
+        ]
+    },
+    {
+        "AudioName": "GTAO_SMG_Hangar_Computer_Sounds",
+        "SoundIDs": [
+            "hash_0025d56f_sqvxhu_collision",
+            "CLICK_BACK",
+            "Click_Link",
+            "Click_Special",
+            "Click_Cancel",
+            "Show_Sell_Menu",
+            "Show_Source_Menu",
+            "Click_Generic",
+            "Business_Restart",
+            "EXIT",
+            "click_hover",
+            "click_keyboard_nav",
+            "hash_ba9cce00_epawfsi_collision",
+            "Click_Fail",
+            "Show_Overview_Menu",
+            "Business_Shutdown",
+            "click_keyboard"
+        ]
+    },
+    {
+        "AudioName": "HUD_RACE_CREATOR_SOUNDSET",
+        "SoundIDs": [
+            "CONFIRM",
+            "PLACE_CHECKPOINT",
+            "DELETE",
+            "hash_928e8984_iopsau_collision",
+            "PLACE_PICKUP",
+            "EDIT",
+            "scroll",
+            "ERROR",
+            "SELECT_START_GRID_POSITION"
+        ]
+    },
+    {
+        "AudioName": "HUD_MISSION_CREATOR_SOUNDSET",
+        "SoundIDs": [
+            "CONFIRM",
+            "DELETE",
+            "SELECT_LOCATION",
+            "PLACE_VEHICLE",
+            "hash_928e8984_iopsau_collision",
+            "PLACE_WEAPON",
+            "EDIT",
+            "PLACE_ENEMY",
+            "scroll",
+            "ERROR",
+            "ADD_SPAWN_POINT",
+            "PLACE_OBJECT"
+        ]
+    },
+    {
+        "AudioName": "HUD_DEATHMATCH_SOUNDSET",
+        "SoundIDs": [
+            "CONFIRM",
+            "DELETE",
+            "PLACE_VEHICLE",
+            "hash_928e8984_iopsau_collision",
+            "PLACE_WEAPON",
+            "EDIT",
+            "scroll",
+            "ERROR",
+            "ADD_SPAWN_POINT"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Heists_HUD_Sounds",
+        "SoundIDs": [
+            "Scope_Spot_POI"
+        ]
+    },
+    {
+        "AudioName": "MP_LOBBY_SOUNDS",
+        "SoundIDs": [
+            "Whoosh_1s_R_to_L",
+            "hash_68b26443_amsfldm_collision",
+            "Whoosh_1s_L_to_R",
+            "CAR_BIKE_WHOOSH",
+            "BOATS_PLANES_HELIS_BOOM"
+        ]
+    },
+    {
+        "AudioName": "hash_f35c567b_tivxpsd_collision",
+        "SoundIDs": [
+            "PICKUP_WEAPON_SMOKEGRENADE",
+            "PICKUP_WEAPON_MICROSMG",
+            "PICKUP_WEAPON_KNIFE",
+            "PICKUP_WEAPON_HAMMER",
+            "PICKUP_WEAPON_MOLOTOV",
+            "PICKUP_WEAPON_GRENADELAUNCHER",
+            "PICKUP_WEAPON_MINIGUN",
+            "hash_3a27f18a_otsjobf_collision",
+            "PICKUP_WEAPON_SMG",
+            "PICKUP_WEAPON_APPISTOL",
+            "hash_3f456728_aphhem_collision",
+            "PICKUP_WEAPON_RPG",
+            "PICKUP_WEAPON_HEAVYRIFLE",
+            "PICKUP_WEAPON_GRENADE",
+            "PICKUP_WEAPON_NIGHTSTICK",
+            "PICKUP_WEAPON_LASSO",
+            "PICKUP_WEAPON_HEAVYSNIPER",
+            "PICKUP_WEAPON_PISTOL50",
+            "PICKUP_WEAPON_BULLPUPSHOTGUN",
+            "PICKUP_WEAPON_ASSAULTSMG",
+            "PICKUP_WEAPON_LOUDHAILER",
+            "PICKUP_WEAPON_STICKYBOMB",
+            "PICKUP_WEAPON_BAT",
+            "PICKUP_WEAPON_MG",
+            "PICKUP_WEAPON_CROWBAR",
+            "PICKUP_WEAPON_GOLFCLUB",
+            "PICKUP_WEAPON_COMBATPISTOL",
+            "pickup_weapon_assaultshotgun",
+            "PICKUP_WEAPON_SAWNOFFSHOTGUN",
+            "PICKUP_WEAPON_PUMPSHOTGUN",
+            "PICKUP_WEAPON_COMBATMG",
+            "PICKUP_WEAPON_ADVANCEDRIFLE",
+            "pickup_weapon_default",
+            "PICKUP_WEAPON_PETROLCAN",
+            "PICKUP_WEAPON_FIREEXTINGUISHER",
+            "PICKUP_WEAPON_PROGRAMMABLEAR",
+            "PICKUP_WEAPON_RUBBERGUN",
+            "PICKUP_WEAPON_CARBINERIFLE",
+            "pickup_weapon_assaultrifle",
+            "PICKUP_WEAPON_PISTOL",
+            "WEAPON_PURCHASE",
+            "PICKUP_WEAPON_STUNGUN",
+            "PICKUP_WEAPON_SNIPERRIFLE"
+        ]
+    },
+    {
+        "AudioName": "hash_f5e3a26a_teejeab_collision",
+        "SoundIDs": [
+            "PICKUP_VEHICLE_HEALTH_STANDARD",
+            "hash_0e1fb36f_kpjkzrv_collision",
+            "PICKUP_VEHICLE_WEAPON_STICKYBOMB",
+            "PICKUP_VEHICLE_WEAPON_SAWNOFF",
+            "PICKUP_VEHICLE_ARMOUR_STANDARD",
+            "PICKUP_VEHICLE_WEAPON_SMOKEGRENADE",
+            "PICKUP_VEHICLE_WEAPON_ASSAULTSMG",
+            "PICKUP_VEHICLE_WEAPON_MOLOTOV",
+            "PICKUP_VEHICLE_WEAPON_PISTOL",
+            "PICKUP_VEHICLE_CUSTOM_SCRIPT",
+            "PICKUP_VEHICLE_WEAPON_GRENADE",
+            "PICKUP_VEHICLE_WEAPON_MICROSMG",
+            "PICKUP_VEHICLE_WEAPON_SMG",
+            "PICKUP_VEHICLE_WEAPON_APPISTOL",
+            "PICKUP_VEHICLE_WEAPON_COMBATPISTOL",
+            "PICKUP_VEHICLE_WEAPON_PISTOL50"
+        ]
+    },
+    {
+        "AudioName": "HUD_FRONTEND_STANDARD_PICKUPS_NPC_SOUNDSET",
+        "SoundIDs": [
+            "PICKUP_HANDCUFF_KEY",
+            "PICKUP_MONEY_MED_BAG",
+            "PICKUP_HEALTH_SNACK",
+            "PICKUP_MONEY_PURSE",
+            "PICKUP_MONEY_DEP_BAG",
+            "PICKUP_CUSTOM_SCRIPT",
+            "PICKUP_ARMOUR_STANDARD",
+            "PICKUP_AMMO_BULLET_MP",
+            "PICKUP_MONEY_WALLET",
+            "PICKUP_PARACHUTE",
+            "PICKUP_PORTABLE_CRATE_UNFIXED",
+            "PICKUP_MONEY_PAPER_BAG",
+            "PICKUP_PORTABLE_PACKAGE",
+            "PICKUP_HEALTH_STANDARD",
+            "PICKUP_MONEY_CASE",
+            "PICKUP_MONEY_SECURITY_CASE",
+            "PICKUP_CAMERA",
+            "PICKUP_SUBMARINE",
+            "PICKUP_DEFAULT",
+            "pickup_ammo_missile_mp",
+            "PICKUP_MONEY_VARIABLE"
+        ]
+    },
+    {
+        "AudioName": "HUD_FRONTEND_MP_COLLECTABLE_SOUNDS",
+        "SoundIDs": [
+            "Deliver_Pick_Up",
+            "Enemy_Deliver",
+            "Friend_Deliver",
+            "Friend_Pick_Up",
+            "Dropped",
+            "Enemy_Pick_Up"
+        ]
+    },
+    {
+        "AudioName": "PI_Menu_Sounds",
+        "SoundIDs": [
+            "Remote_Control_Close",
+            "Remote_Control_Open",
+            "Remote_Control_Fob",
+            "Toggle_Lights"
+        ]
+    },
+    {
+        "AudioName": "RESPAWN_ONLINE_SOUNDSET",
+        "SoundIDs": [
+            "HIT",
+            "Accept_Ghosting_Mode",
+            "Faster_Bar_Full",
+            "Faster_Click"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Exec_SecuroServ_Computer_Sounds",
+        "SoundIDs": [
+            "hash_0ef893f3_wjegnir_collision",
+            "hash_154a8d10_fklwdpf_collision",
+            "hash_1c87c4ac_evkfudj_collision",
+            "hash_2367833d_syliagg_collision",
+            "hash_24309ce5_appvmtl_collision",
+            "hash_2abbd1ea_avovudfa_collision",
+            "hash_354ba5f1_lppecea_collision",
+            "hash_4b677779_wqevigi_collision",
+            "Logout",
+            "hash_4e28ffa4_ajxfxvyr_collision",
+            "hash_4e59cf20_uuiyrih_collision",
+            "Login",
+            "hash_61772f02_kdlmfhi_collision",
+            "hash_627ee95b_mcgwvbc_collision",
+            "hash_6393de22_wuwkuud_collision",
+            "hash_66bcd0fb_kddveeba_collision",
+            "hash_6ac088ae_xotykbn_collision",
+            "Mouse_Click",
+            "hash_71eb8377_eslczza_collision",
+            "hash_755408d8_jrecmpb_collision",
+            "BUY",
+            "hash_7bbd82a3_miyzxgu_collision",
+            "Popup_Confirm_Success",
+            "hash_92ed9a7f_hqpdira_collision",
+            "hash_99c60c65_gwdgvea_collision",
+            "SELL",
+            "hash_c2ce5848_ahpqehom_collision",
+            "hash_c96718e0_gbypxtka_collision",
+            "hash_d6f3b79d_hgtxmzz_collision",
+            "hash_d7986706_beqgatk_collision",
+            "hash_d93fd7f5_awtuajp_collision",
+            "Popup_Cancel",
+            "Navigate",
+            "Popup_Confirm_Fail"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Exec_SecuroServ_Warehouse_PC_Sounds",
+        "SoundIDs": [
+            "CONFIRM",
+            "hash_1c87c4ac_evkfudj_collision",
+            "Login",
+            "Mouse_Click",
+            "SELL",
+            "ERROR",
+            "Cancel"
+        ]
+    },
+    {
+        "AudioName": "celebration_soundset",
+        "SoundIDs": [
+            "hash_01c153e8_ebdddld_collision",
+            "SCREEN_FLASH",
+            "number_count",
+            "ROUND_ENDING_STINGER_CUSTOM",
+            "winner",
+            "hash_31705146_cztlllb_collision",
+            "finished_place_screen",
+            "hash_3f5e4e06_uskvptp_collision",
+            "screen_start",
+            "round_ending_stinger_2s",
+            "round_ending_stinger_1s",
+            "hash_bf64ff14_anohamj_collision",
+            "hash_ce069e21_vpymwbx_collision",
+            "hash_e3e7cec8_gnyqsue_collision"
+        ]
+    },
+    {
+        "AudioName": "CNC_PLANE_DROP_SOUNDSET",
+        "SoundIDs": [
+            "missile_fired",
+            "missile_fired_solid",
+            "TARGET_ACQUIRED",
+            "ACQUIRING_TARGET",
+            "TARGETED_LOCK"
+        ]
+    },
+    {
+        "AudioName": "HUD_AMMO_SHOP_SOUNDSET",
+        "SoundIDs": [
+            "WEAPON_SELECT_GRENADE_LAUNCHER",
+            "WEAPON_SELECT_BATON",
+            "WEAPON_SELECT_RIFLE",
+            "weapon_select_ammo",
+            "BACK",
+            "WEAPON_ATTACHMENT_EQUIP",
+            "WEAPON_SELECT_KNIFE",
+            "WEAPON_SELECT_OTHER",
+            "WEAPON_SELECT_RPG_LAUNCHER",
+            "WEAPON_SELECT_SHOTGUN",
+            "NAV",
+            "WEAPON_SELECT_ARMOR",
+            "WEAPON_AMMO_PURCHASE",
+            "WEAPON_ATTACHMENT_UNEQUIP",
+            "WEAPON_SELECT_PARACHUTE",
+            "ERROR",
+            "WEAPON_SELECT_HANDGUN",
+            "WEAPON_SELECT_FUEL_CAN",
+            "WEAPON_PURCHASE"
+        ]
+    },
+    {
+        "AudioName": "mp_drop_weapons_sounds",
+        "SoundIDs": [
+            "hash_b80d07fb_cntanqi_collision",
+            "hash_c4745412_crghosu_collision"
+        ]
+    },
+    {
+        "AudioName": "hud_frontend_default_soundset",
+        "SoundIDs": [
+            "Skip",
+            "MP_5_SECOND_TIMER",
+            "hash_127c7398_bhknfcq_collision",
+            "Restart",
+            "MP_WAVE_COMPLETE",
+            "SLIDER_UP_DOWN",
+            "RESUME",
+            "SMALL_AWARD",
+            "continue",
+            "Quit",
+            "MP_IDLE_KICK",
+            "BACK",
+            "NAV_LEFT_RIGHT",
+            "SELECT",
+            "CONTINUOUS_SLIDER",
+            "PAUSE_FIRST_HALF",
+            "TOGGLE_ON",
+            "HORDE_COOL_DOWN_TIMER",
+            "MP_IDLE_TIMER",
+            "WAYPOINT_SET",
+            "ATM_WINDOW",
+            "Info",
+            "WAYPOINT_MOUSE_DROP",
+            "EXIT",
+            "MP_RANK_UP",
+            "ok",
+            "RETRY",
+            "MP_AWARD",
+            "TIMER",
+            "PAD_SPEAKER_BEEP",
+            "WAYPOINT_MOUSE_CLICK",
+            "PAUSE",
+            "PICK_UP",
+            "CHARACTER_SELECT",
+            "MAP_MOVEMENT",
+            "PAUSE_SECOND_HALF",
+            "HIGHLIGHT_NAV_UP_DOWN",
+            "DPAD_WEAPON_SCROLL",
+            "Highlight",
+            "hash_c23ba639_aqcofqwh_collision",
+            "ERROR",
+            "GOD_PAGE_MSG",
+            "NAV_UP_DOWN",
+            "Cancel",
+            "MAP_MOVEMENT_MOUSE",
+            "LEADER_BOARD",
+            "YES",
+            "map_zoom",
+            "NO"
+        ]
+    },
+    {
+        "AudioName": "SPECIAL_ABILITY_SOUNDS",
+        "SoundIDs": [
+            "MultiPlayer",
+            "TREVOR",
+            "Franklin",
+            "hash_4724c3d7_yhedsat_collision",
+            "Michael",
+            "Franklin_Traction",
+            "hash_af2d3169_vigzaci_collision",
+            "Franklin_Passby",
+            "Franklin_VehicleCrash"
+        ]
+    },
+    {
+        "AudioName": "hash_d720de84_xiyrfk_collision",
+        "SoundIDs": [
+            "hash_01b99502_abfsbeo_collision",
+            "Gun",
+            "hash_ad6dac78_dtzvmel_collision",
+            "hash_b4d50fc1_sytnewz_collision",
+            "SILENCER"
+        ]
+    },
+    {
+        "AudioName": "hash_88b9fe21_jexqzoc_collision",
+        "SoundIDs": [
+            "hash_01b99502_abfsbeo_collision",
+            "Gun",
+            "hash_ad6dac78_dtzvmel_collision",
+            "hash_b4d50fc1_sytnewz_collision",
+            "SILENCER"
+        ]
+    },
+    {
+        "AudioName": "GTAO_APT_DOOR_DOWNSTAIRS_GLASS_SOUNDS",
+        "SoundIDs": [
+            "1960114521",
+            "SWING_SHUT",
+            "LIMIT"
+        ]
+    },
+    {
+        "AudioName": "GTAO_APT_DOOR_DOWNSTAIRS_WOOD_SOUNDS",
+        "SoundIDs": [
+            "1960114521",
+            "SWING_SHUT",
+            "LIMIT"
+        ]
+    },
+    {
+        "AudioName": "GTAO_APT_DOOR_DOWNSTAIRS_GENERIC_SOUNDS",
+        "SoundIDs": [
+            "Closed",
+            "1960114521",
+            "SWING_SHUT",
+            "LIMIT"
+        ]
+    },
+    {
+        "AudioName": "GTAO_EXEC_WH_DOOR_GENERIC_SOUNDS",
+        "SoundIDs": [
+            "Closed",
+            "1960114521",
+            "SWING_SHUT",
+            "LIMIT"
+        ]
+    },
+    {
+        "AudioName": "GTAO_APT_DOOR_ROOF_METAL_SOUNDS",
+        "SoundIDs": [
+            "Closed",
+            "1960114521",
+            "SWING_SHUT",
+            "LIMIT"
+        ]
+    },
+    {
+        "AudioName": "GTAO_EXEC_WH_GARAGE_DOOR_SOUNDS",
+        "SoundIDs": [
+            "DOOR_OPEN",
+            "DOOR_CLOSE"
+        ]
+    },
+    {
+        "AudioName": "gtao_impexp_enter_exit_garage_sounds",
+        "SoundIDs": [
+            "Exit_In_Vehicle",
+            "enter_in_vehicle",
+            "Enter_On_Foot",
+            "exit_on_foot"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Bomb_Plant_Sounds",
+        "SoundIDs": [
+            "Bleep_Loop",
+            "Install_On_Vehicle",
+            "Detonate",
+            "Bleep_Loop_Fading",
+            "ARM",
+            "Attach",
+            "DISARM",
+            "hash_f683f149_egskdmx_collision"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Tracker_Plant_Sounds",
+        "SoundIDs": [
+            "Bleep_Loop",
+            "Install_On_Vehicle",
+            "Detonate",
+            "Bleep_Loop_Fading",
+            "ARM",
+            "Attach",
+            "DISARM",
+            "hash_f683f149_egskdmx_collision"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Hot_Tub_Sounds",
+        "SoundIDs": [
+            "Clothes_On",
+            "Clothes_Off"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Change_Outfit_Sounds",
+        "SoundIDs": [
+            "Clothes_On",
+            "Clothes_Swap",
+            "Clothes_Off"
+        ]
+    },
+    {
+        "AudioName": "GTAO_FM_Cross_The_Line_Soundset",
+        "SoundIDs": [
+            "Player_Exit_Line",
+            "Remote_Friendly_Enter_Line",
+            "Player_Enter_Line",
+            "hash_93d9e56d_cdamwut_collision",
+            "Remote_Enemy_Enter_Line"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Dancing_Sounds",
+        "SoundIDs": [
+            "Beat_Pulse_Default"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Drone_Sounds",
+        "SoundIDs": [
+            "HUD_Detonate_Charge",
+            "gun_fire",
+            "Shock_Fire",
+            "HUD_Change_Cam",
+            "HUD_Static_Loop",
+            "hash_17693458_djpukhj_collision",
+            "flight_loop",
+            "DESTROYED",
+            "HUD_Boost_Loop",
+            "self_destruct",
+            "HUD_Zoom_Change",
+            "HUD_Boost_Recharge_Loop",
+            "BUMP",
+            "HUD_Shock_Recharge",
+            "Out_Of_Bounds_Alarm_Loop",
+            "HUD_Disconnect",
+            "HUD_Loop",
+            "HUD_Zoom_Loop",
+            "HUD_Startup"
+        ]
+    },
+    {
+        "AudioName": "DLC_GTAO_Explode_Last_Sounds",
+        "SoundIDs": [
+            "Count_Start",
+            "Count_Stop",
+            "3993349630"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Hacker_Override_Sounds",
+        "SoundIDs": [
+            "hash_03990962_xxqunmg_collision",
+            "RESUME",
+            "End_Success",
+            "Hacking_Loop",
+            "START",
+            "PAUSE"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Hacking_Generic_Sounds",
+        "SoundIDs": [
+            "Restart",
+            "Loop_Drone",
+            "SUCCESS",
+            "LOOP",
+            "START",
+            "Fail",
+            "PAUSE"
+        ]
+    },
+    {
+        "AudioName": "MP_MISSION_COUNTDOWN_SOUNDSET",
+        "SoundIDs": [
+            "Exploding_Entity_Stop",
+            "TIMER_RADIAL_Reset",
+            "Exploding_Entity_Loop",
+            "Out_of_Bounds_Explode",
+            "Exploding_Entity_Start",
+            "Oneshot_Final",
+            "hash_69913c2a_rulqzwc_collision",
+            "Out_of_Bounds",
+            "10S",
+            "5S",
+            "ONESHOT",
+            "TIMER_RADIAL_Pulse",
+            "Get_Back_In_Vehicle"
+        ]
+    },
+    {
+        "AudioName": "GTAO_MUGSHOT_ROOM_SOUNDS",
+        "SoundIDs": [
+            "Lights_On"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Rappel_Sounds",
+        "SoundIDs": [
+            "rappel_loop",
+            "Rappel_Stop",
+            "Rappel_Land"
+        ]
+    },
+    {
+        "AudioName": "DLC_Lowrider_Relay_Race_Sounds",
+        "SoundIDs": [
+            "Tag",
+            "Enter_Area",
+            "Explosion_Timer",
+            "Out_Of_Area"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Security_Cameras_Sounds",
+        "SoundIDs": [
+            "Spotted_Beep_Loop",
+            "Idle_Beep_Loop"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Shepherd_Sounds",
+        "SoundIDs": [
+            "Checkpoint_Teammate"
+        ]
+    },
+    {
+        "AudioName": "MP_SNACKS_SOUNDSET",
+        "SoundIDs": [
+            "PNQ_Start",
+            "Slow_Clap_Cel",
+            "hash_15421ef6_vtaxakw_collision",
+            "Knuckle_Crack_Hard_Cel",
+            "Can_Swallow",
+            "Knuckle_Crack_Hard",
+            "Knuckle_Crack_Slap",
+            "Bar_Swallow",
+            "champagne_spray",
+            "Bar_Eat",
+            "bottle_swallow",
+            "PNQ_Swallow",
+            "hash_6ac8f6e8_daxrgcj_collision",
+            "Can_Gulp",
+            "hash_8b8bd090_asoatahn_collision",
+            "Knuckle_Crack_Soft",
+            "hash_9090afe3_bhcjwbp_collision",
+            "Slow_Clap",
+            "hash_a02c83ad_difvfbg_collision",
+            "Knuckle_Crack_Slap_Cel",
+            "bottle_gulp",
+            "hash_b212c5d5_mwnpllw_collision",
+            "champagne_slosh",
+            "champagne_swallow",
+            "Bottle_Initial",
+            "Can_Initial",
+            "PNQ_Eat"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Speed_Convoy_Soundset",
+        "SoundIDs": [
+            "Bomb_Armed",
+            "Arming_Countdown",
+            "Count_Start",
+            "Bomb_Disarmed",
+            "Count_Stop",
+            "countdown"
+        ]
+    },
+    {
+        "AudioName": "hash_0c32c32c_tztydsg_collision-mpsound",
+        "SoundIDs": []
+    },
+    {
+        "AudioName": "GTAO_Speed_Race_Sounds",
+        "SoundIDs": [
+            "ARMED",
+            "Count_Stop",
+            "countdown"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Vision_Modes_SoundSet",
+        "SoundIDs": [
+            "OFF",
+            "Thermal_Loop",
+            "ON",
+            "Nightvision_Loop",
+            "Switch"
+        ]
+    },
+    {
+        "AudioName": "biker_formation_sounds",
+        "SoundIDs": [
+            "player_riding"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Biker_Modes_Soundset",
+        "SoundIDs": [
+            "Enemy_Pickup_Briefcase",
+            "hash_293214e2_znyunrba_collision",
+            "hash_5073873c_jjioizj_collision",
+            "Deliver_Item",
+            "Generic_Negative_Event",
+            "Generic_Positive_Event",
+            "Enter_1st",
+            "Blip_Pickup",
+            "Lose_1st",
+            "Pickup_Standard",
+            "Pickup_Briefcase",
+            "Crates_Blipped"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Biker_FM_Soundset",
+        "SoundIDs": [
+            "Boss_Spawn_Bullshark",
+            "hash_14797f87_keznbmh_collision",
+            "Boss_Spawn_Armor",
+            "hash_83e3aeb6_dfpobrl_collision",
+            "hash_9cdfe3ca_nzykxca_collision",
+            "Boss_Message_Orange",
+            "Goon_Paid_Small",
+            "Boss_Spawn_Ammo",
+            "Boss_Event_Start_Text",
+            "Goon_Paid_Large"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Biker_FM_Shard_Sounds",
+        "SoundIDs": [
+            "Shard_Appear",
+            "Shard_Disappear",
+            "Shard_Fail",
+            "Shard_Become_Goon",
+            "Shard_Work_Over",
+            "Shard_Goon_Fired",
+            "Shard_Goon_Hired",
+            "Shard_Goon_Terminated",
+            "Shard_Win",
+            "Shard_Goon_Left",
+            "Shard_Become_Boss",
+            "Shard_Boss_Left"
+        ]
+    },
+    {
+        "AudioName": "DLC_Biker_SYG_Sounds",
+        "SoundIDs": [
+            "Enemy_In_Zone",
+            "Enter_Zone",
+            "Leave_Zone"
+        ]
+    },
+    {
+        "AudioName": "Feed_Message_Sounds",
+        "SoundIDs": [
+            "FestiveGift"
+        ]
+    },
+    {
+        "AudioName": "DLC_XM_Air_Suspension_Sounds",
+        "SoundIDs": [
+            "air_suspension_down"
+        ]
+    },
+    {
+        "AudioName": "dlc_xm_hota_Sounds",
+        "SoundIDs": [
+            "Zone_Captured_Remote",
+            "Weapon_Respawn",
+            "Zone_Captured",
+            "Zone_Lost",
+            "Zone_Contested",
+            "Zone_Enter",
+            "Weapon_Collect"
+        ]
+    },
+    {
+        "AudioName": "DLC_AW_Mod_Vehicle_Player_Sounds",
+        "SoundIDs": [
+            "jump_rc_activate",
+            "sideswipe",
+            "jump_rc_recharge",
+            "jump_armed",
+            "jump_activate",
+            "jump_rc_armed",
+            "Recharge"
+        ]
+    },
+    {
+        "AudioName": "DLC_AW_Mod_Vehicle_NPC_Sounds",
+        "SoundIDs": [
+            "jump_rc_activate",
+            "sideswipe",
+            "jump_rc_recharge",
+            "jump_armed",
+            "jump_activate",
+            "jump_rc_armed",
+            "Recharge"
+        ]
+    },
+    {
+        "AudioName": "hash_860473aa_bspulwi_collision",
+        "SoundIDs": [
+            "Wheely_Suspension_Land"
+        ]
+    },
+    {
+        "AudioName": "gtao_script_doors_sounds",
+        "SoundIDs": [
+            "Garage_Door_Close_Loop",
+            "hash_6891bcd5_yoruwke_collision",
+            "Glass_Door_Limit",
+            "GENERIC_DOOR_PUSH",
+            "METAL_SHUTTER_RAISE_LOOP",
+            "GENERIC_DOOR_LIMIT",
+            "hash_9b5670b9_swrhnzj_collision",
+            "hash_a74f1337_lmpaatj_collision",
+            "Metal_Door_Push",
+            "Bunker_Hatch",
+            "Metal_Door_Closed",
+            "Glass_Door_Push",
+            "Metal_Door_Limit",
+            "hash_1f7a16fc_bwhqkcz_collision",
+            "hash_269c07f7_hftwnzy_collision",
+            "hash_2afd30d2_wdlkuja_collision",
+            "hash_35cfbc75_arktjes_collision",
+            "hash_37f2fcb6_auwpklqi_collision",
+            "Generic_Door_Closed",
+            "Garage_Door_Open_Loop",
+            "Industrial_Elevator_Ride",
+            "hash_5b351bb0_gtlapbr_collision"
+        ]
+    },
+    {
+        "AudioName": "gtao_script_doors_faded_screen_sounds",
+        "SoundIDs": [
+            "Metal_Door_Limit",
+            "hash_1f7a16fc_bwhqkcz_collision",
+            "Garage_Door_Open",
+            "hash_269c07f7_hftwnzy_collision",
+            "hash_2afd30d2_wdlkuja_collision",
+            "hash_35cfbc75_arktjes_collision",
+            "hash_37f2fcb6_auwpklqi_collision",
+            "Generic_Door_Closed",
+            "Industrial_Elevator_Ride",
+            "hash_5b351bb0_gtlapbr_collision",
+            "hash_6891bcd5_yoruwke_collision",
+            "Glass_Door_Limit",
+            "GENERIC_DOOR_PUSH",
+            "METAL_SHUTTER_RAISE_LOOP",
+            "GENERIC_DOOR_LIMIT",
+            "hash_9b5670b9_swrhnzj_collision",
+            "hash_a74f1337_lmpaatj_collision",
+            "Metal_Door_Push",
+            "Bunker_Hatch",
+            "Metal_Door_Closed",
+            "Garage_Door_Close",
+            "Glass_Door_Push"
+        ]
+    },
+    {
+        "AudioName": "hash_d8a6eab3_bxvssvb_collision",
+        "SoundIDs": [
+            "Kick_Door_Generic",
+            "Kick_Door_Metal",
+            "hash_aa425a94_fpdvxcz_collision",
+            "Kick_Door_Metal_Bars",
+            "Kick_Door_Wood"
+        ]
+    },
+    {
+        "AudioName": "GTAO_XM3_FRM_IG6_STASH_ENTRY_Door_Breach_Kick",
+        "SoundIDs": [
+            "Kick_Door_Generic",
+            "Kick_Door_Metal",
+            "hash_aa425a94_fpdvxcz_collision",
+            "Kick_Door_Metal_Bars",
+            "Kick_Door_Wood"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Script_Doors_Extended_Sounds",
+        "SoundIDs": [
+            "Farm_Gate_Unlock_Open_Loop",
+            "Sliding_Bar_Gate_Unlock_Open_Loop",
+            "Darnell_Fast_Travel_Door",
+            "Chainlink_Gate_Unlock_Open_Loop",
+            "Shoot_Lock_Disable"
+        ]
+    },
+    {
+        "AudioName": "DLC_Exec_TP_SoundSet",
+        "SoundIDs": [
+            "Transform_Remote_Player",
+            "Transform_Local_Player",
+            "hash_3fd6a0da_gunzoqn_collision",
+            "Losing_Team_Shard",
+            "Winning_Team_Shard",
+            "Transform_Loser_Local_Player"
+        ]
+    },
+    {
+        "AudioName": "GTAO_FM_Events_Soundset",
+        "SoundIDs": [
+            "Checkpoint_Beast_Hit",
+            "Event_Fail",
+            "Shard_Appear",
+            "Near_Miss_Counter_Reset",
+            "OOB_Timer_Dynamic",
+            "Crate_Beacon_Loop",
+            "oob_timer_20s",
+            "Timer_10s",
+            "Event_Win",
+            "Event_Finished",
+            "Timer_5s",
+            "area_capture_player",
+            "Shard_Disappear",
+            "OOB_Start",
+            "event_start_remote",
+            "hash_4a9a1222_sibjqab_collision",
+            "castle_capture_remote",
+            "Parcel_Vehicle_Lost",
+            "5s_To_Event_Start_Countdown",
+            "area_capture_remote",
+            "Criminal_Damage_Kill_Player",
+            "Checkpoint_Cash_Hit",
+            "Object_Collect_Player",
+            "Criminal_Damage_High_Value",
+            "Event_Start_Text",
+            "Event_Draw",
+            "Enter_1st",
+            "Criminal_Damage_Low_Value",
+            "score_up_remote",
+            "OOB_Cancel",
+            "Checkpoint_Hit",
+            "hash_8e907545_mvcreub_collision",
+            "Crate_Collect",
+            "Kill_List_Counter",
+            "Radar_Beast_Blip",
+            "Lose_1st",
+            "score_up_player",
+            "Castle_Capture_Player",
+            "Crate_Beacon_Oneshot",
+            "hash_b931a8b5_dhfvnto_collision",
+            "Parcel_Sudden_Death",
+            "Event_Pass",
+            "hash_c65d6786_chybpgc_collision",
+            "Near_Miss_Counter",
+            "Return_To_Vehicle_Timer",
+            "timer_single",
+            "Object_Dropped_Remote",
+            "Crate_Land",
+            "Event_Message_Purple",
+            "Object_Collect_Remote",
+            "Explosion_Countdown",
+            "oob_timer_10s",
+            "Parcel_Vehicle_Gained",
+            "oob_timer_single",
+            "castle_lost",
+            "Event_Start"
+        ]
+    },
+    {
+        "AudioName": "DLC_IE_Sell_General_Sounds",
+        "SoundIDs": [
+            "DELIVERY_FAIL",
+            "Delivery_Success"
+        ]
+    },
+    {
+        "AudioName": "DLC_IO_Warehouse_Mod_Garage_Sounds",
+        "SoundIDs": [
+            "Remove_Tracker"
+        ]
+    },
+    {
+        "AudioName": "GTAO_DLC_IE_Bomb_Defuse_Sounds",
+        "SoundIDs": [
+            "Bomb_Armed",
+            "Arming_Countdown",
+            "Countdown_Loop",
+            "Count_Start",
+            "Bomb_Disarmed",
+            "Count_Stop"
+        ]
+    },
+    {
+        "AudioName": "GTAO_DLC_IE_Velocity_Sounds",
+        "SoundIDs": [
+            "Bomb_Armed",
+            "Arming_Countdown",
+            "Countdown_Loop",
+            "Count_Start",
+            "Checkpoint_Player",
+            "Bomb_Disarmed",
+            "Count_Stop",
+            "Timer_Reduced"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Boss_Goons_FM_Soundset",
+        "SoundIDs": [
+            "Boss_Spawn_Bullshark",
+            "hash_14797f87_keznbmh_collision",
+            "Boss_Spawn_Armor",
+            "hash_9cdfe3ca_nkcrywr_collision",
+            "Boss_Message_Orange",
+            "Goon_Paid_Small",
+            "Boss_Spawn_Ammo",
+            "Boss_Event_Start_Text",
+            "Goon_Paid_Large"
+        ]
+    },
+    {
+        "AudioName": "DLC_APT_Apartment_SoundSet",
+        "SoundIDs": [
+            "Apt_Style_Purchase"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Boss_Goons_FM_Shard_Sounds",
+        "SoundIDs": [
+            "Shard_Appear",
+            "Shard_Disappear",
+            "Shard_Fail",
+            "Shard_Become_Goon",
+            "Shard_Work_Over",
+            "Shard_Goon_Fired",
+            "Shard_Goon_Hired",
+            "Shard_Goon_Terminated",
+            "Shard_Win",
+            "Shard_Goon_Left",
+            "Shard_Become_Boss",
+            "Shard_Boss_Left"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Magnate_Boss_Modes_Soundset",
+        "SoundIDs": [
+            "hash_293214e2_znyunrba_collision",
+            "Deliver_Item",
+            "Enter_1st",
+            "Blip_Pickup",
+            "Lose_1st",
+            "Pickup_Standard",
+            "Pickup_Briefcase",
+            "Crates_Blipped"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Magnate_Finders_Keepers_Soundset",
+        "SoundIDs": [
+            "Case_Beep"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Magnate_Hunt_Boss_SoundSet",
+        "SoundIDs": [
+            "Boss_Blipped"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Magnate_Yacht_Attack_Soundset",
+        "SoundIDs": [
+            "Team_Capture_Start",
+            "Enemy_Capture_Start",
+            "hash_700292dc_vzfqekf_collision",
+            "hash_a3227ff9_sizhymn_collision"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Yacht_SoundSet",
+        "SoundIDs": [
+            "Hot_Tub_Loop"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Hot_Tub_PED_INSIDE_WATER",
+        "SoundIDs": [
+            "Splash_Land",
+            "Legs_Land",
+            "WaveImpact",
+            "ExitWater",
+            "DiveInWaterUnderwater",
+            "Splash",
+            "LegsInsideWater",
+            "FallingInWaterMedium",
+            "FallingInWaterSmallUnderwater",
+            "FallingInWaterHeavy",
+            "FallingInWaterHeavyUnderwater",
+            "FallingInWaterSmall",
+            "BodyInsideWater",
+            "DiveInWater",
+            "hash_dc897843_fhwthje_collision",
+            "FallingInWaterMediumUnderwater"
+        ]
+    },
+    {
+        "AudioName": "DLC_Apartments_Drop_Zone_Sounds",
+        "SoundIDs": [
+            "hash_0f806735_gmpyiss_collision",
+            "Zone_Neutral",
+            "Exit_Capture_Zone",
+            "Enter_Capture_Zone",
+            "Zone_Team_Capture",
+            "Helicopter_Loop",
+            "Zone_Enemy_Capture",
+            "Cargobob_Door_Open"
+        ]
+    },
+    {
+        "AudioName": "DLC_Apartments_Extraction_SoundSet",
+        "SoundIDs": [
+            "Crashed_Plane_Ambience"
+        ]
+    },
+    {
+        "AudioName": "GTAO_Smuggler_Plane_Sounds",
+        "SoundIDs": [
+            "Alarm_Loop",
+            "Crash_Water"
+        ]
+    },
+    {
+        "AudioName": "hydraulic_suspension_ss",
+        "SoundIDs": [
+            "Hydraulic_Suspension_Down",
+            "hash_11a52128_uhhpfic_collision",
+            "Hydraulic_Suspension_Deactivate",
+            "hash_36b0f523_ipkxgof_collision",
+            "Hydraulic_Suspension_Angle_Loop",
+            "Hydraulic_Suspension_Landing",
+            "stance_lowered",
+            "Hydraulic_Suspension_Up",
+            "hash_affdd401_dcybxpp_collision",
+            "stance_raised",
+            "Hydraulic_Suspension_Activate",
+            "Hydraulic_Suspension_Loop",
+            "Hydraulic_Suspension_Bounce"
+        ]
+    },
+    {
+        "AudioName": "hydraulic_suspension_donk_ss",
+        "SoundIDs": [
+            "Hydraulic_Suspension_Down",
+            "hash_11a52128_uhhpfic_collision",
+            "Hydraulic_Suspension_Deactivate",
+            "hash_36b0f523_ipkxgof_collision",
+            "Hydraulic_Suspension_Landing",
+            "Hydraulic_Suspension_Donk_Loop",
+            "stance_lowered",
+            "Hydraulic_Suspension_Up",
+            "hash_affdd401_dcybxpp_collision",
+            "stance_raised",
+            "Hydraulic_Suspension_Activate",
+            "Hydraulic_Suspension_Loop",
+            "Hydraulic_Suspension_Bounce"
+        ]
+    },
+    {
+        "AudioName": "hydraulic_suspension_donk_npc_ss",
+        "SoundIDs": [
+            "Hydraulic_Suspension_Down",
+            "hash_11a52128_uhhpfic_collision",
+            "Hydraulic_Suspension_Deactivate",
+            "hash_36b0f523_ipkxgof_collision",
+            "Hydraulic_Suspension_Landing",
+            "Hydraulic_Suspension_Donk_Loop",
+            "stance_lowered",
+            "Hydraulic_Suspension_Up",
+            "hash_affdd401_dcybxpp_collision",
+            "stance_raised",
+            "Hydraulic_Suspension_Activate",
+            "Hydraulic_Suspension_Loop",
+            "Hydraulic_Suspension_Bounce"
+        ]
+    },
+    {
+        "AudioName": "hydraulic_suspension_npc_ss",
+        "SoundIDs": [
+            "Hydraulic_Suspension_Down",
+            "hash_11a52128_uhhpfic_collision",
+            "Hydraulic_Suspension_Deactivate",
+            "hash_36b0f523_ipkxgof_collision",
+            "Hydraulic_Suspension_Angle_Loop",
+            "Hydraulic_Suspension_Landing",
+            "stance_lowered",
+            "Hydraulic_Suspension_Up",
+            "hash_affdd401_dcybxpp_collision",
+            "stance_raised",
+            "Hydraulic_Suspension_Activate",
+            "Hydraulic_Suspension_Loop",
+            "Hydraulic_Suspension_Bounce"
+        ]
+    },
+    {
+        "AudioName": "REMOTE_CONTROLLED_VEHICLE_Sounds",
+        "SoundIDs": [
+            "REMOTE_VEHICLE_LOOP"
+        ]
+    },
+    {
+        "AudioName": "DLC_ImportExport_Ruiner2_Sounds",
+        "SoundIDs": [
+            "Stabilize",
+            "descend",
+            "light_woo",
+            "jump_armed",
+            "Deploy",
+            "jump_activate",
+            "Recharge",
+            "Detach"
+        ]
+    },
+    {
+        "AudioName": "hash_f09c7816_wimpoow_collision",
+        "SoundIDs": [
+            "Stabilize",
+            "descend",
+            "jump_armed",
+            "Deploy",
+            "jump_activate",
+            "Recharge",
+            "Detach"
+        ]
+    },
+    {
+        "AudioName": "SPECIAL_AMMO_TYPE_BULLET_IMPACTS",
+        "SoundIDs": [
+            "hash_2b62268d_xlnvlie_collision",
+            "hash_2cfe212a_cyvily_collision",
+            "VEHICLE_IMPACT_FMJ_SLOW_MO",
+            "VEHICLE_IMPACT_FMJ",
+            "PED_IMPACT_HOLLOW_POINT",
+            "hash_9df7fd80_awukdvr_collision",
+            "INCENDIARY_AMMO_PED_FIRE_START",
+            "PED_IMPACT_HOLLOW_POINT_SLOW_MO",
+            "PED_IMPACT_ARMOUR_PIERCING"
         ]
     }
 ]
