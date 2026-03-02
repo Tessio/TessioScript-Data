@@ -1346,5 +1346,234 @@
             "PED_IMPACT_HOLLOW_POINT_SLOW_MO",
             "PED_IMPACT_ARMOUR_PIERCING"
         ]
-    }
+    },
+     { ## MP2023_01
+        "AudioName":  "dlc_mp2023_1_avgnr_interior_sfx",
+        "SoundIDs":  [
+                         "Attack_Alarm_01_Loop",
+                         "Attack_Big_Shake_Hit",
+                         "Attack_Alarm_02_Loop",
+                         "Attack_Alarm_03_Loop",
+                         "Attack_Background_Loop"
+                     ]
+    },
+    {
+        "AudioName":  "cayo_perico_attrition_mode_sounds",
+        "SoundIDs":  [
+                         "hash_2856017a_puemnxe_collision",
+                         "Switch_Loadout",
+                         "Radar_Hack_Button_Fail",
+                         "Radar_Hack_Button_Success",
+                         "Radar_Hacked_Loop",
+                         "Radar_Idle_Loop",
+                         "hash_e77361e6_wzbdova_collision",
+                         "hash_f5425705_bdjgqix_collision"
+                     ]
+    },
+    {
+        "AudioName":  "aircraft_carrier_raid_sounds",
+        "SoundIDs":  [
+                         "HANGER_DOOR_LOOP",
+                         "Buzzer_Loop",
+                         "Generator_Loop",
+                         "Bollards_Loop",
+                         "Lazer_Takeoff_Oneshot"
+                     ]
+    },
+    {
+        "AudioName":  "airstrike_destruction_sounds",
+        "SoundIDs":  [
+                         "Airstrike_Alarm",
+                         "Bomb_Whistle"
+                     ]
+    },
+    {
+        "AudioName":  "facility_raid_sounds",
+        "SoundIDs":  [
+                         "Backup_Generator_Start",
+                         "Lights_On",
+                         "EMP_Blast",
+                         "lights_off",
+                         "Electric_Spark_Charge_Loop",
+                         "Door_Locked_Error",
+                         "hash_d52f7b27_xhdkjo_collision",
+                         "hash_f82bb233_wsrejce_collision"
+                     ]
+    },
+    {
+        "AudioName":  "ghost_hunt_sounds",
+        "SoundIDs":  [
+                         "Collect_Shard",
+                         "JK_Ghost",
+                         "Male_Ghost",
+                         "Female_Ghost"
+                     ]
+    },
+    {
+        "AudioName":  "possessed_animal_sounds",
+        "SoundIDs":  [
+                         "Despawn_FE",
+                         "Deer_Spawn_In_World",
+                         "Boar_Spawn_In_World",
+                         "Despawn_In_World",
+                         "MtLion_Spawn_In_World",
+                         "Spawn_FE",
+                         "Coyote_Spawn_In_World",
+                         "Pug_Spawn_In_World"
+                     ]
+    },
+    {
+        "AudioName":  "dlc_mp2023_1_hsw_up_sounds",
+        "SoundIDs":  [
+                         "hash_3f1c5fff_rvjshrl_collision",
+                         "hash_6fe0918b_exwhnyaa_collision",
+                         "hash_726298c5_blkfkrq_collision",
+                         "UPGRADE",
+                         "Upgrade_Backup",
+                         "hash_c3da15e3_kbtddlt_collision"
+                     ]
+    },
+    {
+        "AudioName":  "dlc_mp2023_1_lsa_1_sounds",
+        "SoundIDs":  [
+                         "Container_Door_Lock_Shoot"
+                     ]
+    },
+    {
+        "AudioName":  "lsa_3_sounds",
+        "SoundIDs":  [
+                         "hash_0e0240c5_tazrqdca_collision",
+                         "AR_On",
+                         "AR_Off",
+                         "hash_8a640730_xyfroal_collision",
+                         "hash_b226090e_mybjqrda_collision",
+                         "hash_bdbe5d32_btizgqe_collision",
+                         "hash_d50fcee1_uwgkyre_collision"
+                     ]
+    },
+    {
+        "AudioName":  "dlc_mp2023_1_iaa_sounds",
+        "SoundIDs":  [
+                         "Elevator_Up"
+                     ]
+    },
+    {
+        "AudioName":  "dlc_mp2023_1_lsa_6_sj_sounds",
+        "SoundIDs":  [
+                         "DESTROYED",
+                         "attract"
+                     ]
+    },
+    {
+        "AudioName":  "dlc_mp2023_1_lsa_6_trolley_sounds",
+        "SoundIDs":  [
+                         "Lock_Scrape_Loop",
+                         "Push_Loop",
+                         "Magnet_Deactivate"
+                     ]
+    },
+    {
+        "AudioName":  "bike_time_trials_soundset",
+        "SoundIDs":  [
+                         "checkpoint",
+                         "CHECKPOINT_MISSED",
+                         "hash_84a2ac71_monwebx_collision",
+                         "Fail",
+                         "Countdown_GO",
+                         "Countdown_123",
+                         "Par_Beaten"
+                     ]
+    },
+    {
+        "AudioName":  "magnet_release_sounds",
+        "SoundIDs":  [
+                         "magnet_loop_on_avisa",
+                         "Load_Van",
+                         "magnet_loop_on_crane",
+                         "magnet_detach_crane",
+                         "magnet_detach_avisa",
+                         "magnet_attach_avisa"
+                     ]
+    },
+    {
+        "AudioName":  "plane_down_sounds",
+        "SoundIDs":  [
+                         "Wing_Propellar",
+                         "Cock_Pit",
+                         "TAIL",
+                         "Front_Propellar"
+                     ]
+    },
+    {
+        "AudioName":  "dlc_mp2023_1_small_and_agile_sounds",
+        "SoundIDs":  [
+                         "Deliver_Parcel",
+                         "Delivery_Success"
+                     ]
+    },
+    {
+        "AudioName":  "dlc_mp2023_1_avenger_sounds",
+        "SoundIDs":  [
+                         "thrusters_down",
+                         "thrusters_up"
+                     ]
+    },
+    {
+        "AudioName":  "dlc_mp2023_1_gauntlet6_flap_sounds",
+        "SoundIDs":  [
+                         "hash_1a166943_grvrbj_collision",
+                         "hash_f018de17_azrzaon_collision"
+                     ]
+    },
+    {
+        "AudioName":  "dlc_mp2023_1_raiju_thrusters_sounds",
+        "SoundIDs":  [
+                         "thrusters_down",
+                         "thrusters_up"
+                     ]
+    },
+    {
+        "AudioName":  "dlc_mp2023_1_raiju_flaps_sounds",
+        "SoundIDs":  [
+                         "hash_3edb6fcd_pfqyhns_collision",
+                         "Flaps_Close"
+                     ]
+    },
+    {
+        "AudioName":  "dlc_mp2023_1_raiju_stealth_sounds",
+        "SoundIDs":  [
+                         "hash_05b4a92b_bbnjdfc_collision",
+                         "hash_b0969575_pcvbmhd_collision"
+                     ]
+    },
+    {
+        "AudioName":  "dlc_mp2023_1_stingertt_spoiler_sounds",
+        "SoundIDs":  [
+                         "SPOILER_ROTATE_BACKWARDS_START",
+                         "SPOILER_ROTATE_BACKWARDS_STOP",
+                         "SPOILER_STRUT_LOWERED",
+                         "SPOILER_STRUT_START_LOWER",
+                         "SPOILER_STRUT_START_RAISE",
+                         "SPOILER_ROTATE_FORWARDS_START",
+                         "STRUT_ANGLE_ADJUST_LOOP",
+                         "SPOILER_ROTATE_FORWARDS_STOP",
+                         "SPOILER_STRUT_RAISED",
+                         "STRUT_HEIGHT_ADJUST_LOOP"
+                     ]
+    },
+    {
+        "AudioName":  "dlc_mp2023_1_stingertt_hsw_spoiler_sounds",
+        "SoundIDs":  [
+                         "SPOILER_ROTATE_BACKWARDS_START",
+                         "SPOILER_ROTATE_BACKWARDS_STOP",
+                         "SPOILER_STRUT_LOWERED",
+                         "SPOILER_STRUT_START_LOWER",
+                         "SPOILER_STRUT_START_RAISE",
+                         "SPOILER_ROTATE_FORWARDS_START",
+                         "STRUT_ANGLE_ADJUST_LOOP",
+                         "SPOILER_ROTATE_FORWARDS_STOP",
+                         "SPOILER_STRUT_RAISED",
+                         "STRUT_HEIGHT_ADJUST_LOOP"
+                     ]
+    } 
 ]
