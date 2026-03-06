@@ -1585,5 +1585,242 @@
                 ]
             }
         ]
+    },
+    {
+        "DLC": "The Chop Shop - MP2023_02",
+        "SoundSets": [
+            {
+                "AudioName": "wildlife_photography_collectibles_sounds",
+                "SoundIDs": [
+                    "hash_81256f2a_uqbzjbc_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_23_2_drift_up_sounds",
+                "SoundIDs": [
+                    "UPGRADE",
+                    "Upgrade_Remove",
+                    "Upgrade_Backup"
+                ]
+            },
+            {
+                "AudioName": "dlc_23_2_hsw_up_sounds",
+                "SoundIDs": [
+                    "hash_3c8c80bc_agpiljqt_collision",
+                    "UPGRADE",
+                    "hash_b2c2a622_ysicdog_collision",
+                    "Upgrade_Backup"
+                ]
+            },
+            {
+                "AudioName": "dlc_23_2_drag_race_sounds",
+                "SoundIDs": [
+                    "Rev_Limit_Damage_Loop",
+                    "Poor_Burnout",
+                    "checkpoint",
+                    "Speed_Wind",
+                    "Failed_Burnout",
+                    "boost_fail",
+                    "Good_Shift",
+                    "Great_Burnout",
+                    "Countdown_2_1",
+                    "Perfect_Burnout",
+                    "Perfect_Shift",
+                    "Perfect_Shift_Flame",
+                    "Checkpoint_Final",
+                    "hash_859ea0bb_etmcolx_collision",
+                    "Warning_Upshift",
+                    "Boost_Available",
+                    "Countdown_3",
+                    "Bad_Shift",
+                    "Down_Shift",
+                    "Countdown_GO",
+                    "Drag_Race_Intro",
+                    "Hint_Upshift",
+                    "Good_Burnout",
+                    "Okay_Burnout",
+                    "boost_activate"
+                ]
+            },
+            {
+                "AudioName": "dlc_23_2_drift_sounds",
+                "SoundIDs": [
+                    "Score_Tick_Loop",
+                    "Checkpoint_Final",
+                    "Score_Multiplier_Lost",
+                    "Drift_Race_Intro",
+                    "Countdown_3",
+                    "Countdown_GO",
+                    "Close_Call_Ambience",
+                    "Close_Call_Ambience_Activated",
+                    "Drift_God",
+                    "Super_Drift",
+                    "Close_Call_FE",
+                    "Checkpoint_Lap",
+                    "Drift_Complete",
+                    "Score_Mulitplier",
+                    "Ultra_Drift"
+                ]
+            },
+            {
+                "AudioName": "dlc_23_2_cargo_ship_robbery_finale_sounds",
+                "SoundIDs": [
+                    "Alarm_Loop",
+                    "hash_36eb7f26_brhmtrt_collision",
+                    "Ship_Horn_Oneshot",
+                    "Alien_Crate_Hum_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_23_2_cbr_2_sounds",
+                "SoundIDs": [
+                    "HACK",
+                    "Hack_Cool_Down_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_23_2_cbr_6_sounds",
+                "SoundIDs": [
+                    "Alarm_Loop",
+                    "Factory_Alarm_Loop",
+                    "Shoot_Lock"
+                ]
+            },
+            {
+                "AudioName": "diamond_casino_robbery_prep_lsds_van_sounds",
+                "SoundIDs": [
+                    "Alarm_02",
+                    "Alarm_04",
+                    "Alarm_03",
+                    "Alarm_01"
+                ]
+            },
+            {
+                "AudioName": "dlc_23_2_robbery_casino_finale_sounds",
+                "SoundIDs": [
+                    "Access_Denied",
+                    "Gas_Pumped_Out",
+                    "Lift_Arrive",
+                    "Gas_Pumped_In_Loop"
+                ]
+            },
+            {
+                "AudioName": "maze_bank_arena_robbery_finale_sounds",
+                "SoundIDs": [
+                    "Bomb_Remove"
+                ]
+            },
+            {
+                "AudioName": "dlc_23_2_salvage_yard_computer_sounds",
+                "SoundIDs": [
+                    "CLICK_BACK",
+                    "Click_Navigate",
+                    "Click_Generic",
+                    "Click_Accept",
+                    "hash_0d11a3fc_gyfpihz_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_23_2_salvage_yard_wall_plans_sounds",
+                "SoundIDs": [
+                    "UV_Light_On_Loop"
+                ]
+            },
+            {
+                "AudioName": "submarine_robbery_finale_sounds",
+                "SoundIDs": [
+                    "Alarm_Loop_01",
+                    "Depth_Alarm_Loop",
+                    "Alarm_Loop_02",
+                    "Alarm_Loop_03"
+                ]
+            },
+            {
+                "AudioName": "dlc_23_2_xmas_collectables_sounds",
+                "SoundIDs": [
+                    "Attack_Grunt",
+                    "Damage",
+                    "Clue_Attract",
+                    "Clue_Collected",
+                    "Death_Roar",
+                    "Spawn_Roar"
+                ]
+            },
+            {
+                "AudioName": "dlc_23_2_ecola_truck_sounds",
+                "SoundIDs": [
+                    "Spawn",
+                    "LOOP",
+                    "DESPAWN"
+                ]
+            },
+            {
+                "AudioName": "entourage_remix_sounds",
+                "SoundIDs": [
+                    "Krampus_Spawn_FE",
+                    "Krampus_Jump",
+                    "Santa_Spawn_FE",
+                    "Round_Start_Sweetner_FE",
+                    "COMBAT_ROLL",
+                    "Santa_Death_FE",
+                    "Santa_Escape_FE",
+                    "Elves_Spawn_FE"
+                ]
+            },
+            {
+                "AudioName": "krampus_footsteps_sounds",
+                "SoundIDs": [
+                    "Sprint",
+                    "Run",
+                    "JUMP_LAND",
+                    "Walk"
+                ]
+            },
+            {
+                "AudioName": "santa_footsteps_sounds",
+                "SoundIDs": [
+                    "Sprint",
+                    "Run",
+                    "JUMP_LAND",
+                    "Walk"
+                ]
+            },
+            {
+                "AudioName": "dlc_23_2_spl_snowball_sounds",
+                "SoundIDs": [
+                    "snowball_kill"
+                ]
+            },
+            {
+                "AudioName": "driftfuto_headlights_ss",
+                "SoundIDs": [
+                    "LightCover_PopDown",
+                    "LightCover_PopUp"
+                ]
+            },
+            {
+                "AudioName": "driftzr350_headlights_ss",
+                "SoundIDs": [
+                    "LightCover_PopDown",
+                    "LightCover_PopUp"
+                ]
+            },
+            {
+                "AudioName": "dlc_23_2_br_plyr_reloads_mono_ss",
+                "SoundIDs": [
+                    "grab2",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            }
+        ]
     }
 ]
