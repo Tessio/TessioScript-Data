@@ -3431,5 +3431,1378 @@
                 ]
             }
         ]
+    },
+    {
+        "DLC": "Bikers - MPBIKER",
+        "SoundSets": [
+            {
+                "AudioName": "dlc_biker_money_printer_basic_sounds",
+                "SoundIDs": [
+                    "Printer_Unit_01_Loop",
+                    "Printer_Unit_02_Loop",
+                    "Printer_Cutter_Loop",
+                    "Printer_Unit_03_Loop",
+                    "Printer_Unit_04_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_money_printer_upgraded_sounds",
+                "SoundIDs": [
+                    "Printer_Unit_05_Loop",
+                    "Printer_Unit_01_Loop",
+                    "Printer_Unit_06_Loop",
+                    "Printer_Unit_02_Loop",
+                    "Printer_Cutter_Loop",
+                    "Printer_Unit_03_Loop",
+                    "Printer_Unit_04_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_business_cfm_sounds",
+                "SoundIDs": [
+                    "Money_Counter_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_autoshotgun_reloads_ss",
+                "SoundIDs": [
+                    "grab2",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_compact_launcher_reload_sounds",
+                "SoundIDs": [
+                    "grab2",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_minismg_reload_ss",
+                "SoundIDs": [
+                    "grab2",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            },
+            {
+                "AudioName": "bike_melee_ped_sounds",
+                "SoundIDs": [
+                    "DEFAULT_UNARMED",
+                    "DEFAULT_MELEE_GENERIC",
+                    "DEFAULT_MELEE_WOOD",
+                    "DEFAULT_WEAPON_SMALL",
+                    "DEFAULT_WEAPON_LARGE",
+                    "DEFAULT_WEAPON_MED",
+                    "DEFAULT_MELEE_SHARP",
+                    "DEFAULT_MELEE_METAL"
+                ]
+            },
+            {
+                "AudioName": "bike_melee_sounds",
+                "SoundIDs": [
+                    "DEFAULT_UNARMED",
+                    "DEFAULT_MELEE_GENERIC",
+                    "DEFAULT_MELEE_WOOD",
+                    "DEFAULT_WEAPON_SMALL",
+                    "DEFAULT_WEAPON_LARGE",
+                    "DEFAULT_WEAPON_MED",
+                    "DEFAULT_MELEE_SHARP",
+                    "DEFAULT_MELEE_METAL"
+                ]
+            },
+            {
+                "AudioName": "bike_melee_swipe_sounds",
+                "SoundIDs": [
+                    "DEFAULT_SWIPE"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_computer_sounds",
+                "SoundIDs": [
+                    "hash_0025d56f_sqvxhu_collision",
+                    "CLICK_BACK",
+                    "Click_Link",
+                    "Click_Special",
+                    "Click_Cancel",
+                    "Click_Generic",
+                    "Business_Restart",
+                    "EXIT",
+                    "click_hover",
+                    "click_keyboard_nav",
+                    "hash_ba9cce00_epawfsi_collision",
+                    "Click_Fail",
+                    "Business_Shutdown",
+                    "click_keyboard"
+                ]
+            },
+            {
+                "AudioName": "biker_formation_blips_soundset",
+                "SoundIDs": [
+                    "chimera",
+                    "carbonrs",
+                    "faggio2",
+                    "bf400",
+                    "hexer",
+                    "cliffhanger",
+                    "lectro",
+                    "gargoyle",
+                    "sovereign",
+                    "sanchez",
+                    "defiler",
+                    "hakuchou",
+                    "sanctus",
+                    "akuma",
+                    "enduro",
+                    "thrust",
+                    "ratbike",
+                    "daemon",
+                    "esskey",
+                    "bagger",
+                    "blazer",
+                    "avarus",
+                    "double",
+                    "nightblade",
+                    "manchez",
+                    "sanchez2",
+                    "daemon2",
+                    "vindicator",
+                    "faggio3",
+                    "blazer3",
+                    "zombiea",
+                    "pcj",
+                    "ruffian",
+                    "bati2",
+                    "raptor",
+                    "nemesis",
+                    "wolfsbane",
+                    "vortex",
+                    "zombieb",
+                    "blazer4",
+                    "shotaro",
+                    "hakuchou2",
+                    "innovation",
+                    "vader",
+                    "bati",
+                    "blazer2",
+                    "policeb"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_mission_wall_sounds",
+                "SoundIDs": [
+                    "Highlight_Move_Up_Down",
+                    "Highlight_Back",
+                    "Highlight_Accept",
+                    "Highlight_Move_Left_Right",
+                    "Highlight_Error"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_delivery_sounds",
+                "SoundIDs": [
+                    "Highlight_Move_Up_Down",
+                    "Highlight_Back",
+                    "Highlight_Accept",
+                    "Highlight_Move_Left_Right",
+                    "Highlight_Error",
+                    "Resupply-Steal_Vehicle-Motorcycle",
+                    "Setup-Pure_Cocaine-Car",
+                    "Setup-Methylamine-Truck",
+                    "Setup-Personal_Data-Package",
+                    "Resupply-Chemicals-Truck",
+                    "Resupply-Biker_Melee-Package",
+                    "Resupply-Intimidation-Van",
+                    "Resupply-Bank-Package",
+                    "Resupply-Security_Vans-Security_Van",
+                    "Resupply-Repairman-Van",
+                    "Resupply-Weed_Farm-Package"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_warehouse_intro_inventory_sounds",
+                "SoundIDs": [
+                    "hash_02b1254c_licvzcc_collision",
+                    "hash_250e78e1_avymlup_collision",
+                    "hash_261810e5_fndrdcy_collision",
+                    "hash_39fa7c28_kecsiva_collision",
+                    "hash_63f9d654_wnsdydw_collision",
+                    "hash_6aad9642_mkbcvqc_collision",
+                    "hash_78febef1_jaiyopy_collision",
+                    "hash_819951ef_mlbfrob_collision",
+                    "hash_89116508_atxdjel_collision",
+                    "hash_b16b9a6d_foswlhj_collision",
+                    "hash_b409d9e4_ajkccbiq_collision",
+                    "hash_ddef8a28_owcuzsp_collision",
+                    "hash_e7a96add_egfeflb_collision",
+                    "hash_fb16f251_etovmiz_collision",
+                    "hash_fbbb4fab_etcmrl_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_kq_sounds",
+                "SoundIDs": [
+                    "hash_2062643b_oxvvpj_collision",
+                    "Next_Level_Melee",
+                    "Next_Level_Generic",
+                    "Score_Team",
+                    "Next_Level_Gun",
+                    "hash_99305121_jdkotbv_collision",
+                    "Score_Opponent",
+                    "Next_Level_Explosive"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_lostanddamned_sounds",
+                "SoundIDs": [
+                    "Night_Die",
+                    "Timer_To_Day",
+                    "NightFall_Stinger",
+                    "Timer_To_Night",
+                    "Day_Die",
+                    "DayBreak_Stinger"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_sl_sounds",
+                "SoundIDs": [
+                    "In_Range",
+                    "out_of_range",
+                    "Slipstream_Leader",
+                    "R2_Boost",
+                    "Take_First",
+                    "Slipstream_Follower",
+                    "Lose_First",
+                    "Teammate_Checkpoint"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_dl_sounds",
+                "SoundIDs": [
+                    "Trail_00",
+                    "Use_Boost",
+                    "Trail_03",
+                    "Use_Zoned",
+                    "Trail_02",
+                    "Trail_01",
+                    "Use_Bunnyhop",
+                    "crash"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_clubhouse_intro_sounds",
+                "SoundIDs": [
+                    "hash_3de43cc6_droicyl_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_burn_assets_sounds",
+                "SoundIDs": [
+                    "Crate_Explosion",
+                    "Counter_Tick"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_cracked_sounds",
+                "SoundIDs": [
+                    "Safe_Handle_Spin",
+                    "SAFE_DOOR_OPEN"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_sell_sea_sounds",
+                "SoundIDs": [
+                    "Drop_Package"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_sell_trash_sounds",
+                "SoundIDs": [
+                    "Drop_Package"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_sell_postman_sounds",
+                "SoundIDs": [
+                    "Drop_Package"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_air_drop_sounds",
+                "SoundIDs": [
+                    "Drop_Zone_Alarm",
+                    "Parachute_Land",
+                    "Drop_Package"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_pow_sounds",
+                "SoundIDs": [
+                    "Unlock_Cell",
+                    "Blow_Cell_Door"
+                ]
+            },
+            {
+                "AudioName": "dlc_biker_resupply_meet_contact_sounds",
+                "SoundIDs": [
+                    "Sniper_Fire",
+                    "Sniper_Bullet_Hit"
+                ]
+            }
+        ]
+    },
+    {
+        "DLC": "The Doomsday Heist - MPCHRISTMAS2017",
+        "SoundSets": [
+            {
+                "AudioName": "dlc_xm_facility_ambient_sounds",
+                "SoundIDs": [
+                    "alarm",
+                    "Deactivate_Privacy_Glass",
+                    "Activate_Privacy_Glass"
+                ]
+            },
+            {
+                "AudioName": "door_sliding_metal_cell_bars",
+                "SoundIDs": [
+                    "opened",
+                    "Closed",
+                    "OPENING",
+                    "Closing"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_aqo_sounds",
+                "SoundIDs": [
+                    "Vehicle_Transform",
+                    "Goal_Reached",
+                    "Gain_Point"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_hata_sounds",
+                "SoundIDs": [
+                    "Team_Killed_1p",
+                    "No_Longer_Target",
+                    "Weapon_Respawn",
+                    "Team_Killed_3p",
+                    "Enemy_Killed_1p",
+                    "Enemy_Killed_3p",
+                    "Weapon_Collect",
+                    "Become_Target"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_sls_sounds",
+                "SoundIDs": [
+                    "Timer_10s",
+                    "Timer_5s",
+                    "breathing_01",
+                    "Swap_Sides",
+                    "Breaker_02",
+                    "Heartbeat",
+                    "Become_Hunted",
+                    "hash_65cd4e7c_atlmcqpc_collision",
+                    "EMP",
+                    "breathing_02",
+                    "Breaker_01",
+                    "Become_Slasher"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_fm_th_sounds",
+                "SoundIDs": [
+                    "item_close_loop",
+                    "ITEM_FOUND",
+                    "clue_complete_shard"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_heists_fm_aql_sounds",
+                "SoundIDs": [
+                    "security_scanner_beep_os"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_heists_fm_uc_sounds",
+                "SoundIDs": [
+                    "security_scanner_beep_os",
+                    "download_start",
+                    "download_complete"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm17_iaa_deluxos_sounds",
+                "SoundIDs": [
+                    "Flight_Unlock",
+                    "Hover_Unlock"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_heists_iaa_morgue_sounds",
+                "SoundIDs": [
+                    "tag_entity",
+                    "laptop_download_loop",
+                    "hash_fc7ec63a_zupiik_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_deluxos_hacking_hacking_sounds",
+                "SoundIDs": [
+                    "HACK_LOOP",
+                    "Hack_Complete",
+                    "Hack_Start",
+                    "Hack_Stop"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_iaa_finale_sounds",
+                "SoundIDs": [
+                    "elevator_descend_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm17_iaa_finale_remote_turrets_sounds",
+                "SoundIDs": [
+                    "Fire_Missile_Oneshot",
+                    "Fire_MG_Loop",
+                    "pan_loop",
+                    "Zoom_Loop",
+                    "Background_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_farm_sounds",
+                "SoundIDs": [
+                    "Alarm_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm17_iaa_sf_hack",
+                "SoundIDs": [
+                    "Grab_Wire",
+                    "Hack_Fail_Remote",
+                    "Attach_Wire",
+                    "hash_6beb0bc9_ecfibua_collision",
+                    "Output_Highlight",
+                    "Hack_Success",
+                    "Hack_Fail",
+                    "Input_Highlight",
+                    "Background_Loop",
+                    "ERROR",
+                    "Hack_Success_Remote",
+                    "Test_Circuit"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm17_silo_flight_recorder_sounds",
+                "SoundIDs": [
+                    "Plane_Damaged_Loop",
+                    "Plane_Crash_Oneshot"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm17_silo_pred_sounds",
+                "SoundIDs": [
+                    "Goggles_Update"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_silo_finale_sounds",
+                "SoundIDs": [
+                    "hash_02cc532f_rypqqiz_collision",
+                    "launch_alarm_loop",
+                    "hash_602f4718_hxfcyuja_collision",
+                    "silo_alarm_loop",
+                    "launch_power_up_loop",
+                    "missile_system_armed"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_silo_laser_hack_sounds",
+                "SoundIDs": [
+                    "Hit_Mirror",
+                    "Fail_Remote",
+                    "hash_3b45fa4e_rgtmwvd_collision",
+                    "Rotate_Mirror",
+                    "Node_Select",
+                    "Blue_Target_Charge",
+                    "Pass_Remote",
+                    "Fail",
+                    "Blue_Target_Explode",
+                    "Red_Target_Charge",
+                    "Cursor_Move",
+                    "hash_cc9c884b_ffhckvh_collision",
+                    "Red_Target_Explode",
+                    "Node_Release",
+                    "pass",
+                    "BACKGROUND"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_silo_secret_door_sounds",
+                "SoundIDs": [
+                    "Door_Open_Long",
+                    "Exit_Silo",
+                    "Door_Open_Limit"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_stealavg_sounds",
+                "SoundIDs": [
+                    "handle_up",
+                    "Lights_On",
+                    "lights_off",
+                    "generator_on_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_stromberg_sounds",
+                "SoundIDs": [
+                    "transform_oneshot",
+                    "sub_scanner_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_submarine_sounds",
+                "SoundIDs": [
+                    "Alarm_Loop",
+                    "submarine_sunk",
+                    "submarine_explosions_stream"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm17_planning_board_soundset",
+                "SoundIDs": [
+                    "Finale_Available",
+                    "Nav_Blocked",
+                    "Draw_Board",
+                    "BACK",
+                    "DRAW_TITLE_TEXT",
+                    "NAV_LEFT_RIGHT",
+                    "SELECT",
+                    "Decrease_Loot_Share",
+                    "USE",
+                    "Launch_Mission",
+                    "Increase_Loot_Share",
+                    "pay",
+                    "Nav_Left_Right_Photo_Change",
+                    "Nav_Up_Down_Photo_Change",
+                    "DRAW_DESCRIPTION_TEXT",
+                    "ERROR",
+                    "NAV_UP_DOWN",
+                    "Bootup",
+                    "BACKGROUND"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_avngr_sounds",
+                "SoundIDs": [
+                    "hash_15c21885_uequrpw_collision",
+                    "Fly_Loop",
+                    "Explosion_Shake"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_avngr_turret_sounds",
+                "SoundIDs": [
+                    "Zoom",
+                    "Pan",
+                    "Turret_Camera_Hum_Loop",
+                    "FIRE"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_iaa_player_facility_sounds",
+                "SoundIDs": [
+                    "scanner_alarm_os"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_facility_entry_exit_sounds",
+                "SoundIDs": [
+                    "hangar_doors_limit",
+                    "hangar_doors_close",
+                    "hash_772065af_cwazzvj_collision",
+                    "elevator_ascend_loop",
+                    "hangar_doors_loop",
+                    "hangar_doors_open",
+                    "elevator_descend_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm17_facility_strike_pc_sounds",
+                "SoundIDs": [
+                    "BACKGROUND"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_orbital_cannon_sounds",
+                "SoundIDs": [
+                    "zoom_out_loop",
+                    "cannon_activating_loop",
+                    "menu_reset",
+                    "menu_select",
+                    "pan_loop",
+                    "hash_95ba3e3c_azzmgtad_collision",
+                    "Background_Loop",
+                    "menu_up_down",
+                    "cannon_active",
+                    "cannon_charge_fire_loop",
+                    "inactive_fire_fail",
+                    "Menu_Back"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_orbital_cannon_remote_sounds",
+                "SoundIDs": [
+                    "cannon_active_loop",
+                    "3_2_1_fire",
+                    "cannon_charge_fire_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_pickup_sweetener_sounds",
+                "SoundIDs": [
+                    "Keys",
+                    "flight_recorder",
+                    "sports_bag",
+                    "torpedoes"
+                ]
+            },
+            {
+                "AudioName": "akula_sounds",
+                "SoundIDs": [
+                    "landing_gear_retract",
+                    "gun_flaps_close",
+                    "landing_gear_deploy",
+                    "wheel_flaps_open",
+                    "wheel_flaps_close",
+                    "gun_flaps_open"
+                ]
+            },
+            {
+                "AudioName": "viseris_headlights_ss",
+                "SoundIDs": [
+                    "LightCover_PopDown",
+                    "LightCover_PopUp"
+                ]
+            },
+            {
+                "AudioName": "dlc_christmas2017_avenger_sounds",
+                "SoundIDs": [
+                    "thrusters_down",
+                    "thrusters_up"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_barrage_turret_sounds",
+                "SoundIDs": [
+                    "MotorLoop"
+                ]
+            },
+            {
+                "AudioName": "chernobog_barrage_sounds",
+                "SoundIDs": [
+                    "DEACTIVATE",
+                    "Activate"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_chernobog_turret_sounds",
+                "SoundIDs": [
+                    "MotorLoop"
+                ]
+            },
+            {
+                "AudioName": "deluxo_flight_sounds",
+                "SoundIDs": [
+                    "flight_loop"
+                ]
+            },
+            {
+                "AudioName": "deluxo_transform_ss",
+                "SoundIDs": [
+                    "wings_in",
+                    "transform_to_flight",
+                    "wings_out",
+                    "transform_to_car"
+                ]
+            },
+            {
+                "AudioName": "khanjali_wheels_ss",
+                "SoundIDs": [
+                    "track_move_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_khanjali_turret_sounds",
+                "SoundIDs": [
+                    "MotorLoop"
+                ]
+            },
+            {
+                "AudioName": "stromberg_submersible_sounds",
+                "SoundIDs": [
+                    "rotor_loop",
+                    "wing_flap",
+                    "rotor_turn"
+                ]
+            },
+            {
+                "AudioName": "stromberg_transform_ss",
+                "SoundIDs": [
+                    "hash_04ac0e73_cvuxtjk_collision",
+                    "transform_to_car_short",
+                    "hash_0aac51df_dhrofnx_collision",
+                    "hash_1bf4ab24_gydfhtm_collision",
+                    "hash_7fa97dd6_abwtxgny_collision",
+                    "hash_a16105aa_elxrgwr_collision",
+                    "hash_c38006ff_mjxzyxl_collision",
+                    "transform_to_car",
+                    "hash_ede7cd0a_gpirkd_collision",
+                    "hash_f488ea06_mwctlfk_collision",
+                    "transform_to_sub"
+                ]
+            },
+            {
+                "AudioName": "stromberg_transform_npc_ss",
+                "SoundIDs": [
+                    "hash_04ac0e73_cvuxtjk_collision",
+                    "transform_to_car_short",
+                    "hash_0aac51df_dhrofnx_collision",
+                    "hash_1bf4ab24_gydfhtm_collision",
+                    "hash_7fa97dd6_abwtxgny_collision",
+                    "hash_a16105aa_elxrgwr_collision",
+                    "hash_c38006ff_mjxzyxl_collision",
+                    "transform_to_car",
+                    "hash_ede7cd0a_gpirkd_collision",
+                    "hash_f488ea06_mwctlfk_collision",
+                    "transform_to_sub"
+                ]
+            },
+            {
+                "AudioName": "thruster_turbine_sounds",
+                "SoundIDs": [
+                    "legs_up",
+                    "WIND",
+                    "Strafe",
+                    "legs_down",
+                    "ShutDown"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_jato_sounds",
+                "SoundIDs": [
+                    "activate_fail",
+                    "Activate"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_jato_npc_sounds",
+                "SoundIDs": [
+                    "activate_fail",
+                    "Activate"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm_vehicle_interior_security_camera_sounds",
+                "SoundIDs": [
+                    "Background_Hum"
+                ]
+            },
+            {
+                "AudioName": "ptl_doubleaction_revolver_npc_reloads_ss",
+                "SoundIDs": [
+                    "grab2",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            },
+            {
+                "AudioName": "ptl_doubleaction_revolver_plyr_reloads_mono_ss",
+                "SoundIDs": [
+                    "grab2",
+                    "Hammer_Pull",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "Hammer_Reset",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            },
+            {
+                "AudioName": "ptl_heavy_revolver_mk2_npc_reloads_ss",
+                "SoundIDs": [
+                    "grab2",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            },
+            {
+                "AudioName": "ptl_heavy_revolver_mk2_plyr_reloads_mono_ss",
+                "SoundIDs": [
+                    "grab2",
+                    "Hammer_Pull",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "Hammer_Reset",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            },
+            {
+                "AudioName": "snp_marksman_mk2_plyr_reloads_mono_ss",
+                "SoundIDs": [
+                    "grab2",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            }
+        ]
+    },
+    {
+        "DLC": "Gunrunning - MPGUNRUNNING",
+        "SoundSets": [
+            {
+                "AudioName": "dlc_gr_dr_enemy_sounds",
+                "SoundIDs": [
+                    "hash_06b91049_lalyopa_collision",
+                    "Transmitter_Beeps",
+                    "Helicopter_Loop",
+                    "Round_Start",
+                    "hash_b0740a0a_qmtklri_collision",
+                    "FLARE",
+                    "hash_d7293729_vzcvksx_collision",
+                    "Cargobob_Door_Open"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_dr_player_sounds",
+                "SoundIDs": [
+                    "hash_06b91049_lalyopa_collision",
+                    "Transmitter_Beeps",
+                    "Helicopter_Loop",
+                    "Round_Start",
+                    "hash_b0740a0a_qmtklri_collision",
+                    "FLARE",
+                    "hash_d7293729_vzcvksx_collision",
+                    "Cargobob_Door_Open"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_dr_team_sounds",
+                "SoundIDs": [
+                    "hash_06b91049_lalyopa_collision",
+                    "Transmitter_Beeps",
+                    "Helicopter_Loop",
+                    "Round_Start",
+                    "hash_b0740a0a_qmtklri_collision",
+                    "FLARE",
+                    "hash_d7293729_vzcvksx_collision",
+                    "Cargobob_Door_Open"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_ot_team_sounds",
+                "SoundIDs": [
+                    "Successful_Landing",
+                    "Failed_Landing",
+                    "Vehicle_Destroyed",
+                    "hash_92d9a764_kvnfpxl_collision",
+                    "Round_Start",
+                    "Round_End"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_ot_player_sounds",
+                "SoundIDs": [
+                    "Successful_Landing",
+                    "Failed_Landing",
+                    "Vehicle_Destroyed",
+                    "hash_92d9a764_kvnfpxl_collision",
+                    "Round_Start",
+                    "Round_End"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_ot_enemy_sounds",
+                "SoundIDs": [
+                    "Successful_Landing",
+                    "Failed_Landing",
+                    "Vehicle_Destroyed",
+                    "hash_92d9a764_kvnfpxl_collision",
+                    "Round_Start",
+                    "Round_End"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_pm_beast_soundset",
+                "SoundIDs": [
+                    "Thernal_Vision_Loop",
+                    "Blade_Beasts_Win",
+                    "Beast_Checkpoint_NPC",
+                    "Beast_Jump_Land",
+                    "Beast_Cloak",
+                    "Beast_Jump",
+                    "Beast_Sprint_Loop",
+                    "Blade_Beasts_Fail",
+                    "Beast_Checkpoint",
+                    "Beast_Attack",
+                    "Beast_Uncloak",
+                    "Blade_Appear",
+                    "beast_attack_kill",
+                    "Beast_Die"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_pm_juggernaut_enemy_sounds",
+                "SoundIDs": [
+                    "Transform_JN_VFX",
+                    "Transform_Attacker_VFX",
+                    "Become_Attacker",
+                    "Become_JN",
+                    "JN_Death",
+                    "Round_Start_JN"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_pm_juggernaut_player_sounds",
+                "SoundIDs": [
+                    "Transform_JN_VFX",
+                    "Transform_Attacker_VFX",
+                    "Become_Attacker",
+                    "Become_JN",
+                    "JN_Death",
+                    "Round_Start_JN"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_pm_juggernaut_team_sounds",
+                "SoundIDs": [
+                    "Transform_JN_VFX",
+                    "Transform_Attacker_VFX",
+                    "Become_Attacker",
+                    "Become_JN",
+                    "JN_Death",
+                    "Round_Start_JN"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_pm_juggernaut_footstep_sounds",
+                "SoundIDs": [
+                    "Sprint",
+                    "Run",
+                    "JUMP_LAND",
+                    "Walk"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_pm_enemy_sounds",
+                "SoundIDs": [
+                    "TEMP"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_pm_player_sounds",
+                "SoundIDs": [
+                    "TEMP"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_pm_team_sounds",
+                "SoundIDs": [
+                    "TEMP"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_bunker_door_sounds",
+                "SoundIDs": [
+                    "Door_Open_Long",
+                    "Door_Open_Limit",
+                    "door_open_02",
+                    "Door_Open_03",
+                    "door_close_01",
+                    "Door_Close_03",
+                    "hash_bbeda5b5_gvjbhxn_collision",
+                    "door_close_02",
+                    "door_open_01"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_bunker_shooting_range_sounds",
+                "SoundIDs": [
+                    "Target_Activate",
+                    "Target_Deactivate",
+                    "Target_Hit_Body_Black",
+                    "Target_Hit_Head_Black",
+                    "Target_Hit_Head_Red",
+                    "Target_Hit_Body_Red"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_disruption_logistics_sounds",
+                "SoundIDs": [
+                    "hash_0025d56f_sqvxhu_collision",
+                    "CLICK_BACK",
+                    "Click_Link",
+                    "Click_Special",
+                    "Click_Cancel",
+                    "Click_Generic",
+                    "hash_5a4865fc_keqgrsc_collision",
+                    "Business_Restart",
+                    "EXIT",
+                    "click_hover",
+                    "click_keyboard_nav",
+                    "hash_ba9cce00_epawfsi_collision",
+                    "Click_Fail",
+                    "Business_Shutdown",
+                    "click_keyboard"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_generic_mission_sounds",
+                "SoundIDs": [
+                    "package_delivered_success_remote",
+                    "hash_285e307e_evmnwis_collision",
+                    "package_delivered_success"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_disarm_bombs_sounds",
+                "SoundIDs": [
+                    "Bomb_Armed",
+                    "hash_3ebc8788_rpvvure_collision",
+                    "Bomb_Disarmed",
+                    "Bomb_Beep"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_valkyrie_escape_sounds",
+                "SoundIDs": []
+            },
+            {
+                "AudioName": "dlc_gr_altruists_sounds",
+                "SoundIDs": []
+            },
+            {
+                "AudioName": "dlc_gr_cs2_sounds",
+                "SoundIDs": [
+                    "06",
+                    "hash_292b422f_jvclsof_collision",
+                    "05",
+                    "04",
+                    "07",
+                    "01",
+                    "03",
+                    "02"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_diversion_sounds",
+                "SoundIDs": []
+            },
+            {
+                "AudioName": "dlc_gr_flashlight_sounds",
+                "SoundIDs": [
+                    "Crate_Beep",
+                    "Pickup_Collected_Remote",
+                    "Pickup_Collected"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_steal_miniguns_sounds",
+                "SoundIDs": [
+                    "Armour_Off",
+                    "Armour_On"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_steal_railguns_sounds",
+                "SoundIDs": [
+                    "Hack_Failed",
+                    "Garage_Door_Unlocked",
+                    "Hack_Success",
+                    "door_unlocked"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_yacht_search_sounds",
+                "SoundIDs": [
+                    "Crate_Beep",
+                    "Pickup_Collected_Remote",
+                    "Pickup_Collected"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_ambushed_sounds",
+                "SoundIDs": [
+                    "Signal_Off",
+                    "Signal_On"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_ftl_sounds",
+                "SoundIDs": [
+                    "Connection_Lost",
+                    "Connection_Established"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_hill_climb_sounds",
+                "SoundIDs": []
+            },
+            {
+                "AudioName": "dlc_gr_phantom_sounds",
+                "SoundIDs": []
+            },
+            {
+                "AudioName": "dlc_gr_rough_terrain_sounds",
+                "SoundIDs": []
+            },
+            {
+                "AudioName": "dlc_gr_wvm_apc_sounds",
+                "SoundIDs": [
+                    "hash_185f4813_beqgmfv_collision",
+                    "Drone_View"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_wvm_moc_soundset",
+                "SoundIDs": [
+                    "Bomb_Armed",
+                    "Beacon",
+                    "Arming_Countdown",
+                    "ARMED",
+                    "Count_Start",
+                    "Bomb_Disarmed",
+                    "Count_Stop",
+                    "countdown"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_wvm_oppressor2_sounds",
+                "SoundIDs": [
+                    "Plane_Alarm_Loop",
+                    "Plane_Door_Open"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_moc_turret_sounds",
+                "SoundIDs": [
+                    "Turret_Camera_Hum_Loop",
+                    "FIRE"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_moc_computer_sounds",
+                "SoundIDs": [
+                    "Select_Mission_Launch",
+                    "Log_In",
+                    "Select_Mission_Cancel",
+                    "Logout",
+                    "hash_585de2cb_buotqgm_collision",
+                    "hash_5961f08a_aorghvr_collision",
+                    "Select_Mission_Unavailable_OK",
+                    "hash_6b3f52ef_zyzidboa_collision",
+                    "Select_Mission_Unavailable",
+                    "Select_Mission_Are_You_Sure"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_moc_enter_exit_sounds",
+                "SoundIDs": [
+                    "Enter_Car_Ramp_Deploy",
+                    "Enter_Car_Ramp_Hits_Ground"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_moc_sounds",
+                "SoundIDs": [
+                    "hash_15c21885_uequrpw_collision",
+                    "Drive_Loop",
+                    "Explosion_Shake"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_sliding_door_sounds",
+                "SoundIDs": [
+                    "CLOSE",
+                    "OPEN"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_weapon_upgrade_soundset",
+                "SoundIDs": [
+                    "Weapon_Upgrade"
+                ]
+            },
+            {
+                "AudioName": "ardent_headlights_ss",
+                "SoundIDs": [
+                    "LightCover_PopDown",
+                    "LightCover_PopUp"
+                ]
+            },
+            {
+                "AudioName": "cheetah2_headlights_ss",
+                "SoundIDs": [
+                    "LightCover_PopDown",
+                    "LightCover_PopUp"
+                ]
+            },
+            {
+                "AudioName": "halftrack_wheels_ss",
+                "SoundIDs": [
+                    "track_move_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_gunrunning_oppressor_sounds",
+                "SoundIDs": [
+                    "jet_whine",
+                    "activate_fail",
+                    "wings_in",
+                    "wings_out",
+                    "Activate",
+                    "glide",
+                    "Recharge"
+                ]
+            },
+            {
+                "AudioName": "dlc_gunrunning_oppressor_npc_sounds",
+                "SoundIDs": [
+                    "jet_whine",
+                    "wings_in",
+                    "wings_out",
+                    "Activate",
+                    "glide",
+                    "Recharge"
+                ]
+            },
+            {
+                "AudioName": "torero_headlights_ss",
+                "SoundIDs": [
+                    "LightCover_PopDown",
+                    "LightCover_PopUp"
+                ]
+            },
+            {
+                "AudioName": "dlc_gr_xa21_spoiler_sounds",
+                "SoundIDs": [
+                    "SPOILER_ROTATE_BACKWARDS_START",
+                    "SPOILER_ROTATE_BACKWARDS_STOP",
+                    "SPOILER_STRUT_LOWERED",
+                    "SPOILER_STRUT_START_LOWER",
+                    "SPOILER_STRUT_START_RAISE",
+                    "SPOILER_ROTATE_FORWARDS_START",
+                    "STRUT_ANGLE_ADJUST_LOOP",
+                    "SPOILER_ROTATE_FORWARDS_STOP",
+                    "SPOILER_STRUT_RAISED",
+                    "STRUT_HEIGHT_ADJUST_LOOP"
+                ]
+            },
+            {
+                "AudioName": "gr_vehicle_proxmine_sounds",
+                "SoundIDs": [
+                    "Explode",
+                    "AMBIENT",
+                    "trigger",
+                    "Deploy"
+                ]
+            },
+            {
+                "AudioName": "gr_vehicle_weapon_trailer_missile_sounds",
+                "SoundIDs": [
+                    "Flaps_Close"
+                ]
+            },
+            {
+                "AudioName": "dlc_gunrunning_apc_turret_sounds",
+                "SoundIDs": [
+                    "MotorLoop"
+                ]
+            },
+            {
+                "AudioName": "dlc_gunrunning_insurgent3_turret_sounds",
+                "SoundIDs": [
+                    "MotorLoop"
+                ]
+            },
+            {
+                "AudioName": "dlc_gunrunning_tampa3_turret_sounds",
+                "SoundIDs": [
+                    "MotorLoop"
+                ]
+            },
+            {
+                "AudioName": "dlc_gunrunning_trailersmall2_turret_sounds",
+                "SoundIDs": [
+                    "MotorLoop"
+                ]
+            }
+        ]
     }
 ]
