@@ -1977,5 +1977,354 @@
                 ]
             }
         ]
+    },
+    {
+        "DLC": "Agents of Sabotage - MP2024_02",
+        "SoundSets": [
+            {
+                "AudioName": "darnell_app_phone_sounds",
+                "SoundIDs": [
+                    "CONFIRM",
+                    "Input_Char",
+                    "Launch_Mission",
+                    "Background_Loop",
+                    "NAV",
+                    "ERROR",
+                    "Cancel",
+                    "Toggle_Info"
+                ]
+            },
+            {
+                "AudioName": "darnell_app_computer_sounds",
+                "SoundIDs": [
+                    "CONFIRM",
+                    "Input_Char",
+                    "Launch_Mission",
+                    "Background_Loop",
+                    "NAV",
+                    "ERROR",
+                    "Cancel",
+                    "Toggle_Info"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_420_adversary_sounds",
+                "SoundIDs": [
+                    "Van_Fire_Start",
+                    "Van_Fire_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_hack_circuit_board",
+                "SoundIDs": [
+                    "Move_Circuit_Down",
+                    "SUCCESS",
+                    "TEST",
+                    "Move_Circuit_Up",
+                    "TIMER",
+                    "Fail",
+                    "Background_Loop",
+                    "NAV",
+                    "ERROR"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_hack_password",
+                "SoundIDs": [
+                    "Bad_Guess",
+                    "SUCCESS",
+                    "Remove_Char",
+                    "Set_Char",
+                    "TIMER",
+                    "Fail",
+                    "Background_Loop",
+                    "NAV"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_lunar_new_year_collectible_sounds",
+                "SoundIDs": [
+                    "attract",
+                    "COLLECT"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_hsw_up_sounds",
+                "SoundIDs": [
+                    "hash_2ae68629_bjogfrz_collision",
+                    "UPGRADE",
+                    "hash_8b17755b_rjzppae_collision",
+                    "Upgrade_Backup"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_cargo_plane_prep_plant_device_sounds",
+                "SoundIDs": [
+                    "Plant_Device_Success"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_cargo_plane_robbery_finale_sounds",
+                "SoundIDs": [
+                    "Alarm_Loop",
+                    "Bomb_Bleep_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_mfh_cargo_sounds",
+                "SoundIDs": [
+                    "BREAK",
+                    "Tumble_Loop",
+                    "Damage_Leg"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_mfh_chopper_sounds",
+                "SoundIDs": [
+                    "idle_loop",
+                    "Activate_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_mfh_finale_sounds",
+                "SoundIDs": [
+                    "Submarine_Launch_Missile",
+                    "ENGINE_FAIL",
+                    "Engine_Fail_Short"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_penthouse_helicopter_sounds",
+                "SoundIDs": [
+                    "Destroy_Control_Box"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_penthouse_robbery_bookcase_door_sounds",
+                "SoundIDs": [
+                    "opened",
+                    "Closed",
+                    "OPENING",
+                    "Closing"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_penthouse_robbery_alarm_sounds",
+                "SoundIDs": [
+                    "Alarm_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_penthouse_robbery_sounds",
+                "SoundIDs": [
+                    "Drone_Scan_Loop",
+                    "EMP_Attach",
+                    "Collect_Tiki_Package",
+                    "Drone_Scan_Right_Ped",
+                    "Switch_Finder_Bleep_Loop",
+                    "Drone_Scan_Complete",
+                    "Drone_Scan_Wrong_Ped",
+                    "hash_eaabdb11_sughxp_collision",
+                    "Open_Hatch"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_penthouse_robbery_prep_emp_sounds",
+                "SoundIDs": [
+                    "Handler_Engine_Loop",
+                    "Container_Release",
+                    "Container_Land",
+                    "Destroy_Lock"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_zancudo_finale_sounds",
+                "SoundIDs": [
+                    "Door_Open_Long",
+                    "Door_Open_Limit",
+                    "Door_Open_Long_Override_Fade"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_lunar_new_year_sounds",
+                "SoundIDs": [
+                    "Cymbals_Bass_Drum_Slow",
+                    "Parade",
+                    "Cymbals_Bass_Drum_Fast",
+                    "Cymbals_Drums_Fast",
+                    "Firework_Display"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-2_rfl_bullpup_plyr_reloads_mono_ss",
+                "SoundIDs": [
+                    "grab2",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            },
+            {
+                "AudioName": "titan_2_weapons_reloading_sounds",
+                "SoundIDs": [
+                    "Reload_Complete",
+                    "Reload_Loop_25",
+                    "Reload_Loop_105",
+                    "RELOADING",
+                    "Reload_Loop_40"
+                ]
+            },
+            {
+                "AudioName": "titan_2_weapons_soundset",
+                "SoundIDs": [
+                    "hash_0d12651a_udsxtkk_collision",
+                    "hash_122820e2_ioupxsd_collision",
+                    "hash_18b65fd4_agkmqhaf_collision",
+                    "hash_460d08f5_ayqqbxl_collision",
+                    "hash_845c4986_igvnsdd_collision",
+                    "hash_ab2ec4bf_fqhhcth_collision"
+                ]
+            }
+        ]
+    },
+    {
+        "DLC": "Money Fronts - MP2025_01",
+        "SoundSets": [
+            {
+                "AudioName": "dlc_25-1_weed_collectible_sounds",
+                "SoundIDs": [
+                    "attract",
+                    "COLLECT"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-1_cp_survival_sounds",
+                "SoundIDs": [
+                    "hash_02d751fa_eiywmlj_collision",
+                    "hash_0ac7cadd_acsvwyzi_collision",
+                    "hash_12190713_kwoiog_collision",
+                    "hash_16dd2ae3_ybdipou_collision",
+                    "hash_1ab87168_btifsvn_collision",
+                    "hash_1b583c66_amdxmflh_collision",
+                    "hash_1e4cfe0b_cfaazac_collision",
+                    "DJ_IDLE",
+                    "hash_35eb7d03_fzatwbx_collision",
+                    "-",
+                    "hash_3aaca2cb_mpapruo_collision",
+                    "hash_555864c0_baislbu_collision",
+                    "hash_7c710f01_afrfaiwj_collision",
+                    "hash_7e3ad119_avfbqedd_collision",
+                    "hash_827031c8_zbentxi_collision",
+                    "hash_9a65acfa_jldwdby_collision",
+                    "hash_9bb96316_ljmanje_collision",
+                    "hash_a168c01f_diklqfc_collision",
+                    "hash_aa858821_dxuriaj_collision",
+                    "hash_b8e366a8_abuyreh_collision",
+                    "hash_be3e1fd0_ybmosbfa_collision",
+                    "hash_d3f1c009_altdtbj_collision",
+                    "hash_d95c8989_ahmbqqaf_collision",
+                    "hash_d9bcf461_qjuwxkq_collision",
+                    "hash_feb94094_rknduxs_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-1_cp_survival_skeleton_footstep_sounds",
+                "SoundIDs": [
+                    "Sprint",
+                    "Run",
+                    "JUMP_LAND",
+                    "Walk"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-1_ghost_hunt_sounds",
+                "SoundIDs": [
+                    "hash_0f0f1b82_agmhsigr_collision",
+                    "Collect_Shard"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-1_hsw_up_sounds",
+                "SoundIDs": [
+                    "hash_2d8e10b7_lpowstn_collision",
+                    "UPGRADE",
+                    "hash_ac3fb9cb_mrwywjb_collision",
+                    "Upgrade_Backup"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-1_odd_jobs_security_transporter_sounds",
+                "SoundIDs": [
+                    "hash_5dd6bd0b_isavpjn_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-1_car_wash_sounds",
+                "SoundIDs": [
+                    "hash_0be8fa56_rvotge_collision",
+                    "hash_0c7bdef5_xxzaffc_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-1_heli_tour_sounds",
+                "SoundIDs": [
+                    "hash_1dc9edde_gaqozcv_collision",
+                    "hash_ca944774_qildlmx_collision"
+                ]
+            },
+            {
+                "AudioName": "car_wash_sports_car_sounds",
+                "SoundIDs": [
+                    "hash_a4607f6d_cnzemfca_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-1_stockade_steal_sounds",
+                "SoundIDs": [
+                    "door_unlock"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-1_tycoon_left_for_dead_sounds",
+                "SoundIDs": [
+                    "hash_6bfebed6_bsilazw_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-1_tycoon_lockup_intimidation_sounds",
+                "SoundIDs": [
+                    "hash_cc1c7219_fmscas_collision"
+                ]
+            },
+            {
+                "AudioName": "everon3_headlights_ss",
+                "SoundIDs": [
+                    "LightCover_PopDown",
+                    "LightCover_PopUp"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-1_suzume_spoiler_sounds",
+                "SoundIDs": [
+                    "SPOILER_ROTATE_BACKWARDS_START",
+                    "SPOILER_ROTATE_BACKWARDS_STOP",
+                    "SPOILER_STRUT_LOWERED",
+                    "SPOILER_STRUT_START_LOWER",
+                    "SPOILER_STRUT_START_RAISE",
+                    "SPOILER_ROTATE_FORWARDS_START",
+                    "STRUT_ANGLE_ADJUST_LOOP",
+                    "SPOILER_ROTATE_FORWARDS_STOP",
+                    "SPOILER_STRUT_RAISED",
+                    "STRUT_HEIGHT_ADJUST_LOOP"
+                ]
+            }
+        ]
     }
 ]
