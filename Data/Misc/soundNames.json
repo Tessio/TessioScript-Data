@@ -2326,5 +2326,309 @@
                 ]
             }
         ]
+    },
+    {
+        "DLC": "A Safehouse In The Hills - MP2025_02",
+        "SoundSets": [
+            {
+                "AudioName": "bin_bag_papers",
+                "SoundIDs": [
+                    "Sprint",
+                    "Run",
+                    "JUMP_LAND",
+                    "Walk"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-2_collectibles_sounds",
+                "SoundIDs": [
+                    "hash_03e7049b_yximdea_collision",
+                    "hash_0479222a_aqfxrqr_collision",
+                    "hash_a2abc9c5_caohugh_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-2_forklift_job_sounds",
+                "SoundIDs": [
+                    "hash_332c9f77_fgbxcp_collision",
+                    "hash_5d40fd25_dnflsrp_collision",
+                    "hash_baa9b7ae_ernnmxb_collision",
+                    "hash_de910528_eamgjpe_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-2_payphone_sounds",
+                "SoundIDs": [
+                    "Phone_Ring_Loop",
+                    "PICK_UP",
+                    "Hang_Up"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-2_hsw_up_sounds",
+                "SoundIDs": [
+                    "hash_2dfbf435_jawzjkca_collision",
+                    "UPGRADE",
+                    "Upgrade_Backup",
+                    "hash_f2d1a5bf_mkuqlkx_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-2_mansion_gate_sounds",
+                "SoundIDs": [
+                    "hash_1f15770b_edrpduz_collision",
+                    "hash_7f1b3cde_ebxltos_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-2_mansion_piano_tracks",
+                "SoundIDs": [
+                    "hash_1f8e9c7c_egwjrnb_collision",
+                    "hash_9c83e0b8_yyiaadk_collision",
+                    "hash_a71b30df_rfdtnyw_collision"
+                ]
+            },
+            {
+                "AudioName": "avi1_taxis_sounds",
+                "SoundIDs": [
+                    "hash_05559df3_mksrzuy_collision",
+                    "hash_207a3a89_bexpzhi_collision",
+                    "hash_88d70f73_ivsyypw_collision",
+                    "Background_Loop",
+                    "hash_b0b9968b_wjiwho_collision",
+                    "hash_bc085ebc_tuvbmsj_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-2_avi3_subway_train_sounds",
+                "SoundIDs": [
+                    "hash_0ea7af36_btcbpzn_collision",
+                    "hash_2e592555_syumtmh_collision",
+                    "hash_c76088c1_nulqifp_collision"
+                ]
+            },
+            {
+                "AudioName": "avi5_fib_finale_sounds",
+                "SoundIDs": [
+                    "hash_beb8dc81_ezzkkli_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-2_firefighter_sounds",
+                "SoundIDs": [
+                    "hash_0cd9ce3e_cwxiqcz_collision",
+                    "hash_13f4f4e7_mmzmoav_collision",
+                    "hash_1765a344_gjbhhgk_collision",
+                    "hash_22342f83_kmlocda_collision",
+                    "hash_2a475e36_genpabk_collision",
+                    "hash_545c1bb5_kvjsdnc_collision",
+                    "hash_6beda219_raolzfk_collision",
+                    "hash_b38a63ed_eskuzso_collision",
+                    "hash_b6b60d5a_ajmumnm_collision",
+                    "hash_bb301afe_opgauaz_collision",
+                    "hash_c4b52333_wfjujch_collision",
+                    "hash_e0d22eee_gsfxdyf_collision",
+                    "hash_f6d32b72_muohjit_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_25-2_prisoner_transport_sounds",
+                "SoundIDs": [
+                    "hash_103199de_dndzhnc_collision"
+                ]
+            },
+            {
+                "AudioName": "astrale_headlights_ss",
+                "SoundIDs": [
+                    "LightCover_PopDown",
+                    "LightCover_PopUp"
+                ]
+            },
+            {
+                "AudioName": "itali2_headlights_ss",
+                "SoundIDs": [
+                    "LightCover_PopDown",
+                    "LightCover_PopUp"
+                ]
+            }
+        ]
+    },
+    {
+        "DLC": "Airraces - MPAIRRACES",
+        "SoundSets": [
+            {
+                "AudioName": "dlc_ar_beast_soundset",
+                "SoundIDs": [
+                    "Thernal_Vision_Loop",
+                    "Blade_Beasts_Win",
+                    "Beast_Checkpoint_NPC",
+                    "Beast_Jump_Land",
+                    "Beast_Cloak",
+                    "Beast_Jump",
+                    "Beast_Sprint_Loop",
+                    "Blade_Beasts_Fail",
+                    "Beast_Checkpoint",
+                    "Beast_Attack",
+                    "Beast_Uncloak",
+                    "Blade_Appear",
+                    "beast_attack_kill",
+                    "Beast_Die"
+                ]
+            },
+            {
+                "AudioName": "dlc_air_race_frontend_sounds",
+                "SoundIDs": [
+                    "Countdown_1",
+                    "Countdown_2",
+                    "Countdown_3",
+                    "Countdown_GO"
+                ]
+            },
+            {
+                "AudioName": "dlc_air_race_sounds_player",
+                "SoundIDs": [
+                    "Orientation_Success",
+                    "Vehicle_Warp",
+                    "Vehicle_Transform",
+                    "Orientation_Fail"
+                ]
+            },
+            {
+                "AudioName": "dlc_air_race_sounds_remote",
+                "SoundIDs": [
+                    "Orientation_Success",
+                    "Vehicle_Warp",
+                    "Vehicle_Transform",
+                    "Orientation_Fail"
+                ]
+            },
+            {
+                "AudioName": "dlc_air_race_sounds",
+                "SoundIDs": [
+                    "Slow_Down_Remote",
+                    "Speed_Up_Player",
+                    "Slow_Down_Player",
+                    "Speed_Up_Remote"
+                ]
+            }
+        ]
+    },
+    {
+        "DLC": "Executives and Other Criminals - MPAPARTMENT",
+        "SoundSets": [
+            {
+                "AudioName": "dlc_apt_yacht_ambient_soundset",
+                "SoundIDs": [
+                    "ENGINE",
+                    "HORN",
+                    "missile_defence_cannon",
+                    "Deck",
+                    "Moor_SEASHARK_Engine",
+                    "Moor_Boat_Engine",
+                    "missile_defence_near_miss"
+                ]
+            },
+            {
+                "AudioName": "dlc_apt_yacht_door_sounds",
+                "SoundIDs": [
+                    "Closed",
+                    "push",
+                    "SWING_SHUT",
+                    "LIMIT"
+                ]
+            },
+            {
+                "AudioName": "dlc_apt_limo2_turret_sounds",
+                "SoundIDs": [
+                    "MotorLoop"
+                ]
+            },
+            {
+                "AudioName": "fm_events_sasquatch_sounds",
+                "SoundIDs": [
+                    "Checkpoint_Beast_Hit",
+                    "hash_1b302f3c_dvheiro_collision",
+                    "Frontend_Beast_Transform_Back",
+                    "hash_58c3c673_ohadiyd_collision",
+                    "Frontend_Beast_Text_Hit",
+                    "Frontend_Beast_Fade_Screen",
+                    "Beast_Calls",
+                    "Frontend_Beast_Frozen_Screen_Loop",
+                    "hash_9450c429_rukgqtd_collision",
+                    "Frontend_Beast_Freeze_Screen",
+                    "Radar_Beast_Blip"
+                ]
+            },
+            {
+                "AudioName": "dlc_tg_running_back_sounds",
+                "SoundIDs": [
+                    "Whistle",
+                    "Airhorn",
+                    "Cheers"
+                ]
+            },
+            {
+                "AudioName": "apt_bvs_soundset",
+                "SoundIDs": [
+                    "Thernal_Vision_Loop",
+                    "Blade_Beasts_Win",
+                    "Beast_Checkpoint_NPC",
+                    "Beast_Jump_Land",
+                    "Beast_Cloak",
+                    "Beast_Jump",
+                    "Beast_Sprint_Loop",
+                    "Blade_Beasts_Fail",
+                    "Beast_Checkpoint",
+                    "Beast_Attack",
+                    "Beast_Uncloak",
+                    "Blade_Appear",
+                    "beast_attack_kill",
+                    "Beast_Die"
+                ]
+            },
+            {
+                "AudioName": "dlc_apartment_yacht_streams_soundset",
+                "SoundIDs": [
+                    "arrive_l_r",
+                    "Leave_R_L",
+                    "Arrive_Horn",
+                    "Arrive_R_L",
+                    "Leave_Horn",
+                    "leave_l_r"
+                ]
+            },
+            {
+                "AudioName": "ptl_revolver_npc_reloads_ss",
+                "SoundIDs": [
+                    "grab2",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            },
+            {
+                "AudioName": "ptl_revolver_plyr_reloads_mono_ss",
+                "SoundIDs": [
+                    "grab2",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            }
+        ]
     }
 ]
