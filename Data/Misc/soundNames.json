@@ -1822,5 +1822,160 @@
                 ]
             }
         ]
+    },
+    {
+        "DLC": "Botton Dollar Bounties - MP2024_01",
+        "SoundSets": [
+            {
+                "AudioName": "assault_on_aircraft_carrier_sounds",
+                "SoundIDs": [
+                    "Push_Door_Loop",
+                    "Push_Door_Start",
+                    "Hacking_Loop",
+                    "Stop_Self_Destruct",
+                    "Push_Door_Complete",
+                    "Self_Destruct_Loop",
+                    "Terminal_Explosion"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-1_bounty_3_ambushed_sounds",
+                "SoundIDs": [
+                    "Gate_Power_Shutdown",
+                    "Gate_Electrified_Loop",
+                    "Gate_Unlock"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-1_bounty_general_sounds",
+                "SoundIDs": [
+                    "Destroy_Electrical_Box"
+                ]
+            },
+            {
+                "AudioName": "bounty_office_computer_sounds",
+                "SoundIDs": [
+                    "Input_Character_Name",
+                    "Nav_Blocked",
+                    "Select_Target",
+                    "Nav_Error",
+                    "Confirm_Target",
+                    "Nav_Move",
+                    "EXIT",
+                    "Cancel_Target",
+                    "Submit_Login",
+                    "Input_Character_Password"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-1_intimidation_sounds",
+                "SoundIDs": [
+                    "Cut_Power"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-1_bounty_life_invader_sounds",
+                "SoundIDs": [
+                    "Vehicle_Alarm"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-1_rescue_sounds",
+                "SoundIDs": [
+                    "278340587",
+                    "165085155"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-1_dispatch_bomb_disposal_sounds",
+                "SoundIDs": [
+                    "Defuse_Digit_Correct_Down",
+                    "Defuse_Digit_Correct_Right",
+                    "Detonation",
+                    "Bomb_Attract_Loop",
+                    "Defuse_Success",
+                    "Defuse_Digit_Wrong",
+                    "Defuse_Digit_Correct_Up",
+                    "Defuse_Digit_Correct_Left"
+                ]
+            },
+            {
+                "AudioName": "abduction_soundset",
+                "SoundIDs": [
+                    "wrong",
+                    "Wrong_Final",
+                    "correct"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-1_ghost_hunt_sounds",
+                "SoundIDs": [
+                    "Collect_Shard",
+                    "DM_Ghost"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-1_yk_survival_sounds",
+                "SoundIDs": [
+                    "Deer_Death",
+                    "Undead_Death_Fire",
+                    "Boar_Death",
+                    "Countdown_Tick_Last",
+                    "Undead_Explode",
+                    "COUNTDOWN_TICK",
+                    "Boar_Pain",
+                    "Undead_Pain",
+                    "Undead_Chant_Loop",
+                    "Undead_Death",
+                    "Gas_Cloud_Spawn_and_Loop",
+                    "Survival_Failed",
+                    "Survival_Passed",
+                    "Dog_Pain",
+                    "Undead_Death_Plague",
+                    "Deer_Pain",
+                    "Dog_Death",
+                    "Round_Passed"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-1_hsw_up_sounds",
+                "SoundIDs": [
+                    "UPGRADE",
+                    "Upgrade_Backup",
+                    "upgrade_eurosx32",
+                    "upgrade_niobe"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-1_paragon3_spoiler_sounds",
+                "SoundIDs": [
+                    "SPOILER_ROTATE_BACKWARDS_START",
+                    "SPOILER_ROTATE_BACKWARDS_STOP",
+                    "SPOILER_STRUT_LOWERED",
+                    "SPOILER_STRUT_START_LOWER",
+                    "SPOILER_STRUT_START_RAISE",
+                    "SPOILER_ROTATE_FORWARDS_START",
+                    "STRUT_ANGLE_ADJUST_LOOP",
+                    "SPOILER_ROTATE_FORWARDS_STOP",
+                    "SPOILER_STRUT_RAISED",
+                    "STRUT_HEIGHT_ADJUST_LOOP"
+                ]
+            },
+            {
+                "AudioName": "dlc_24-1_pipistrello_spoiler_sounds",
+                "SoundIDs": [
+                    "SPOILER_ROTATE_BACKWARDS_START",
+                    "SPOILER_ROTATE_BACKWARDS_STOP",
+                    "SPOILER_STRUT_LOWERED",
+                    "SPOILER_STRUT_START_LOWER",
+                    "SPOILER_STRUT_START_RAISE",
+                    "SPOILER_ROTATE_FORWARDS_START",
+                    "STRUT_ANGLE_ADJUST_LOOP",
+                    "SPOILER_ROTATE_FORWARDS_STOP",
+                    "SPOILER_STRUT_RAISED",
+                    "STRUT_HEIGHT_ADJUST_LOOP"
+                ]
+            }
+        ]
     }
 ]
