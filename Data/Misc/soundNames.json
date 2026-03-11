@@ -7530,5 +7530,374 @@
                 ]
             }
         ]
+    },
+    {
+        "DLC": "Cunning Stunts: Special Vehicle Circuit - MPSPECIALRACES",
+        "SoundSets": [
+            {
+                "AudioName": "dlc_sr_lg_enemy_sounds",
+                "SoundIDs": [
+                    "Reset_Win",
+                    "Prop_Tagged",
+                    "Weapon_Disabled",
+                    "Weapon_Respawn",
+                    "Prop_Contested",
+                    "Prop_Reset",
+                    "Weapon_Enabled",
+                    "Weapon_Collect"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_lg_player_sounds",
+                "SoundIDs": [
+                    "Reset_Win",
+                    "Prop_Tagged",
+                    "Weapon_Disabled",
+                    "Weapon_Respawn",
+                    "Prop_Contested",
+                    "Reset_Timer",
+                    "Prop_Reset",
+                    "Weapon_Enabled",
+                    "Weapon_Collect"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_lg_team_sounds",
+                "SoundIDs": [
+                    "Reset_Win",
+                    "Prop_Tagged",
+                    "Weapon_Disabled",
+                    "Weapon_Respawn",
+                    "Prop_Contested",
+                    "Prop_Reset",
+                    "Weapon_Enabled",
+                    "Weapon_Collect"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_rs_enemy_sounds",
+                "SoundIDs": [
+                    "Reset_Win",
+                    "Weapon_Respawn",
+                    "Resurrected",
+                    "Weapon_Collect",
+                    "Last_Alive"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_rs_player_sounds",
+                "SoundIDs": [
+                    "Reset_Win",
+                    "Weapon_Respawn",
+                    "Resurrected",
+                    "Weapon_Collect",
+                    "Last_Alive"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_rs_team_sounds",
+                "SoundIDs": [
+                    "Reset_Win",
+                    "Weapon_Respawn",
+                    "Resurrected",
+                    "Weapon_Collect",
+                    "Last_Alive"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_tr_general_sounds",
+                "SoundIDs": [
+                    "Powerup_Collect_local",
+                    "Countdown_1",
+                    "Powerup_Despawn",
+                    "hash_1536227b_fnxnriq_collision",
+                    "Countdown_2",
+                    "Steal_Powerup",
+                    "WASTED",
+                    "Weapon_Respawn",
+                    "hash_90a759f6_auiwpaf_collision",
+                    "Countdown_3",
+                    "Explosion_Timer",
+                    "Countdown_GO",
+                    "hash_a4812bf0_ymqmvaz_collision",
+                    "hash_a9bf81bb_xektthp_collision",
+                    "Checkpoint_Collect",
+                    "Lose_Powerup",
+                    "Round_Start_Blade",
+                    "Powerup_Respawn",
+                    "hash_db45c5fc_viieuqp_collision",
+                    "Powerup_Collect_Remote"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_tr_bomb_player_sounds",
+                "SoundIDs": [
+                    "Bomb_Release",
+                    "Bomb_Collect",
+                    "Bomb_Timer_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_tr_rocket_player_sounds",
+                "SoundIDs": [
+                    "Rocket_Collect"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_tr_gun_player_sounds",
+                "SoundIDs": [
+                    "Fire_Loop",
+                    "Gun_Collect"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_tr_bomb_enemy_sounds",
+                "SoundIDs": [
+                    "Bomb_Release",
+                    "Bomb_Collect",
+                    "Bomb_Timer_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_tr_rocket_enemy_sounds",
+                "SoundIDs": [
+                    "Rocket_Collect"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_tr_ramp_buggy_enemy_sounds",
+                "SoundIDs": [
+                    "DEACTIVATE",
+                    "Activate"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_tr_ramp_buggy_player_sounds",
+                "SoundIDs": [
+                    "DEACTIVATE",
+                    "Activate"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_tr_ruiner2000_player_sounds",
+                "SoundIDs": [
+                    "DEACTIVATE",
+                    "Activate"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_tr_ruiner2000_enemy_sounds",
+                "SoundIDs": [
+                    "DEACTIVATE",
+                    "Activate"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_tr_flipped_player_sounds",
+                "SoundIDs": [
+                    "loop",
+                    "DEACTIVATE",
+                    "Activate"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_tr_flipped_enemy_sounds",
+                "SoundIDs": [
+                    "loop",
+                    "DEACTIVATE",
+                    "Activate"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_tr_deadline_player_sounds",
+                "SoundIDs": [
+                    "Trail_Loop_03",
+                    "loop",
+                    "DEACTIVATE",
+                    "Trail_Loop_01",
+                    "Trail_Loop_02",
+                    "Trail_Loop_00",
+                    "crash",
+                    "Activate"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_tr_deadline_enemy_sounds",
+                "SoundIDs": [
+                    "Trail_Loop_03",
+                    "loop",
+                    "DEACTIVATE",
+                    "Trail_Loop_01",
+                    "Trail_Loop_02",
+                    "Trail_Loop_00",
+                    "crash",
+                    "Activate"
+                ]
+            },
+            {
+                "AudioName": "dlc_sr_tr_gun_enemy_sounds",
+                "SoundIDs": [
+                    "Fire_Loop",
+                    "Gun_Collect"
+                ]
+            },
+            {
+                "AudioName": "dlc_special_race_sounds",
+                "SoundIDs": [
+                    "instant_refill_player",
+                    "instant_refill_remote",
+                    "hash_e20b57a8_bxcladu_collision"
+                ]
+            },
+            {
+                "AudioName": "infernus2_headlights_ss",
+                "SoundIDs": [
+                    "LightCover_PopDown",
+                    "LightCover_PopUp"
+                ]
+            },
+            {
+                "AudioName": "turismo2_headlights_ss",
+                "SoundIDs": [
+                    "LightCover_PopDown",
+                    "LightCover_PopUp"
+                ]
+            }
+        ]
+    },
+    {
+        "DLC": "January 2016 Update (Drop Zone Update) - MPJANUARY2016",
+        "SoundSets": [
+            {
+                "AudioName": "ja16_super_mod_garage_sounds",
+                "SoundIDs": [
+                    "SultanRS_Upgrade",
+                    "Banshee2_Upgrade"
+                ]
+            }
+        ]
+    },
+    {
+        "DLC": "Halloween Surpise - MPHALLOWEEN",
+        "SoundSets": [
+            {
+                "AudioName": "dlc_halloween_fvj_sounds",
+                "SoundIDs": [
+                    "Timer_10s",
+                    "Timer_5s",
+                    "breathing_01",
+                    "Swap_Sides",
+                    "Breaker_02",
+                    "Heartbeat",
+                    "hash_65cd4e7c_atlmcqpc_collision",
+                    "EMP",
+                    "breathing_02",
+                    "Breaker_01"
+                ]
+            },
+            {
+                "AudioName": "dlc_tg_dinner_sounds",
+                "SoundIDs": [
+                    "Timer_10s",
+                    "Timer_5s",
+                    "hash_65cd4e7c_atlmcqpc_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_tg_running_back_sounds",
+                "SoundIDs": [
+                    "Whistle",
+                    "Airhorn",
+                    "Cheers"
+                ]
+            }
+        ]
+    },
+    {
+        "DLC": "Lowriders - MPLOWRIDER",
+        "SoundSets": [
+            {
+                "AudioName": "dlc_lts_heavyshotgun_plyr_reloads_soundset",
+                "SoundIDs": [
+                    "grab2",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            },
+            {
+                "AudioName": "dlc_dmod_prop_editor_sounds",
+                "SoundIDs": [
+                    "Delete_Placed_Prop",
+                    "Save_Scene",
+                    "Select_Placed_Prop",
+                    "Rotate_Loop",
+                    "Prop_Drop_Water",
+                    "Place_Prop_Success",
+                    "Reset_Prop_Position",
+                    "Cycle_Item",
+                    "move_loop",
+                    "LOAD_SCENE",
+                    "Prop_Drop_Land",
+                    "Place_Prop_Fail",
+                    "Elevation_Loop"
+                ]
+            },
+            {
+                "AudioName": "lowrider_super_mod_garage_sounds",
+                "SoundIDs": [
+                    "DOOR_OPEN",
+                    "Door_Shut",
+                    "Hydraulics_Up",
+                    "Trunk_Open",
+                    "Trunk_Shut",
+                    "Hood_Shut",
+                    "Exit_Engine_Blips",
+                    "Engine_Rev",
+                    "Hood_Open",
+                    "Hydraulics_Down",
+                    "Lowrider_Upgrade"
+                ]
+            },
+            {
+                "AudioName": "ptl_machine_npc_reloads_mono_ss",
+                "SoundIDs": [
+                    "grab2",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            },
+            {
+                "AudioName": "ptl_machine_plyr_reloads_mono_ss",
+                "SoundIDs": [
+                    "grab2",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            }
+        ]
     }
 ]
