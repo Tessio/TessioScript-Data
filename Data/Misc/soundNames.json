@@ -11176,5 +11176,730 @@
                 ]
             }
         ]
+    },
+    {
+        "DLC": "Los Santos Drug Wars - MPCHRISTMAS3",
+        "SoundSets": [
+            {
+                "AudioName": "dlc_cm2022_am_attract_solo_loop_sounds",
+                "SoundIDs": [
+                    "SPACE_MONKEY",
+                    "badlands_revenge",
+                    "rc_truck",
+                    "dg_defender",
+                    "invade_persuade",
+                    "rc_car",
+                    "gang_wars",
+                    "wizards_ruin",
+                    "dg_penetrator",
+                    "claw_crane",
+                    "professor_love",
+                    "rc_bike",
+                    "dg_monkey"
+                ]
+            },
+            {
+                "AudioName": "dlc_xm3_mugger_footsteps_sounds",
+                "SoundIDs": [
+                    "Sprint",
+                    "Run",
+                    "JUMP_LAND",
+                    "Walk"
+                ]
+            },
+            {
+                "AudioName": "firework_sounds",
+                "SoundIDs": [
+                    "FLIGHT",
+                    "Underwater",
+                    "sparkles"
+                ]
+            },
+            {
+                "AudioName": "cm2022_mugger_sounds",
+                "SoundIDs": [
+                    "Spawn",
+                    "Chase_Loop",
+                    "De_Spawn",
+                    "die",
+                    "Steal"
+                ]
+            },
+            {
+                "AudioName": "snowmen_colllectible_sounds",
+                "SoundIDs": [
+                    "Destroy",
+                    "attract",
+                    "COLLECT"
+                ]
+            },
+            {
+                "AudioName": "chemical_spill_sounds",
+                "SoundIDs": [
+                    "Spill_Ambience_Loop",
+                    "burn_loop",
+                    "Health_Damage_Oneshot",
+                    "Smoke_Damage_Loop"
+                ]
+            },
+            {
+                "AudioName": "crop_dusting_sounds",
+                "SoundIDs": [
+                    "Contaminated_Success_FE"
+                ]
+            },
+            {
+                "AudioName": "truck_ramp_sounds",
+                "SoundIDs": [
+                    "CLOSE",
+                    "OPEN"
+                ]
+            },
+            {
+                "AudioName": "remote_vehicle_bomb_sounds",
+                "SoundIDs": [
+                    "Explode"
+                ]
+            },
+            {
+                "AudioName": "dlc_cm2022_sell_quick_and_nimble_sounds",
+                "SoundIDs": [
+                    "Deliver_Acid"
+                ]
+            },
+            {
+                "AudioName": "dlc_cm2022_sell_stash_delivery_sounds",
+                "SoundIDs": [
+                    "Stash_Acid_Foley",
+                    "Stash_Acid_Frontend"
+                ]
+            },
+            {
+                "AudioName": "dlc_cm2022_setup_lab_equipment_sounds",
+                "SoundIDs": [
+                    "Stash_Crate_On_Truck"
+                ]
+            },
+            {
+                "AudioName": "volatile_chemicals_sounds",
+                "SoundIDs": [
+                    "Damaged_Barrel_Mist_Loop"
+                ]
+            },
+            {
+                "AudioName": "cm2022_freemode_sounds",
+                "SoundIDs": [
+                    "White_Screen_Fade",
+                    "hash_907816b3_cjnjlvs_collision",
+                    "Irrigation_Spray"
+                ]
+            },
+            {
+                "AudioName": "dlc_cm2022_hsw_up_sounds",
+                "SoundIDs": [
+                    "upgrade_entity3",
+                    "upgrade_issi8",
+                    "UPGRADE",
+                    "Upgrade_Backup"
+                ]
+            },
+            {
+                "AudioName": "tripping_sounds",
+                "SoundIDs": [
+                    "Tunnel_Loop",
+                    "checkpoint",
+                    "Oncoming_Vehicle_Loop",
+                    "Fall_Land",
+                    "UFO_Ambience",
+                    "hash_3ef6d6f1_mrslljla_collision",
+                    "Smoke_Transform_VFX_Loop",
+                    "Screen_Fade_White",
+                    "Fall_Loop",
+                    "Acid_Trip_Bed_Loop",
+                    "abducted",
+                    "TRANSFORM",
+                    "Rabbit_Death",
+                    "Tunnel_Entry_Loop",
+                    "Fire_Works",
+                    "rabbit_boing"
+                ]
+            },
+            {
+                "AudioName": "dax_1_6_sounds",
+                "SoundIDs": [
+                    "Train_Crash"
+                ]
+            },
+            {
+                "AudioName": "dax_2_3_sounds",
+                "SoundIDs": [
+                    "Pickup_Clipboard",
+                    "Pickup_Keys"
+                ]
+            },
+            {
+                "AudioName": "dax_acid_trip_sounds",
+                "SoundIDs": [
+                    "Fall_Land",
+                    "Spawn_Monkey",
+                    "Spawn_Friedlander",
+                    "Spawn_Alien",
+                    "Spawn_Lion",
+                    "Despawn_Clone",
+                    "Despawn_Monkey",
+                    "Fall_Loop",
+                    "Despawn_Fastfood",
+                    "Despawn_Alien",
+                    "Spawn_Fastfood",
+                    "Despawn_Clown",
+                    "Spawn_Clone",
+                    "Despawn_Lion",
+                    "Despawn_Friedlander",
+                    "Spawn_Clown"
+                ]
+            },
+            {
+                "AudioName": "dax_2_5_hack_sounds",
+                "SoundIDs": [
+                    "HACK_LOOP",
+                    "Hack_Complete",
+                    "Hack_Start",
+                    "Hack_Stop"
+                ]
+            },
+            {
+                "AudioName": "dax_2_5_cargoplane",
+                "SoundIDs": [
+                    "Room_Tone",
+                    "Bad_News_Attract_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_mpsum2_virtue_spoiler_sounds",
+                "SoundIDs": [
+                    "SPOILER_ROTATE_BACKWARDS_START",
+                    "SPOILER_ROTATE_BACKWARDS_STOP",
+                    "SPOILER_STRUT_LOWERED",
+                    "SPOILER_STRUT_START_LOWER",
+                    "SPOILER_STRUT_START_RAISE",
+                    "SPOILER_ROTATE_FORWARDS_START",
+                    "STRUT_ANGLE_ADJUST_LOOP",
+                    "SPOILER_ROTATE_FORWARDS_STOP",
+                    "SPOILER_STRUT_RAISED",
+                    "STRUT_HEIGHT_ADJUST_LOOP"
+                ]
+            },
+            {
+                "AudioName": "spl_railgun_plyr_reloads_mono_ss",
+                "SoundIDs": [
+                    "grab2",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            }
+        ]
+    },
+    {
+        "DLC": "Further Adventures in Finance and Felony - MPEXECUTIVE",
+        "SoundSets": [
+            {
+                "AudioName": "power_play_beast_mode_player_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_bt_player_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_filter_player_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_bullshark_player_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_inverse_player_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_beast_mode_team_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_beast_mode_enemy_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_bt_team_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_bt_enemy_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_bullshark_enemy_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_filter_team_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_filter_enemy_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_inverse_team_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_inverse_enemy_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_general_soundset",
+                "SoundIDs": [
+                    "Powerup_Despawn",
+                    "WASTED",
+                    "Weapon_Respawn",
+                    "Powerup_Collect_NPC",
+                    "Powerup_Collect_Player",
+                    "Round_Start_Blade",
+                    "Powerup_Respawn",
+                    "hash_db45c5fc_viieuqp_collision"
+                ]
+            },
+            {
+                "AudioName": "power_play_hide_blips_team_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_hide_blips_player_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_hide_blips_enemy_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_thermal_enemy_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_thermal_player_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_thermal_team_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "power_play_bullshark_team_sounds",
+                "SoundIDs": [
+                    "LOOP",
+                    "START",
+                    "STOP"
+                ]
+            },
+            {
+                "AudioName": "dlc_exec_arc_mac_sounds",
+                "SoundIDs": [
+                    "hash_12a9e59a_ukodqzs_collision",
+                    "Turn",
+                    "Insert_Coin",
+                    "hash_35450207_iohiogq_collision",
+                    "Music_Win",
+                    "Degenatron_Star",
+                    "Trail_3",
+                    "Trail_1",
+                    "Ready",
+                    "Music_Game_Over",
+                    "Degenatron_Logo",
+                    "Game_Over_Blink",
+                    "321",
+                    "Turn_NPC",
+                    "Fake_Game",
+                    "Music_Stream",
+                    "Trail_4",
+                    "crash",
+                    "Trail_2",
+                    "GO",
+                    "Cancel",
+                    "hash_e5b4e644_hrzjktd_collision",
+                    "BACKGROUND",
+                    "Crash_NPC"
+                ]
+            },
+            {
+                "AudioName": "dlc_exec_salvage_sounds",
+                "SoundIDs": [
+                    "FLARE"
+                ]
+            },
+            {
+                "AudioName": "dlc_exec_aftermath_sounds",
+                "SoundIDs": [
+                    "Car_Creak",
+                    "Fly_Buzz",
+                    "Crow_Caw"
+                ]
+            },
+            {
+                "AudioName": "dlc_exec_buy_air_drop_sounds",
+                "SoundIDs": [
+                    "Flyover"
+                ]
+            },
+            {
+                "AudioName": "dlc_exec_buy_bomb_sounds",
+                "SoundIDs": [
+                    "hash_0563f83f_oeixujb_collision",
+                    "hash_97bd0b25_hbeydal_collision",
+                    "Bomb_Arm"
+                ]
+            },
+            {
+                "AudioName": "dlc_exec_crash_site_soundset",
+                "SoundIDs": [
+                    "Crashed_Plane_Ambience"
+                ]
+            },
+            {
+                "AudioName": "dlc_exec_air_drop_sounds",
+                "SoundIDs": [
+                    "Drop_Zone_Alarm",
+                    "Parachute_Land",
+                    "Drop_Package"
+                ]
+            },
+            {
+                "AudioName": "dlc_exec_fly_low_sounds",
+                "SoundIDs": [
+                    "Altitude_Warning_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_exec_jammer_sounds",
+                "SoundIDs": [
+                    "Active",
+                    "Charging",
+                    "Charge_Full",
+                    "Active_Empty"
+                ]
+            },
+            {
+                "AudioName": "dlc_exec_land_multiple_sounds",
+                "SoundIDs": [
+                    "Drop_Package"
+                ]
+            },
+            {
+                "AudioName": "dlc_exec1_buy_sell_sounds",
+                "SoundIDs": [
+                    "Delivery_Screen_Fade",
+                    "Delivery_Screen_Fade_On_Foot"
+                ]
+            },
+            {
+                "AudioName": "dlc_exec_warehouse_upgrade_bench_sounds",
+                "SoundIDs": [
+                    "Toggle",
+                    "BACK",
+                    "NAV_LEFT_RIGHT",
+                    "SELECT",
+                    "ERROR",
+                    "Purchase_Upgrade",
+                    "NAV_UP_DOWN"
+                ]
+            },
+            {
+                "AudioName": "volatus_landing_gear",
+                "SoundIDs": [
+                    "retract",
+                    "Deploy"
+                ]
+            }
+        ]
+    },
+    {
+        "DLC": "Lowriders: Custom Classics - MPLOWRIDER2",
+        "SoundSets": [
+            {
+                "AudioName": "dlc_low2_ibi_sounds",
+                "SoundIDs": [
+                    "Drop",
+                    "hash_21395bc6_dvmdmgu_collision",
+                    "hash_2169fd8b_uiewfbe_collision",
+                    "hash_4673d277_ynfwbjaa_collision",
+                    "Carrying",
+                    "hash_642a5737_ziaanfw_collision",
+                    "hash_680f26ec_mwwrbvy_collision",
+                    "SCORE",
+                    "hash_b0aed2c4_exhfmcm_collision",
+                    "match_start",
+                    "Match_End",
+                    "hash_f84a5a71_pmdorsc_collision",
+                    "COLLECT"
+                ]
+            },
+            {
+                "AudioName": "in_and_out_attacker_sounds",
+                "SoundIDs": [
+                    "Deliver",
+                    "Player_Pick_Up",
+                    "Friend_Pick_Up",
+                    "Dropped"
+                ]
+            },
+            {
+                "AudioName": "in_and_out_defender_sounds",
+                "SoundIDs": [
+                    "Enemy_Deliver",
+                    "Dropped",
+                    "Enemy_Pick_Up"
+                ]
+            },
+            {
+                "AudioName": "low2_super_mod_garage_sounds",
+                "SoundIDs": [
+                    "Faction3_Upgrade"
+                ]
+            },
+            {
+                "AudioName": "dlc_low2_sumo_soundset",
+                "SoundIDs": [
+                    "Vehicle_Destroyed",
+                    "Team_Vehicle_Destroyed",
+                    "Round_Start",
+                    "Round_End"
+                ]
+            },
+            {
+                "AudioName": "sht_db_npc_reloads_ss",
+                "SoundIDs": [
+                    "grab2",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            },
+            {
+                "AudioName": "sht_db_plyr_reloads_mono_ss",
+                "SoundIDs": [
+                    "grab2",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            }
+        ]
+    },
+    {
+        "DLC": "Freemode Events Update - MPREPLAY",
+        "SoundSets": [
+            {
+                "AudioName": "bullet_bys_soundset",
+                "SoundIDs": [
+                    "BulletByOut",
+                    "BulletByInSlowMo",
+                    "BulletByOutSlowMo",
+                    "BulletByIn",
+                    "BulletByOutSuperSlowMo",
+                    "BulletByInSuperSlowMo"
+                ]
+            },
+            {
+                "AudioName": "hud_frontend_default_soundset",
+                "SoundIDs": [
+                    "Skip",
+                    "MP_5_SECOND_TIMER",
+                    "hash_127c7398_tmdwzma_collision",
+                    "Copy",
+                    "Restart",
+                    "MP_WAVE_COMPLETE",
+                    "paste",
+                    "SLIDER_UP_DOWN",
+                    "RESUME",
+                    "SMALL_AWARD",
+                    "continue",
+                    "Quit",
+                    "MP_IDLE_KICK",
+                    "BACK",
+                    "NAV_LEFT_RIGHT",
+                    "SELECT",
+                    "CONTINUOUS_SLIDER",
+                    "PAUSE_FIRST_HALF",
+                    "TOGGLE_ON",
+                    "HORDE_COOL_DOWN_TIMER",
+                    "MP_IDLE_TIMER",
+                    "WAYPOINT_SET",
+                    "ATM_WINDOW",
+                    "Info",
+                    "WAYPOINT_MOUSE_DROP",
+                    "EXIT",
+                    "MP_RANK_UP",
+                    "ok",
+                    "RETRY",
+                    "MP_AWARD",
+                    "TIMER",
+                    "PAD_SPEAKER_BEEP",
+                    "WAYPOINT_MOUSE_CLICK",
+                    "PAUSE",
+                    "PICK_UP",
+                    "CHARACTER_SELECT",
+                    "MAP_MOVEMENT",
+                    "PAUSE_SECOND_HALF",
+                    "HIGHLIGHT_NAV_UP_DOWN",
+                    "DPAD_WEAPON_SCROLL",
+                    "Highlight",
+                    "hash_c23ba639_mxvocpaa_collision",
+                    "ERROR",
+                    "GOD_PAGE_MSG",
+                    "NAV_UP_DOWN",
+                    "Cancel",
+                    "MAP_MOVEMENT_MOUSE",
+                    "LEADER_BOARD",
+                    "YES",
+                    "map_zoom",
+                    "NO"
+                ]
+            },
+            {
+                "AudioName": "fm_events_sasquatch_sounds",
+                "SoundIDs": [
+                    "Checkpoint_Beast_Hit",
+                    "hash_1b302f3c_dvheiro_collision",
+                    "Frontend_Beast_Transform_Back",
+                    "hash_58c3c673_ohadiyd_collision",
+                    "Frontend_Beast_Text_Hit",
+                    "Frontend_Beast_Fade_Screen",
+                    "Beast_Calls",
+                    "Frontend_Beast_Frozen_Screen_Loop",
+                    "hash_9450c429_rukgqtd_collision",
+                    "Frontend_Beast_Freeze_Screen",
+                    "Radar_Beast_Blip"
+                ]
+            },
+            {
+                "AudioName": "firework_sounds",
+                "SoundIDs": [
+                    "FLIGHT",
+                    "Underwater",
+                    "sparkles"
+                ]
+            },
+            {
+                "AudioName": "homing_launcher_set",
+                "SoundIDs": [
+                    "locked_on",
+                    "aquiring_lock",
+                    "green_lock"
+                ]
+            }
+        ]
     }
 ]
