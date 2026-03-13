@@ -9088,5 +9088,1776 @@
                 ]
             }
         ]
+    },
+    {
+        "DLC": "Los Santos Tuners - MPTUNER",
+        "SoundSets": [
+            {
+                "AudioName": "dlc_tuner_car_meet_scripted_sounds",
+                "SoundIDs": [
+                    "Ped_Take_Picture"
+                ]
+            },
+            {
+                "AudioName": "tuner_safe_anim_sounds",
+                "SoundIDs": [
+                    "unlocked",
+                    "Spin_Handle",
+                    "OPEN"
+                ]
+            },
+            {
+                "AudioName": "clown",
+                "SoundIDs": [
+                    "Sprint",
+                    "Run",
+                    "JUMP_LAND",
+                    "Walk"
+                ]
+            },
+            {
+                "AudioName": "slasher",
+                "SoundIDs": [
+                    "Sprint",
+                    "Run",
+                    "JUMP_LAND",
+                    "Walk"
+                ]
+            },
+            {
+                "AudioName": "car_club_races_pursuit_series_sounds",
+                "SoundIDs": [
+                    "checkpoint",
+                    "321",
+                    "Checkpoint_Finish",
+                    "GO",
+                    "Checkpoint_Lap"
+                ]
+            },
+            {
+                "AudioName": "car_club_races_sprint_challenge_sounds",
+                "SoundIDs": [
+                    "checkpoint",
+                    "321",
+                    "Checkpoint_Finish",
+                    "GO",
+                    "Checkpoint_Lap"
+                ]
+            },
+            {
+                "AudioName": "car_club_races_street_race_sounds",
+                "SoundIDs": [
+                    "checkpoint",
+                    "321",
+                    "Checkpoint_Finish",
+                    "GO",
+                    "Checkpoint_Lap"
+                ]
+            },
+            {
+                "AudioName": "go_kart_death_match_soundset",
+                "SoundIDs": [
+                    "hash_016a2612_avnifjrw_collision",
+                    "hash_04e3152f_fopsjsq_collision",
+                    "hash_082107ef_gzpcgta_collision",
+                    "hash_092e63ad_cafrxgd_collision",
+                    "10_Secs_Countdown",
+                    "hash_13116ef7_modkfaf_collision",
+                    "Powerup_Block_Spawn",
+                    "hash_1d470814_mhjndvc_collision",
+                    "Powerup_Block_Despawn",
+                    "hash_25e81ced_mzfwwcm_collision",
+                    "hash_26e2032f_lmsxban_collision",
+                    "hash_2793c1bf_mwnjgoda_collision",
+                    "hash_3c2369b4_lfmsaez_collision",
+                    "FE_Intro_Banner",
+                    "hash_47557379_ldewrd_collision",
+                    "hash_4a61e38b_nuyoleu_collision",
+                    "hash_4b49e6dc_squawn_collision",
+                    "hash_4d65af03_gnlfytg_collision",
+                    "hash_4e1911aa_ayojnsp_collision",
+                    "hash_4f404714_gwixysf_collision",
+                    "hash_563293a1_gidczvk_collision",
+                    "hash_5928acfe_otybhtl_collision",
+                    "Fire_Powerup_Amped",
+                    "hash_5f3c55ba_zoyzosm_collision",
+                    "FE_Countdown_Go",
+                    "hash_604fb126_llyxrkd_collision",
+                    "hash_6d69b451_fyulnfa_collision",
+                    "hash_7146a6c6_qldlfew_collision",
+                    "FE_Switch_Powerup_Unavailable",
+                    "hash_78efe847_cuhnoer_collision",
+                    "PowerupShard_Disappear",
+                    "hash_7f07821d_whduucd_collision",
+                    "hash_836c0606_ufceedu_collision",
+                    "hash_84ae00d4_avafve_collision",
+                    "FE_Countdown_1",
+                    "hash_8737015d_qccnnkm_collision",
+                    "hash_898c128a_atchpmg_collision",
+                    "hash_8ac1ef53_cyhrgjf_collision",
+                    "PowerupShard_Attract_Loop",
+                    "hash_92755271_bngngozc_collision",
+                    "hash_932b65f1_coxlvvv_collision",
+                    "hash_97076697_evvlrxm_collision",
+                    "hash_9b17269d_adeqyqva_collision",
+                    "hash_a370a87e_cqwkeqk_collision",
+                    "hash_b3f412ef_zvohwau_collision",
+                    "hash_bfe1108d_ymqlrra_collision",
+                    "hash_c296fea6_bixeoun_collision",
+                    "hash_c315b291_jjnovr_collision",
+                    "20_Secs_Remaining",
+                    "hash_c8c37361_vqdbluq_collision",
+                    "hash_ca3d3838_euzcdub_collision",
+                    "hash_d08ddb32_xkylzwj_collision",
+                    "Powerup_Block_Loop",
+                    "hash_d7c709e9_foltehe_collision",
+                    "hash_da5a00aa_tkppvla_collision",
+                    "hash_dbe07a90_umenjpe_collision",
+                    "hash_dfc4bd5e_tkfjfbc_collision",
+                    "hash_e002440d_ftvqczj_collision",
+                    "FE_Countdown_2",
+                    "30_Secs_Remaining",
+                    "hash_e3faea9d_btnfgbm_collision",
+                    "hash_e442c6e2_gfgpypr_collision",
+                    "hash_e53bd106_gaumle_collision",
+                    "hash_e6bf7410_ixrumaj_collision",
+                    "hash_e8589436_jrlevsl_collision",
+                    "hash_ea0759c8_dwfgvwf_collision",
+                    "FE_Switch_Powerup",
+                    "PowerupShard_Appear",
+                    "FE_Countdown_3",
+                    "hash_ed5be908_jrdgcyh_collision",
+                    "hash_ef65be5d_rltxrvx_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_animal_sounds",
+                "SoundIDs": [
+                    "Rat_Appear",
+                    "Rat_Idle_Loop",
+                    "Rat_Die"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_bearsy_sounds",
+                "SoundIDs": [
+                    "Throw_Meat",
+                    "Throw_Meat_Impact",
+                    "Vocal_Reveal",
+                    "Vocal_Die",
+                    "Vocal_Attack",
+                    "Vocal_Pain",
+                    "Vocal_Appear",
+                    "Chainsaw_Idle_Loop",
+                    "Chainsaw_Attack",
+                    "Vocal_Hide"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_bullet_sounds",
+                "SoundIDs": [
+                    "Hit_Headshot",
+                    "Hit_Metal",
+                    "Hit_Rock",
+                    "Hit_Body",
+                    "Hit_Bearsy_Deflect",
+                    "Hit_Bearsy",
+                    "Hit_Bushes",
+                    "Hit_Player",
+                    "HIT_GENERIC"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_director_vo_sounds",
+                "SoundIDs": [
+                    "Collectable_Run_Out",
+                    "Monkey_Kill",
+                    "Award_TTK",
+                    "Collectable_Rnd_Neg",
+                    "Player_Near_Death",
+                    "Restart_Level",
+                    "Kill_Streak_Long",
+                    "Level_Start",
+                    "Quit",
+                    "Weapon_MV",
+                    "Weapon_NB",
+                    "Complete_Level",
+                    "Enemy_Kill",
+                    "Award_MSMD",
+                    "Enemy_Kill_Headshot",
+                    "CAIConditionIsGesturing",
+                    "PLAYER_DAMAGE",
+                    "Reload",
+                    "Weapon_SG",
+                    "Level_Select_Slaughterhouse",
+                    "Critter_Kill",
+                    "Award_STV",
+                    "Props_Destroyed",
+                    "Collectable_Rnd_Pos",
+                    "Level_Select_Theme_Park",
+                    "Weapon_Rnd",
+                    "Level_Select_Asylum",
+                    "Award_FOD",
+                    "Collectable_Cash",
+                    "Level_Select_Slums",
+                    "Score_Good",
+                    "Kill_Streak_Extreme",
+                    "Level_Select_Junkyard",
+                    "Collectable_Invulnerable",
+                    "First_Enemy_Appear",
+                    "Collectable_Damage",
+                    "Collectable_Tape",
+                    "Enemy_Kill_Nailgun",
+                    "Player_Death",
+                    "Get_Ready",
+                    "Score_Ok",
+                    "Award_TD",
+                    "Player_Inactive",
+                    "Bunny_Kill",
+                    "Collectable_Health",
+                    "Kill_Streak"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_sounds",
+                "SoundIDs": [
+                    "Melee_Bat_Wood_Hit",
+                    "Melee_Machete_Swing",
+                    "Melee_Bat_Metal_Swing",
+                    "Melee_Machete_Hit",
+                    "Pistol_Fire",
+                    "Melee_Crowbar_Swing",
+                    "pain",
+                    "Rifle_Aim",
+                    "Pistol_Aim",
+                    "hash_8e5a0305_yfggguo_collision",
+                    "DEATH",
+                    "Melee_Crowbar_Hit",
+                    "Melee_Bat_Wood_Swing",
+                    "ON_FIRE",
+                    "Rifle_Fire",
+                    "Melee_Bat_Metal_Hit",
+                    "Dynamite_Throw"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_e_05_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_e_04_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_e_03_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_e_02_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_e_01_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_d_05_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_d_04_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_d_03_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_d_02_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_d_01_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_c_05_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_c_04_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_c_03_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_c_02_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_c_01_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_b_05_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_b_04_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_b_03_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_b_02_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_b_01_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_a_05_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_a_04_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_a_03_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_a_02_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_enemy_speech_gang_a_01_sounds",
+                "SoundIDs": [
+                    "appear",
+                    "hurt",
+                    "Attack_Success",
+                    "Attack"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_explosion_sounds",
+                "SoundIDs": [
+                    "generic",
+                    "DYNAMITE",
+                    "MOLOTOV"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_frontend_sounds",
+                "SoundIDs": [
+                    "Rewind_Start",
+                    "Select_Stage",
+                    "rewind_loop",
+                    "rewind_stop",
+                    "Score_Letter_Select",
+                    "Rewind_Loop_Only",
+                    "hash_3a75bc20_flgnvbc_collision",
+                    "Press_Start",
+                    "Level_Background_Loop",
+                    "Shoot_Option",
+                    "Score_Letter_Change",
+                    "hash_587d0cfa_dqkekzk_collision",
+                    "Logo_Appear",
+                    "hash_62109f76_vqpwcena_collision",
+                    "Death_Screen_Continue",
+                    "hash_744551df_bhcjfit_collision",
+                    "Score_Entered",
+                    "Select_Stage_Failed",
+                    "Shoot_Miss",
+                    "Music_Transition_Glitch",
+                    "Calculate_Score_Total",
+                    "Menu_Back"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_hostage_sounds",
+                "SoundIDs": [
+                    "Monkey_Appear",
+                    "monkey_die",
+                    "hash_664c1a76_apldvvwc_collision",
+                    "Monkey_Pain",
+                    "monkey_idle_loop",
+                    "bunny_idle_loop",
+                    "Bunny_Pain",
+                    "Bunny_Die",
+                    "Bunny_Escape",
+                    "Bunny_Appear"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_pickup_sounds",
+                "SoundIDs": [
+                    "CASH",
+                    "Powerup_Loop",
+                    "tape",
+                    "smash_crate",
+                    "Health",
+                    "Powerdown_Loop",
+                    "smash_barrel",
+                    "Damage_Boost_Loop",
+                    "Invulnerable_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_player_sounds",
+                "SoundIDs": [
+                    "Pain_Near_Death",
+                    "PAIN_LOW",
+                    "DEATH",
+                    "PAIN_HIGH",
+                    "PAIN_MED"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_ch_player_weapon_sounds",
+                "SoundIDs": [
+                    "Gun_Revolver_Dry_Fire",
+                    "Thrown_Brick_Hit",
+                    "Thrown_Molotov",
+                    "Gun_Shotgun_Dry_Fire",
+                    "Gun_Assault_Rifle_Dry_Fire",
+                    "Gun_Revolver_Reload_Last",
+                    "gun_shotgun_reload_single",
+                    "Thrown_Molotov_Hit",
+                    "Gun_Nailgun_Fire",
+                    "Gun_Revolver_Reload",
+                    "Gun_Revolver_Reload_First",
+                    "Gun_Assault_Rifle_Fire",
+                    "gun_nailgun_dry_fire",
+                    "Gun_Shotgun_Fire",
+                    "Gun_Assault_Rifle_Reload",
+                    "Gun_Shotgun_Reload",
+                    "Gun_Assault_Rifle_Reload_Last",
+                    "Thrown_Nailbomb_Hit",
+                    "Gun_Revolver_Fire",
+                    "Gun_Nailgun_Reload",
+                    "gun_shotgun_reload_double",
+                    "Thrown_Brick",
+                    "Thrown_Nailbomb"
+                ]
+            },
+            {
+                "AudioName": "dlc_sum20_am_cabinet_attract_sounds",
+                "SoundIDs": [
+                    "qub3d",
+                    "qub3d_playing",
+                    "axe_of_fury"
+                ]
+            },
+            {
+                "AudioName": "sum20_am_axe_of_fury_sounds",
+                "SoundIDs": [
+                    "HIT",
+                    "Result_05",
+                    "Stage_01",
+                    "Stage_00",
+                    "Result_04",
+                    "Bar_Drop",
+                    "Hit_02",
+                    "Result_02",
+                    "START_GAME",
+                    "Stage_05",
+                    "Hit_01",
+                    "Stage_04",
+                    "Button_Mash_Hit",
+                    "Stage_03",
+                    "Stage_02",
+                    "SWING",
+                    "Result_01",
+                    "Start_Mashing",
+                    "Result_00",
+                    "Power_Level_Loop",
+                    "Stage_07",
+                    "End_Game",
+                    "Stage_06",
+                    "Result_03",
+                    "Hit_00"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_am_cabinet_attract_sounds",
+                "SoundIDs": [
+                    "camhedz_playing",
+                    "camhedz"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_car_meet_test_area_sounds",
+                "SoundIDs": [
+                    "Gates",
+                    "hash_b50fd955_aevhstjy_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_car_meet_test_area_events_sounds",
+                "SoundIDs": [
+                    "checkpoint",
+                    "Checkpoint_Finish_Winner",
+                    "321",
+                    "Checkpoint_Finish",
+                    "GO",
+                    "Checkpoint_Lap"
+                ]
+            },
+            {
+                "AudioName": "tuner_hidden_collectibles_md_sounds",
+                "SoundIDs": [
+                    "Metal_Detector_Unequip",
+                    "Metal_Detector_Scanner",
+                    "Metal_Detector_equip",
+                    "Metal_Detector_Unlocked_Shard"
+                ]
+            },
+            {
+                "AudioName": "tuner_collectables_general_sounds",
+                "SoundIDs": [
+                    "Audio_Player_Shard_Final",
+                    "Buried_Stash_Shard",
+                    "Shipwreck_Attract",
+                    "Audio_Player_Shard",
+                    "generic_shard",
+                    "Shipwreck_Shard"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_halloween_clown_soundset",
+                "SoundIDs": [
+                    "Despawn_FE",
+                    "hash_3fae1246_abngenbs_collision",
+                    "Ingame_Spawn",
+                    "hash_c2f898dd_huzaqux_collision",
+                    "Despawn_Ingame",
+                    "FE_Spawn",
+                    "Character_Loop",
+                    "Honk_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_halloween_driver_soundset",
+                "SoundIDs": [
+                    "Despawn_FE",
+                    "Ingame_Spawn",
+                    "Despawn_Ingame",
+                    "FE_Spawn",
+                    "Character_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_halloween_phantom_car_sounds",
+                "SoundIDs": [
+                    "Despawn_In_Game",
+                    "Horn_Loop",
+                    "Flames_Loop",
+                    "Spawn_In_Game",
+                    "Spawn_FE"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_halloween_psycho_soundset",
+                "SoundIDs": [
+                    "Despawn_FE",
+                    "Ingame_Spawn",
+                    "Despawn_Ingame",
+                    "FE_Spawn",
+                    "Character_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_halloween_slasher_soundset",
+                "SoundIDs": [
+                    "Despawn_FE",
+                    "hash_3fae1246_abngenbs_collision",
+                    "Ingame_Spawn",
+                    "hash_c2f898dd_huzaqux_collision",
+                    "Despawn_Ingame",
+                    "FE_Spawn",
+                    "Character_Loop"
+                ]
+            },
+            {
+                "AudioName": "methamphetamine_job_sounds",
+                "SoundIDs": [
+                    "Countdown0",
+                    "Internal_Explosion",
+                    "Countdown30to5",
+                    "Countdown5to1",
+                    "External_Explosion"
+                ]
+            },
+            {
+                "AudioName": "meth_lab_location_sounds",
+                "SoundIDs": [
+                    "Collect_Document"
+                ]
+            },
+            {
+                "AudioName": "military_convoy_hijack_sounds",
+                "SoundIDs": [
+                    "HACK",
+                    "Door_Closed",
+                    "Door_Opening",
+                    "Door_Closing",
+                    "door_opened"
+                ]
+            },
+            {
+                "AudioName": "prep_computer_virus_sounds",
+                "SoundIDs": [
+                    "SHOWER"
+                ]
+            },
+            {
+                "AudioName": "prep_elevator_pass_sounds",
+                "SoundIDs": [
+                    "Collect_Pass"
+                ]
+            },
+            {
+                "AudioName": "prep_inside_man_sounds",
+                "SoundIDs": [
+                    "HIT"
+                ]
+            },
+            {
+                "AudioName": "prep_signal_jammers_sounds",
+                "SoundIDs": [
+                    "Attach"
+                ]
+            },
+            {
+                "AudioName": "union_depository_elevator_sounds",
+                "SoundIDs": [
+                    "Fake_Arrival",
+                    "Elevator_Moving",
+                    "Fake_Close",
+                    "OPENING",
+                    "Closing"
+                ]
+            },
+            {
+                "AudioName": "dlc_tuner_comet6_spoiler_sounds",
+                "SoundIDs": [
+                    "SPOILER_ROTATE_BACKWARDS_START",
+                    "SPOILER_ROTATE_BACKWARDS_STOP",
+                    "SPOILER_STRUT_LOWERED",
+                    "SPOILER_STRUT_START_LOWER",
+                    "SPOILER_STRUT_START_RAISE",
+                    "SPOILER_ROTATE_FORWARDS_START",
+                    "STRUT_ANGLE_ADJUST_LOOP",
+                    "SPOILER_ROTATE_FORWARDS_STOP",
+                    "SPOILER_STRUT_RAISED",
+                    "STRUT_HEIGHT_ADJUST_LOOP"
+                ]
+            },
+            {
+                "AudioName": "futo2_headlights_ss",
+                "SoundIDs": [
+                    "LightCover_PopDown",
+                    "LightCover_PopUp"
+                ]
+            },
+            {
+                "AudioName": "zr350_headlights_ss",
+                "SoundIDs": [
+                    "LightCover_PopDown",
+                    "LightCover_PopUp"
+                ]
+            }
+        ]
+    },
+    {
+        "DLC": "The Diamond Casino & Resort - MPVINEWOOD",
+        "SoundSets": [
+            {
+                "AudioName": "dlc_vw_casino_interior_sounds",
+                "SoundIDs": [
+                    "casino_walla"
+                ]
+            },
+            {
+                "AudioName": "dlc_vinewood_casino_penthouse_party_sounds",
+                "SoundIDs": [
+                    "Party_Walla_Stream"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_apartment_champagne_delivery_sounds",
+                "SoundIDs": [
+                    "DOOR_OPEN",
+                    "hash_0a3d42a2_qcxvns_collision",
+                    "DOOR_CLOSE",
+                    "hash_0f6bafd8_tbeuys_collision",
+                    "hash_2ac06258_dkehwwa_collision",
+                    "hash_7710a714_ahwqeifn_collision",
+                    "hash_ee1966f5_mirerkt_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_apartment_cleaning_service_sounds",
+                "SoundIDs": [
+                    "DOOR_OPEN",
+                    "DOOR_CLOSE",
+                    "hash_5bdb9b66_aofzrppy_collision",
+                    "hash_7710a714_ahwqeifn_collision",
+                    "hash_ee1966f5_mirerkt_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_apartment_telephone_sounds",
+                "SoundIDs": [
+                    "Remote_Ring",
+                    "hash_a4846232_diahmph_collision",
+                    "hash_a9e3ce05_avqvvtz_collision",
+                    "button_press"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_games_sounds",
+                "SoundIDs": [
+                    "hash_0e855412_vidnpaa_collision",
+                    "hash_26e42256_aavarlt_collision",
+                    "hash_2dcc3a1d_kluyxqv_collision",
+                    "hash_307c2f2d_hojsshh_collision",
+                    "hash_3746e242_aehsrkrz_collision",
+                    "hash_390fb287_sakhhob_collision",
+                    "hash_3d6456f9_lbtviav_collision",
+                    "hash_45b73034_ozyyage_collision",
+                    "hash_505ff4de_axdwzmkw_collision",
+                    "hash_510b9275_iabvyhea_collision",
+                    "hash_59f29274_eoulfcy_collision",
+                    "hash_5e0f7530_pzapvxw_collision",
+                    "hash_697f27a9_awmoswer_collision",
+                    "hash_6cb34874_zsihsmn_collision",
+                    "hash_788a9d52_mhqklmi_collision",
+                    "hash_88e730d1_jjsdbll_collision",
+                    "hash_8e846f4d_aacmhtxk_collision",
+                    "hash_c17e7c79_momvxcc_collision",
+                    "hash_da23d087_bxfrbbr_collision",
+                    "hash_e5cb12ab_awjslrau_collision",
+                    "hash_e6c0fe9a_crwawyda_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_valet_parking",
+                "SoundIDs": [
+                    "Door_Shut",
+                    "hash_4a4d934d_pzocvos_collision",
+                    "hash_6d07b492_mcddtao_collision",
+                    "hash_8a7102ff_gdwqvmw_collision",
+                    "hash_8d992d96_dcwuryz_collision",
+                    "hash_e77da70d_iaevxkt_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_as_sounds",
+                "SoundIDs": [
+                    "Countdown_Tick_Last",
+                    "COUNTDOWN_TICK",
+                    "Health_Pickup_Loop",
+                    "Ship_Loop",
+                    "Initial_Spawn",
+                    "Survival_Failed",
+                    "Pickup_Spawn",
+                    "Survival_Passed",
+                    "Armour_Pickup_Loop",
+                    "Round_Passed"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_koth_sounds",
+                "SoundIDs": [
+                    "Zone_Captured_Remote",
+                    "Zone_Held",
+                    "Zone_Captured",
+                    "Zone_Lost",
+                    "Zone_Contested"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_survival_sounds",
+                "SoundIDs": [
+                    "Countdown_Tick_Last",
+                    "COUNTDOWN_TICK",
+                    "Pickup_Spawn",
+                    "Survival_Passed",
+                    "Round_Passed"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_am_ip_enemy_sounds",
+                "SoundIDs": [
+                    "Enemy_Drone_Destroyed",
+                    "Enemy_Hazard_Wall_Collapse",
+                    "Enemy_Camel_Die",
+                    "Enemy_Panda_Fire",
+                    "Enemy_Panda_Spawn",
+                    "Enemy_Bear_Spawn",
+                    "Enemy_Moose_Fire",
+                    "Enemy_Moose_Die",
+                    "Enemy_Jet_Bomb_Barrel_Drop",
+                    "Enemy_Moose_Spawn",
+                    "Enemy_Drone_Fire",
+                    "Enemy_Panda_Die",
+                    "Enemy_Blaster_Fire_Hit",
+                    "Enemy_Drone_Loop",
+                    "Enemy_Jet_Flyover",
+                    "Enemy_Camel_Spawn",
+                    "Enemy_Jet_Bomb_Barrel_Explode",
+                    "Enemy_Jet_Explode",
+                    "Enemy_Bear_Die",
+                    "hash_e7c2f5a5_hahajdh_collision",
+                    "Enemy_Camel_Fire",
+                    "Enemy_Bear_Fire"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_am_ip_tank_sounds",
+                "SoundIDs": [
+                    "Tank_Weapon_Flamethrower_Fire_Loop",
+                    "tank_jump",
+                    "hash_14a42ac1_petvbda_collision",
+                    "Tank_Collision",
+                    "Tank_Weapon_Lightning_Gun_Fire_Hit",
+                    "Tank_Raise_Flag",
+                    "Tank_Weapon_Rocket_Hit",
+                    "Tank_Weapon_Change",
+                    "Tank_Critical_Damage_Loop",
+                    "Tank_Weapon_Nuke_Blast",
+                    "Tank_Weapon_Main_Cannon_Hit",
+                    "Tank_Jump_Land",
+                    "hash_92ba80cc_exrvkxz_collision",
+                    "Tank_Weapon_Flamethrower_Fire_Hit",
+                    "Tank_Destroyed",
+                    "Tank_Weapon_Main_Cannon_Fire",
+                    "Tank_Weapon_Lightning_Gun_Fire_Loop",
+                    "Tank_Weapon_Rocket_Fire",
+                    "hash_dfc211ad_sfmcdio_collision",
+                    "Tank_Turret_Move",
+                    "Tank_Engine_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_am_ip_powerup_sounds",
+                "SoundIDs": [
+                    "Powerup_Crate_Collect_Negative",
+                    "Powerup_Crate_Collect_Rockets",
+                    "Powerup_Crate_Collect_Beam",
+                    "Powerup_Crate_Collect_Other",
+                    "Powerup_Crate_Collect_Nuke",
+                    "Powerup_Crate_Collect_Shield",
+                    "hash_75188c24_qjewked_collision",
+                    "Powerup_Crate_Collect_Triple_Shot",
+                    "Powerup_Crate_Collect_Armour",
+                    "Powerup_Crate_Land",
+                    "Powerup_Crate_Parachute_Open",
+                    "Powerup_Crate_Collect_Flamethrower"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_am_ip_frontend_sounds",
+                "SoundIDs": [
+                    "Frontend_Score_Tick_Total",
+                    "Frontend_Score_Tick_Large",
+                    "Frontend_Change_Screen",
+                    "Frontend_Entered_Score",
+                    "Frontend_Player_Death",
+                    "Frontend_Retry",
+                    "Frontend_Get_Ready",
+                    "Frontend_Score_Tick_Loop_Small",
+                    "Frontend_GO",
+                    "Frontend_Change_Letter",
+                    "Frontend_Stage_Clear",
+                    "Frontend_Start",
+                    "Frontend_Player_Oil_Collect",
+                    "Frontend_Game_Over",
+                    "Frontend_Degenatron_Screen"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_am_cabinet_sounds",
+                "SoundIDs": [
+                    "hash_16d34bdc_hlugowc_collision",
+                    "Attract_Loop_TW",
+                    "Insert_Coin",
+                    "Attract_Loop_IP",
+                    "hash_7d5d1b57_tgqtuow_collision",
+                    "hash_bf349ded_tlignak_collision",
+                    "Attract_Loop_Playing_IP",
+                    "Attract_Loop_Playing_TW",
+                    "hash_d1f28464_tpsgfna_collision",
+                    "hash_e013be34_dhcyqqw_collision",
+                    "hash_f0540246_nynlrvia_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_am_tw_gang_hoods_sounds",
+                "SoundIDs": [
+                    "Pistol_Fire",
+                    "Steal_Area",
+                    "pain",
+                    "footsteps",
+                    "Lose_Game",
+                    "DEATH",
+                    "Gang_Van_Loop",
+                    "Hit_By_Car",
+                    "WIN"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_am_tw_gang_bikers_sounds",
+                "SoundIDs": [
+                    "Pistol_Fire",
+                    "Steal_Area",
+                    "pain",
+                    "footsteps",
+                    "Lose_Game",
+                    "DEATH",
+                    "Gang_Van_Loop",
+                    "Hit_By_Car",
+                    "WIN"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_am_tw_gang_yokels_sounds",
+                "SoundIDs": [
+                    "Pistol_Fire",
+                    "Steal_Area",
+                    "pain",
+                    "footsteps",
+                    "Lose_Game",
+                    "DEATH",
+                    "Gang_Van_Loop",
+                    "Hit_By_Car",
+                    "WIN"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_am_tw_gang_punks_sounds",
+                "SoundIDs": [
+                    "Pistol_Fire",
+                    "Steal_Area",
+                    "pain",
+                    "footsteps",
+                    "Lose_Game",
+                    "DEATH",
+                    "Gang_Van_Loop",
+                    "Hit_By_Car",
+                    "WIN"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_am_tw_frontend_sounds",
+                "SoundIDs": [
+                    "Frontend_Change_Screen",
+                    "Frontend_Entered_Score",
+                    "Frontend_Player_Loses_Lead",
+                    "Frontend_Player_Takes_Lead",
+                    "Frontend_3_2_1",
+                    "Frontend_Retry",
+                    "Frontend_GO",
+                    "Frontend_Change_Letter",
+                    "Frontend_Text_Appear_Generic",
+                    "Frontend_Countdown_10s",
+                    "Frontend_Unready",
+                    "Frontend_Ready",
+                    "Frontend_Player_No_Territory_Loop",
+                    "Frontend_Wasted",
+                    "Frontend_Degenatron_Screen",
+                    "Frontend_Start_Game"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_am_tw_global_sounds",
+                "SoundIDs": [
+                    "Fire_Truck_Warning",
+                    "Assault_Rifle_Fire",
+                    "Tank_Warning",
+                    "Police_Car_Warning",
+                    "Rocket_Explode",
+                    "Pickup_Health",
+                    "Ice_Cream_Van_Loop",
+                    "Pickup_Collect_Weapon",
+                    "Death_Bleeps",
+                    "Rocket_Fire",
+                    "Shotgun_Fire",
+                    "ambience",
+                    "Emergency_Siren_Loop",
+                    "Pickup_Collect_Transport",
+                    "ambulance_warning",
+                    "Machine_Pistol_Fire",
+                    "Death_Dead",
+                    "Pickup_Speed",
+                    "Gang_Van_Warning",
+                    "OUT_OF_AMMO",
+                    "Pickup_Spawn",
+                    "Death_Resurrect",
+                    "Tank_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_inside_track_betting_main_event_sounds",
+                "SoundIDs": [
+                    "amb_loop",
+                    "race_finish",
+                    "race_loop",
+                    "RACE_WINNER",
+                    "RACE_START"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_inside_track_betting_single_event_sounds",
+                "SoundIDs": [
+                    "hash_1c75875d_hovrhps_collision",
+                    "race_finish",
+                    "race_loop",
+                    "hash_7c20c7c7_jnyytte_collision",
+                    "hash_88230686_phemnqe_collision",
+                    "hash_bf6b435b_ldbndpe_collision",
+                    "RACE_START"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_player_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_npc_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_ak_player_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_ak_npc_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_ds_npc_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_ds_player_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_fs_player_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_fs_npc_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_hz_npc_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_hz_player_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_ir_npc_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_ir_player_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_rsr_npc_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_rsr_player_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_td_player_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_td_npc_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_lucky_wheel_sounds",
+                "SoundIDs": [
+                    "Win_Chips",
+                    "Spin_Start",
+                    "Win_RP",
+                    "Win_Cash",
+                    "Spin_Single_Ticks",
+                    "Win_Clothes",
+                    "Win_Car",
+                    "Win_Mystery",
+                    "WIN"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_kd_npc_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_slot_machine_kd_player_sounds",
+                "SoundIDs": [
+                    "PLACE_BET",
+                    "small_win",
+                    "place_max_bet",
+                    "Jackpot",
+                    "wheel_stop_on_prize",
+                    "welcome_stinger",
+                    "Spinning",
+                    "big_win",
+                    "start_spin",
+                    "wheel_stop_clunk",
+                    "no_win",
+                    "attract_loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_table_games_sounds",
+                "SoundIDs": [
+                    "dlc_vw_card_slide_short",
+                    "dlc_vw_card_peek_exit",
+                    "dlc_vw_dealer_touch_table_old",
+                    "dlc_vw_dealer_finger_drum_table",
+                    "dlc_vw_chip_add_to_table_sml",
+                    "dlc_vw_chip_pickup_dealer",
+                    "dlc_vw_chip_bet_lrg_single",
+                    "dlc_vw_card_peek_enter",
+                    "dlc_vw_dealer_finger_tap_table",
+                    "dlc_vw_dealer_finger_slide_table",
+                    "dlc_vw_card_deck_grab",
+                    "dlc_vw_chip_drag_pot_sml",
+                    "dlc_vw_card_slide_shorter",
+                    "dlc_vw_player_sit_leather_chair",
+                    "dlc_vw_chip_place_bet_med",
+                    "dlc_vw_dealer_palm_table_old",
+                    "dlc_vw_chip_bet_sml_single",
+                    "dlc_vw_chip_place_bet_lrg",
+                    "dlc_vw_card_deck_down",
+                    "DLC_VW_BET_50",
+                    "dlc_vw_card_look_at",
+                    "dlc_vw_chip_bet_sml_large",
+                    "hash_587d23e9_uyhkbsv_collision",
+                    "dlc_vw_chip_add_to_stack",
+                    "dlc_vw_card_slide_from_deck",
+                    "dlc_vw_chip_add_to_dealer",
+                    "hash_82eebbcf_vegxnxf_collision",
+                    "dlc_vw_chip_pickup",
+                    "dlc_vw_roulette_ball_loop",
+                    "dlc_vw_chip_drag_pot_med",
+                    "dlc_vw_card_placed_down",
+                    "dlc_vw_chip_add_to_table_lrg",
+                    "dlc_vw_chip_bet_sml_medium",
+                    "dlc_vw_chip_bet_lrg_small",
+                    "dlc_vw_chip_push_stack_short",
+                    "dlc_vw_card_retrieve_pile_drop",
+                    "dlc_vw_card_handling",
+                    "dlc_vw_chip_place_bet_sml",
+                    "dlc_vw_chip_bet_lrg_large",
+                    "dlc_vw_card_down_chute",
+                    "dlc_vw_chip_push_stack_small_short",
+                    "dlc_vw_chip_bet_sml_small",
+                    "dlc_vw_player_grab_table",
+                    "dlc_vw_chip_bet_lrg_medium",
+                    "DLC_VW_BET_100",
+                    "dlc_vw_chip_drag_pot_lrg",
+                    "dlc_vw_chip_drag_pot"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_table_games_frontend_sounds",
+                "SoundIDs": [
+                    "DLC_VW_BET_UP",
+                    "DLC_VW_ERROR_MAX",
+                    "DLC_VW_RULES",
+                    "DLC_VW_BET_MAX",
+                    "hash_70c19d7a_etmhppt_collision",
+                    "DLC_VW_WIN_CHIPS",
+                    "DLC_VW_CONTINUE",
+                    "DLC_VW_BET_HIGHLIGHT",
+                    "DLC_VW_REMOVE_BET",
+                    "DLC_VW_BET_DOWN"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_table_games_roulette_exit_sounds",
+                "SoundIDs": [
+                    "dlc_vw_roulette_exit_2",
+                    "dlc_vw_roulette_exit_14",
+                    "dlc_vw_roulette_exit_28",
+                    "dlc_vw_roulette_exit_3",
+                    "dlc_vw_roulette_exit_17",
+                    "dlc_vw_roulette_exit_35",
+                    "dlc_vw_roulette_exit_15",
+                    "dlc_vw_roulette_exit_8",
+                    "dlc_vw_roulette_exit_4",
+                    "dlc_vw_roulette_exit_32",
+                    "dlc_vw_roulette_exit_33",
+                    "dlc_vw_roulette_exit_7",
+                    "dlc_vw_roulette_exit_13",
+                    "dlc_vw_roulette_exit_30",
+                    "dlc_vw_roulette_exit_12",
+                    "dlc_vw_roulette_exit_25",
+                    "dlc_vw_roulette_exit_9",
+                    "dlc_vw_roulette_exit_11",
+                    "dlc_vw_roulette_exit_36",
+                    "dlc_vw_roulette_exit_24",
+                    "dlc_vw_roulette_exit_10",
+                    "dlc_vw_roulette_exit_37",
+                    "dlc_vw_roulette_exit_27",
+                    "dlc_vw_roulette_exit_26",
+                    "dlc_vw_roulette_exit_21",
+                    "dlc_vw_roulette_exit_34",
+                    "dlc_vw_roulette_exit_20",
+                    "dlc_vw_roulette_exit_23",
+                    "dlc_vw_roulette_exit_38",
+                    "dlc_vw_roulette_exit_22",
+                    "dlc_vw_roulette_exit_18",
+                    "dlc_vw_roulette_exit_31",
+                    "dlc_vw_roulette_exit_16",
+                    "dlc_vw_roulette_exit_5",
+                    "dlc_vw_roulette_exit_1",
+                    "dlc_vw_roulette_exit_19",
+                    "dlc_vw_roulette_exit_29",
+                    "dlc_vw_roulette_exit_6"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_hidden_collectible_sounds",
+                "SoundIDs": [
+                    "pogo_space_monkey",
+                    "alien",
+                    "space_ranger_commander",
+                    "SASQUATCH",
+                    "playing_card",
+                    "Shard",
+                    "Beast",
+                    "republican_space_ranger",
+                    "Impotent_Rage",
+                    "PRINCESS_ROBOT_BUBBLEGUM"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_body_disposal_sounds",
+                "SoundIDs": [
+                    "car_crushed",
+                    "boot_pop"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_hk_sounds",
+                "SoundIDs": [
+                    "hash_0308736c_damobwo_collision",
+                    "Brawl_Start_Oneshot",
+                    "hash_2eb4e07c_zjugwc_collision",
+                    "Brawl_Walla_Loop",
+                    "hash_66fd4b45_cnqsmen_collision",
+                    "hash_68aff21a_pmudsxg_collision",
+                    "hash_8356bd3f_addbhkrh_collision",
+                    "hash_90e6d403_dowiuhg_collision",
+                    "hash_933662b1_jrfdsmi_collision",
+                    "hash_f7bb742c_hlszutp_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_casino_finale_sounds",
+                "SoundIDs": [
+                    "Main_Alarm",
+                    "CCTV_Alarm"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_counterfeit_chips_sounds",
+                "SoundIDs": [
+                    "chips_smash",
+                    "machine_destroyed"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_heisters_sounds",
+                "SoundIDs": [
+                    "laptop_download",
+                    "Garage_Door_Unlocked",
+                    "door_unlocked"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_high_roller_tour_sounds",
+                "SoundIDs": [
+                    "CAMERA_FLASH"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_missing_delivery_sounds",
+                "SoundIDs": [
+                    "distant_gunfire"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_recover_luxury_car_sounds",
+                "SoundIDs": [
+                    "collect_keys"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_slot_machines_sounds",
+                "SoundIDs": [
+                    "Container_Attach",
+                    "container_detach"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_s_p_sounds",
+                "SoundIDs": [
+                    "Biker_v0_Stream",
+                    "Biker_v1_Stream",
+                    "Biker_v2_Stream"
+                ]
+            },
+            {
+                "AudioName": "dlc_vw_tracking_chips_sounds",
+                "SoundIDs": [
+                    "collect_chips_dropped",
+                    "collect_chips_handed"
+                ]
+            }
+        ]
+    },
+    {
+        "DLC": "Cunning Stunts - MPSTUNT",
+        "SoundSets": [
+            {
+                "AudioName": "mp_stunt_jumps_soundset",
+                "SoundIDs": [
+                    "bed_loop_car",
+                    "BAD_LAND_BIKE",
+                    "good_land_car",
+                    "bad_landing_loop",
+                    "good_land_bike",
+                    "bed_loop_bike",
+                    "good_landing_loop",
+                    "BAD_LAND_CAR"
+                ]
+            },
+            {
+                "AudioName": "dlc_stunt_race_frontend_sounds",
+                "SoundIDs": [
+                    "Countdown_1",
+                    "checkpoint",
+                    "Countdown_2",
+                    "hash_4dd0e008_ruunqe_collision",
+                    "Place_Gain",
+                    "slipstream",
+                    "Countdown_3",
+                    "Countdown_GO",
+                    "1st_Place_Gain",
+                    "Creator_Snap",
+                    "Checkpoint_Finish",
+                    "Place_Lose",
+                    "1st_Place_Lose",
+                    "Checkpoint_Lap"
+                ]
+            },
+            {
+                "AudioName": "dlc_stunt_race_alarms_soundset",
+                "SoundIDs": [
+                    "Alarm_02",
+                    "hash_41223a02_jlwbucb_collision",
+                    "hash_57e16780_ysmpetda_collision",
+                    "hash_6ac18960_dhwhuqn_collision",
+                    "Alarm_04",
+                    "hash_99fbe7d4_xyllsf_collision",
+                    "hash_9dc67349_qqfburs_collision",
+                    "alarm_00",
+                    "hash_be403434_jmjwlpca_collision",
+                    "hash_cde6d381_hbdwzgn_collision",
+                    "Alarm_03",
+                    "Alarm_01"
+                ]
+            },
+            {
+                "AudioName": "dlc_stunt_race_stinger_sounds",
+                "SoundIDs": [
+                    "GUITAR",
+                    "HORN",
+                    "ROAR",
+                    "Klaxon",
+                    "Guitar_2",
+                    "THUNDER",
+                    "Airhorn"
+                ]
+            },
+            {
+                "AudioName": "dlc_stunt_race_sounds",
+                "SoundIDs": [
+                    "Slow_Down_Remote",
+                    "Speed_Up_Player",
+                    "Slow_Down_Player",
+                    "Speed_Up_Remote"
+                ]
+            },
+            {
+                "AudioName": "tropos_headlights_ss",
+                "SoundIDs": [
+                    "LightCover_PopDown",
+                    "LightCover_PopUp"
+                ]
+            }
+        ]
     }
 ]
