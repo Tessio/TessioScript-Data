@@ -8296,7 +8296,7 @@
         ]
     },
     {
-        "DLC": "The Criminal Enterprises - MPSUM2",
+        "DLC": "Los Santos Summer Special - MPSUM",
         "SoundSets": [
             {
                 "AudioName": "sum20_am_axe_of_fury_sounds",
@@ -10856,6 +10856,323 @@
                 "SoundIDs": [
                     "LightCover_PopDown",
                     "LightCover_PopUp"
+                ]
+            }
+        ]
+    },
+    {
+        "DLC": "Festive Surprise - MPCHRISTMAS2",
+        "SoundSets": [
+            {
+                "AudioName": "spl_proxmine_sounds",
+                "SoundIDs": [
+                    "Explode",
+                    "AMBIENT",
+                    "trigger",
+                    "Attach"
+                ]
+            },
+            {
+                "AudioName": "spl_snowball_sounds",
+                "SoundIDs": [
+                    "Impact"
+                ]
+            },
+            {
+                "AudioName": "homing_launcher_set",
+                "SoundIDs": [
+                    "locked_on",
+                    "aquiring_lock",
+                    "green_lock"
+                ]
+            }
+        ]
+    },
+    {
+        "DLC": "The Criminal Enterprises - MPSUM2",
+        "SoundSets": [
+            {
+                "AudioName": "ulp_mission_going_underground_sounds",
+                "SoundIDs": [
+                    "Lights_On"
+                ]
+            },
+            {
+                "AudioName": "crime_scene_sounds",
+                "SoundIDs": [
+                    "Collect_Weapon_Component"
+                ]
+            },
+            {
+                "AudioName": "ld_organics_sounds",
+                "SoundIDs": [
+                    "COLLECT"
+                ]
+            },
+            {
+                "AudioName": "island_metal_detector",
+                "SoundIDs": [
+                    "Collect_Money",
+                    "Metal_Detector_Unequip",
+                    "View_Map",
+                    "Metal_Detector_Scanner",
+                    "Metal_Detector_equip",
+                    "hash_adfc4189_fxbenor_collision"
+                ]
+            },
+            {
+                "AudioName": "halloween_adversary_sounds",
+                "SoundIDs": [
+                    "Rider_Famine_Loop",
+                    "Rider_Pestilence_Loop",
+                    "Rider_War_Loop",
+                    "Riders_Start",
+                    "Thermal_Vision_Loop",
+                    "Hunted_Start",
+                    "Hunted_Resurrected",
+                    "Rider_Death_Loop",
+                    "hash_bcf3d65e_kqwrwmn_collision",
+                    "Match_Intro",
+                    "Round_Lost",
+                    "Round_Win",
+                    "Hunted_Heartbeat",
+                    "Rider_Die"
+                ]
+            },
+            {
+                "AudioName": "dlc_mpsum2_cerberus_sounds",
+                "SoundIDs": [
+                    "Growl_Loop"
+                ]
+            },
+            {
+                "AudioName": "freemode_mirror_slash_sounds",
+                "SoundIDs": [
+                    "FE_Despawn",
+                    "Ingame_Spawn",
+                    "FE_Spawn",
+                    "Ingame_Despawn"
+                ]
+            },
+            {
+                "AudioName": "sight_seeing_sounds",
+                "SoundIDs": [
+                    "UFO_Ambience",
+                    "abducted"
+                ]
+            },
+            {
+                "AudioName": "trick_or_treat_sounds",
+                "SoundIDs": [
+                    "Collect_Treat",
+                    "Collect_Trick"
+                ]
+            },
+            {
+                "AudioName": "dlc_mpsum2_hsw_up_sounds",
+                "SoundIDs": [
+                    "UPGRADE",
+                    "hash_858c4bb6_arjljqaa_collision",
+                    "hash_90e52be9_avtnwek_collision",
+                    "Upgrade_Backup"
+                ]
+            },
+            {
+                "AudioName": "dlc_mpsum2_passed_out_vip_snore_sounds",
+                "SoundIDs": [
+                    "Ped_Snore_Loop"
+                ]
+            },
+            {
+                "AudioName": "island_race_soundset",
+                "SoundIDs": [
+                    "checkpoint",
+                    "Countdown_321",
+                    "Countdown_GO",
+                    "Checkpoint_Finish",
+                    "Checkpoint_Lap"
+                ]
+            },
+            {
+                "AudioName": "junk_energy_skydive_soundset",
+                "SoundIDs": [
+                    "checkpoint",
+                    "JUMP",
+                    "CHECKPOINT_MISSED",
+                    "Finish_Gold",
+                    "Deploy_Parachute",
+                    "Countdown_GO",
+                    "Countdown_123",
+                    "Free_Fall_Loop",
+                    "Finish"
+                ]
+            },
+            {
+                "AudioName": "dlc_mpsum2_juggernaut_npc_sounds",
+                "SoundIDs": [
+                    "hash_5d650568_uuokyda_collision",
+                    "hash_90004355_aqlzixt_collision",
+                    "JN_Death",
+                    "JN_Death_Inactive",
+                    "JN_Bark"
+                ]
+            },
+            {
+                "AudioName": "dlc_mpsum2_juggernaut_npc_footstep_sounds",
+                "SoundIDs": [
+                    "Sprint",
+                    "Run",
+                    "JUMP_LAND",
+                    "Walk"
+                ]
+            },
+            {
+                "AudioName": "ocean_supply_drop_sounds",
+                "SoundIDs": [
+                    "Pack_Mule"
+                ]
+            },
+            {
+                "AudioName": "under_water_cargo_sounds",
+                "SoundIDs": [
+                    "Bomb_Beep"
+                ]
+            },
+            {
+                "AudioName": "dlc_mpsum2_ulp1_intelligence_sounds",
+                "SoundIDs": [
+                    "hash_aef0fb00_pdtmesga_collision"
+                ]
+            },
+            {
+                "AudioName": "dlc_mpsum2_ulp2_rogue_drones",
+                "SoundIDs": [
+                    "player_drugged_loop",
+                    "hash_3a7bbce1_rppvvxa_collision",
+                    "hash_6af31b9c_zssvkba_collision",
+                    "Bomb_Countdown_Beep",
+                    "Bomb_Detonate",
+                    "Bomb_Defuse",
+                    "Bomb_Arm"
+                ]
+            },
+            {
+                "AudioName": "dlc_mpsum2_ulp4_asset_seizure_sounds",
+                "SoundIDs": [
+                    "hash_6aed0bb7_amqpfzpr_collision",
+                    "Jammer_Destroyed"
+                ]
+            },
+            {
+                "AudioName": "dlc_mpsum2_drone_sounds",
+                "SoundIDs": [
+                    "gun_fire",
+                    "Shock_Fire",
+                    "HUD_Change_Cam",
+                    "flight_loop",
+                    "DESTROYED",
+                    "self_destruct",
+                    "BUMP",
+                    "HUD_Loop",
+                    "HUD_Zoom_Loop"
+                ]
+            },
+            {
+                "AudioName": "dlc_mpsum2_ulp5_deal_breaker_sounds",
+                "SoundIDs": [
+                    "Helicopter_Damaged"
+                ]
+            },
+            {
+                "AudioName": "dlc_sum2_omnisegt_spoiler_sounds",
+                "SoundIDs": [
+                    "SPOILER_ROTATE_BACKWARDS_START",
+                    "SPOILER_ROTATE_BACKWARDS_STOP",
+                    "SPOILER_STRUT_LOWERED",
+                    "SPOILER_STRUT_START_LOWER",
+                    "SPOILER_STRUT_START_RAISE",
+                    "SPOILER_ROTATE_FORWARDS_START",
+                    "STRUT_ANGLE_ADJUST_LOOP",
+                    "SPOILER_ROTATE_FORWARDS_STOP",
+                    "SPOILER_STRUT_RAISED",
+                    "STRUT_HEIGHT_ADJUST_LOOP"
+                ]
+            },
+            {
+                "AudioName": "dlc_sum2_tenf_spoiler_sounds",
+                "SoundIDs": [
+                    "SPOILER_ROTATE_BACKWARDS_START",
+                    "SPOILER_ROTATE_BACKWARDS_STOP",
+                    "SPOILER_STRUT_LOWERED",
+                    "SPOILER_STRUT_START_LOWER",
+                    "SPOILER_STRUT_START_RAISE",
+                    "SPOILER_ROTATE_FORWARDS_START",
+                    "STRUT_ANGLE_ADJUST_LOOP",
+                    "SPOILER_ROTATE_FORWARDS_STOP",
+                    "SPOILER_STRUT_RAISED",
+                    "STRUT_HEIGHT_ADJUST_LOOP"
+                ]
+            },
+            {
+                "AudioName": "dlc_sum2_tenf2_spoiler_sounds",
+                "SoundIDs": [
+                    "SPOILER_ROTATE_BACKWARDS_START",
+                    "SPOILER_ROTATE_BACKWARDS_STOP",
+                    "SPOILER_STRUT_LOWERED",
+                    "SPOILER_STRUT_START_LOWER",
+                    "SPOILER_STRUT_START_RAISE",
+                    "SPOILER_ROTATE_FORWARDS_START",
+                    "STRUT_ANGLE_ADJUST_LOOP",
+                    "SPOILER_ROTATE_FORWARDS_STOP",
+                    "SPOILER_STRUT_RAISED",
+                    "STRUT_HEIGHT_ADJUST_LOOP"
+                ]
+            },
+            {
+                "AudioName": "dlc_mpsum2_torero2_spoiler_sounds",
+                "SoundIDs": [
+                    "SPOILER_ROTATE_BACKWARDS_START",
+                    "SPOILER_ROTATE_BACKWARDS_STOP",
+                    "SPOILER_STRUT_LOWERED",
+                    "SPOILER_STRUT_START_LOWER",
+                    "SPOILER_STRUT_START_RAISE",
+                    "SPOILER_ROTATE_FORWARDS_START",
+                    "STRUT_ANGLE_ADJUST_LOOP",
+                    "SPOILER_ROTATE_FORWARDS_STOP",
+                    "SPOILER_STRUT_RAISED",
+                    "STRUT_HEIGHT_ADJUST_LOOP"
+                ]
+            },
+            {
+                "AudioName": "torero2_headlights_ss",
+                "SoundIDs": [
+                    "LightCover_PopDown",
+                    "LightCover_PopUp"
+                ]
+            },
+            {
+                "AudioName": "snp_precision_rifle_plyr_reloads_mono_ss",
+                "SoundIDs": [
+                    "grab2",
+                    "chamber1",
+                    "clipout",
+                    "grab1",
+                    "chamber2",
+                    "chamber3",
+                    "grab3",
+                    "reload3",
+                    "reload2",
+                    "clipin",
+                    "reload1"
+                ]
+            },
+            {
+                "AudioName": "dlc_aw_vehicle_mine_sounds",
+                "SoundIDs": [
+                    "Explode",
+                    "AMBIENT",
+                    "trigger",
+                    "Deploy"
                 ]
             }
         ]
