@@ -9,6 +9,7 @@
     "self_wanted": "Wanted",
     "self_special_mp_enable": "Enable in MP",
     "self_special_mp_select": "##specialselect",
+    "self_god_mode": "God Mode",
 
     "_comment_settings": "==================== SETTINGS SUBMENU ====================",
     "settings_submenu": "Settings",
