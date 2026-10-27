@@ -1697,6 +1697,8 @@
   "ts_recovery_free_change_appearance_desc": "Cambia gratuitamente la apariencia de tu personaje.",
   "ts_recovery_no_change_appearance_cooldown": "Cambio de Apariencia sin Cooldown",
   "ts_recovery_no_change_appearance_cooldown_desc": "Elimina el tiempo de espera para el cambio de apariencia.",
+  "ts_recovery_free_shopping": "Comprar Todo Gratis.",
+  "ts_recovery_free_shopping_desc": "Compra todo gratis dentro del juego, vehiculos, ropa, armas, negocios, etc.",
 
   "_comment_recovery_bunker": "==================== BUNKER SUBCATEGORY ====================",
   "ts_rv_bunker": "Bunker",
